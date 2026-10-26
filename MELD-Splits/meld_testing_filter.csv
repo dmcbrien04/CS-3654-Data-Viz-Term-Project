@@ -1,0 +1,2285 @@
+Emotion,Utterance,Speaker,Dialogue_ID,Utterance_ID,filename
+surprise,Why do all youre coffee mugs have numbers on the bottom?,Mark,0,0,dia0_utt0.mp4
+anger,"Oh. Thats so Monica can keep track. That way if one on them is missing, she can be like, Wheres number 27?!",Rachel,0,1,dia0_utt1.mp4
+neutral,Y'know what?,Rachel,0,2,dia0_utt2.mp4
+neutral,"Come on, Lydia, you can do it.",Joey,1,0,dia1_utt0.mp4
+joy,Push!,Joey,1,1,dia1_utt1.mp4
+joy,"Push 'em out, push 'em out, harder, harder.",Joey,1,2,dia1_utt2.mp4
+joy,"Push 'em out, push 'em out, way out!",Joey,1,3,dia1_utt3.mp4
+joy,"Let's get that ball and really move, hey, hey, ho, ho.",Joey,1,4,dia1_utt4.mp4
+joy,"Let's  I was justyeah, right.",Joey,1,5,dia1_utt5.mp4
+joy,Push!,Joey,1,6,dia1_utt6.mp4
+joy,Push!,Joey,1,7,dia1_utt7.mp4
+neutral,Okay.,Ross,2,0,dia2_utt0.mp4
+neutral,"Ross, didn't you say that there was an elevator in here?",Rachel,2,1,dia2_utt1.mp4
+surprise,"Okay, go left. Left! Left!",Ross,2,3,dia2_utt3.mp4
+anger,"Okay, y'know what? There is no more left, left!",Rachel,2,4,dia2_utt4.mp4
+anger,"Oh okay, lift it straight up over your head!",Ross,2,5,dia2_utt5.mp4
+anger,Straight up over your head!,Ross,2,6,dia2_utt6.mp4
+joy,You can do it!,Ross,2,7,dia2_utt7.mp4
+joy,You can do it!,Ross,2,8,dia2_utt8.mp4
+neutral,Okay.,Ross,2,9,dia2_utt9.mp4
+neutral,You got it?,Ross,2,10,dia2_utt10.mp4
+neutral,"Oh, okay, I get it.",Steve,3,0,dia3_utt0.mp4
+neutral,Howard's the,Steve,3,2,dia3_utt2.mp4
+neutral,"Yes but too me he's just, man.",Ross,3,3,dia3_utt3.mp4
+anger,"Okay, fine, whatever. Welcome to the building.",Steve,3,4,dia3_utt4.mp4
+neutral,Yeah. I really like his glasses.,Phoebe,3,6,dia3_utt6.mp4
+surprise,Ohh!,Phoebe,4,0,dia4_utt0.mp4
+neutral,What?,Monica,4,1,dia4_utt1.mp4
+surprise,It kicked! I think the baby kicked!,Phoebe,4,2,dia4_utt2.mp4
+surprise,Oh my God!,Monica,4,3,dia4_utt3.mp4
+neutral,"Oh no wait, oh no, the elastic on my underwear busted.",Phoebe,4,4,dia4_utt4.mp4
+anger,"Look, I know I feel asleep before I could shower and now I dont have time!",Joey,4,7,dia4_utt7.mp4
+neutral,"Theyre just ten blocks away, if I run, I can make it.",Joey,4,8,dia4_utt8.mp4
+anger,Youre coming on to the entire room!  Im Chandler.,Chandler,5,0,dia5_utt0.mp4
+neutral,Hi.,Chandler,5,1,dia5_utt1.mp4
+neutral,Hi.,Marjorie,5,2,dia5_utt2.mp4
+neutral,You mind if I,Chandler,5,3,dia5_utt3.mp4
+neutral,"No, please.",Marjorie,5,4,dia5_utt4.mp4
+neutral,"So uh, what are you in for?",Chandler,5,5,dia5_utt5.mp4
+neutral,I talk in my sleep.,Marjorie,5,6,dia5_utt6.mp4
+neutral,"What a coincidence, I listen in my sleep.",Chandler,5,7,dia5_utt7.mp4
+neutral,So why dont you give me your number?,Joey,5,8,dia5_utt8.mp4
+neutral,Previously on Friends.,Joey,6,0,dia6_utt0.mp4
+neutral,I dont know exactly. Its-its sorta like wrestling.,Monica,6,1,dia6_utt1.mp4
+surprise,Oh?!,Phoebe,6,2,dia6_utt2.mp4
+neutral,"Yeah, but without the costumes.",Monica,7,0,dia7_utt0.mp4
+neutral,Oh.,Phoebe,7,1,dia7_utt1.mp4
+neutral,"And its not fake, its totally brutal.",Joey,7,2,dia7_utt2.mp4
+neutral,"Yeah, its two guys in a ring, and the rules are: Theyre",Chandler,7,3,dia7_utt3.mp4
+surprise,"So you can like, bite, and pull peoples hair and stuff?",Monica,7,4,dia7_utt4.mp4
+neutral,"Yeah, anything goes, except ah, eye gouging and fish hooking.",Ross,7,5,dia7_utt5.mp4
+surprise,Whats fish hooking?,Monica,7,6,dia7_utt6.mp4
+neutral,"Huh, whats fish hooking...   Thanks man, that would have been really hard to describe. What is that taste?",Ross,7,7,dia7_utt7.mp4
+neutral,"What? My hands are totally clean, I just gave the duck a bath.",Joey,7,8,dia7_utt8.mp4
+joy,"Well, that makes me feel so good.",Chandler,8,1,dia8_utt1.mp4
+neutral,It was just so awkward and bumpy.,Jade,8,2,dia8_utt2.mp4
+surprise,Bumpy?,Ross,8,3,dia8_utt3.mp4
+neutral,"Well, maybe he had some kind of uh, new, cool style, that you're not familiar with.",Chandler,8,4,dia8_utt4.mp4
+neutral,And uh maybe you have to get used to it.,Chandler,8,5,dia8_utt5.mp4
+joy,"Well there really wasn't much time to get used to it, you know what I mean?",Jade,8,6,dia8_utt6.mp4
+neutral,"Oh well, its not so bad.",Monica,9,1,dia9_utt1.mp4
+surprise,Oh!,Phoebe,9,3,dia9_utt3.mp4
+surprise,My God!,Rachel,9,4,dia9_utt4.mp4
+neutral,"Hey buddy, do you think I can borrow your uniform this Thursday?",Joey,9,5,dia9_utt5.mp4
+surprise,Excuse me?,Fireman #1,9,6,dia9_utt6.mp4
+anger,Joey! Hes working!  You would look,Monica,9,7,dia9_utt7.mp4
+neutral,Hows your room Rach?,Chandler,9,10,dia9_utt10.mp4
+neutral,Isnt that mine?,Monica,9,12,dia9_utt12.mp4
+anger,Fine! Im sorry for your loss!,Rachel,9,13,dia9_utt13.mp4
+neutral,"So uh, youre not gonna be able to live here for a while, you ladies have a place to stay?",Fireman #1,9,14,dia9_utt14.mp4
+joy,"Wow! Oh-okay, look pal, I am",Rachel,9,15,dia9_utt15.mp4
+neutral,"Yes, they can stay with us.",Monica,9,16,dia9_utt16.mp4
+neutral,Have you figured out what started the fire Mr. Fireman?,Chandler,9,17,dia9_utt17.mp4
+anger,Theres just so much pressure.,Joey,10,0,dia10_utt0.mp4
+neutral,"I mean no offense, but what you guys do is very different.",Joey,10,1,dia10_utt1.mp4
+neutral,I dont know if youd understand.,Joey,10,2,dia10_utt2.mp4
+neutral,"Yeah, none of us have to deal with pressure at our jobs.",Ross,10,3,dia10_utt3.mp4
+neutral,So Im gonna go through the hotel and see if theres any other weddings going on.,Rachel,11,2,dia11_utt2.mp4
+neutral,Okay. Oh but dont tell them Monicas pregnant because they frown on that.,Phoebe,11,3,dia11_utt3.mp4
+neutral,Okay.,Rachel,11,4,dia11_utt4.mp4
+anger,"Whats all this about you guys fighting?! Is this really over a room?! I mean, that is so silly!",Ross,12,0,dia12_utt0.mp4
+neutral,"Ross, we can handle this.",Monica,12,1,dia12_utt1.mp4
+anger,"I mean, enough of the silliness!",Ross,12,3,dia12_utt3.mp4
+anger,"Well, why dont you tell her to stop being silly!",Chandler,12,4,dia12_utt4.mp4
+anger,Okay-okay!,Ross,12,5,dia12_utt5.mp4
+joy,That is so silly.,Ross,12,8,dia12_utt8.mp4
+neutral,"Now wh-what is more important, love or silliness?",Ross,12,9,dia12_utt9.mp4
+neutral,"Well, we are fond of the silliness, but we also have a soft spot for the love.",Chandler,12,10,dia12_utt10.mp4
+joy,Love is the best medicine.,Monica,12,11,dia12_utt11.mp4
+joy,Thats laughter.,Chandler,12,12,dia12_utt12.mp4
+neutral,Why do you do it?,Monica,12,13,dia12_utt13.mp4
+neutral,I dont know.,Chandler,12,14,dia12_utt14.mp4
+neutral,"Okay! All right! Now, Chandler you-you wanna live with Monica, right?",Ross,12,15,dia12_utt15.mp4
+neutral,"Yeah, I do.",Chandler,12,16,dia12_utt16.mp4
+neutral,"And Mon, you wanna live with Chandler, dont ya?",Ross,12,17,dia12_utt17.mp4
+neutral,Yes.,Monica,12,18,dia12_utt18.mp4
+joy,Good! A verbal contract is binding in the state of New York!,Ross,12,19,dia12_utt19.mp4
+neutral,Oh.,Roger,13,0,dia13_utt0.mp4
+neutral,"But I don't. Me, Phoebe.",Phoebe,13,1,dia13_utt1.mp4
+neutral,"Well, I'm not I'm not at all surprised they feel that way.",Roger,13,2,dia13_utt2.mp4
+surprise,"You're not? See, that's why you're so great!",Phoebe,13,3,dia13_utt3.mp4
+neutral,"Actually it's, it's quite, y'know, typical behaviour when you have this kind of dysfunctional group dynamic.",Roger,13,4,dia13_utt4.mp4
+anger,"Y'know, this kind of co-dependant, emotionally stunted, sitting in your stupid coffee house with your stupid big cups which, I'm sorry, might as well have nipples on them, and you're like all 'Oh, define me!",Roger,13,5,dia13_utt5.mp4
+anger,Define me!,Roger,13,6,dia13_utt6.mp4
+anger,"Love me, I need love!",Roger,13,7,dia13_utt7.mp4
+surprise,Have you really done this before?,Phoebe,14,0,dia14_utt0.mp4
+joy,Yeah!,Joey,14,1,dia14_utt1.mp4
+joy,Yeah!,Joey,14,2,dia14_utt2.mp4
+joy,Yeah!,Joey,14,3,dia14_utt3.mp4
+neutral,"You just take a big, big swing.",Joey,14,4,dia14_utt4.mp4
+neutral,"Now, dont hold back.",Joey,14,5,dia14_utt5.mp4
+joy,Hey!,Phoebe,14,6,dia14_utt6.mp4
+joy,Hey-hey-hey!,Joey,14,7,dia14_utt7.mp4
+neutral,What are you doing?,Chandler,14,8,dia14_utt8.mp4
+joy,Were just celebrating that Joey got his health insurance back.,Phoebe,14,9,dia14_utt9.mp4
+neutral,"Oh, all right.",Chandler,14,10,dia14_utt10.mp4
+joy,"Yeah! Sure! Yep!  Oh, y'know what? If I heard a shot right now, I'd throw my body on you.",Phoebe,15,0,dia15_utt0.mp4
+joy,Oh yeah? Well maybe you and I should take a walk through a bad neighborhood.,Gary,15,1,dia15_utt1.mp4
+joy,Okay!,Phoebe,15,2,dia15_utt2.mp4
+neutral,Bye!,Phoebe,15,3,dia15_utt3.mp4
+neutral,Bye!,Joey,15,4,dia15_utt4.mp4
+anger,Cut it out Ross! I hate to have to save your life and kick your ass in the same day!,Joey,15,5,dia15_utt5.mp4
+neutral,"Hey, Joey, could you pass the cheese?",Monica,16,0,dia16_utt0.mp4
+neutral,"Listen uh, Id prefer it if you didnt call me Joey.",Joey,16,1,dia16_utt1.mp4
+neutral,"Since I dont know anyone here, I thought itd be cool to try out a cool work nickname.",Joey,16,2,dia16_utt2.mp4
+neutral,"Hey, dragon! Heres your tips from Monday and Tuesday.",A Waiter,16,3,dia16_utt3.mp4
+surprise,Theres like-theres like 300 bucks in this one!,Joey,16,4,dia16_utt4.mp4
+neutral,"Yeah, people get pretty generous around the holidays. And it never hurts to wear tight trousers.",The Waiter,16,5,dia16_utt5.mp4
+neutral,Could the waiters gather around to hear tonights specials?,Monica,16,6,dia16_utt6.mp4
+neutral,"Okay, first there is a Chilean Sea Bass prepared with a Mango relish on a bagWhy is nobody writing these down?",Monica,16,7,dia16_utt7.mp4
+neutral,Because we can remember them.,The Waiter,16,8,dia16_utt8.mp4
+anger,Because your all gonna make up fake specials and make me cook them like you did the other night?,Monica,16,9,dia16_utt9.mp4
+neutral,Hey. When you guys were kids and you played,Ross,17,0,dia17_utt0.mp4
+neutral,I was always Joanne.,Monica,17,1,dia17_utt1.mp4
+neutral,"Question. Was ah, Egg the Gellers! the war cry of your neighbourhood?",Joey,17,2,dia17_utt2.mp4
+joy,"Wait! Wait! I wanna see this. After I divorce him, half of that kingdom is gonna be mine.",Janice,17,5,dia17_utt5.mp4
+anger,What a wank!,Chandler,17,6,dia17_utt6.mp4
+anger,"Oh, I cannot believe hes using our divorce to sell mattresses.",Janice,17,7,dia17_utt7.mp4
+anger,I know!,Monica,17,8,dia17_utt8.mp4
+anger,"And four ninety-nine for a pillow top queen set, who cares about the divorce, those babies will sell themselves.",Monica,17,9,dia17_utt9.mp4
+anger,And Im appalled for you by the way.,Monica,17,10,dia17_utt10.mp4
+anger,"Ross, tonight was about the two of you getting along.  Oh, would you just see my chiropractor, already.",Rachel,17,13,dia17_utt13.mp4
+neutral,"Hey Pheebs, what are you doing?",Ross,17,15,dia17_utt15.mp4
+neutral,"All right, I havent lived here in a while, so I have to ask you something.",Phoebe,17,18,dia17_utt18.mp4
+neutral,Does Monica still turn on the lights in her bedroom?,Phoebe,17,19,dia17_utt19.mp4
+neutral,Um. yeah.,Rachel,17,20,dia17_utt20.mp4
+neutral,I am,Phoebe,17,21,dia17_utt21.mp4
+neutral,"All right, look, heres the bottom line Ross, this is fixable, if we act fast, okay.",Rachel,17,22,dia17_utt22.mp4
+neutral,"So, Ill invite him to brunch tomorrow and you can make nice.",Rachel,17,23,dia17_utt23.mp4
+anger,"Look, honey, I have tried to make nice, it doesnt work.",Ross,17,24,dia17_utt24.mp4
+neutral,"Okay, look, Ross, I realise that my Father is difficult, but thats why you have got to be the bigger man here.",Rachel,17,25,dia17_utt25.mp4
+anger,"Look sweetie, I could be the bigger man, I could be the biggest man, I could be a big, huge, giant man, and it still wouldnt make any difference, except that I could pick your Father up and say Like me!",Ross,17,26,dia17_utt26.mp4
+anger,Like me tiny doctor!,Ross,17,27,dia17_utt27.mp4
+anger,"Rachel one brunch is not gonna solve anything. You gotta face it, okay were never gonna get along.",Ross,17,29,dia17_utt29.mp4
+anger,"Okay, well you are just gonna have too, okay.",Rachel,17,30,dia17_utt30.mp4
+anger,"Because I already got a Mother and a Father who cannot stay in the same room together, okay, I dont wanna have to have a separate room for you too!",Rachel,17,31,dia17_utt31.mp4
+neutral,"Okay, okay, okay.  Ill get the bagels.",Ross,17,32,dia17_utt32.mp4
+neutral,"Okay now Joey, y'know that since you're returning all of this stuff right after the audition you're gonna have to wear underwear?",Rachel,18,0,dia18_utt0.mp4
+neutral,"All right, then you'd better show me some of that too then.",Joey,18,1,dia18_utt1.mp4
+neutral,"Okay, it's missing something. Ooh, I know! Umm, okay.",Rachel,18,2,dia18_utt2.mp4
+surprise,Really? A purse?,Joey,19,0,dia19_utt0.mp4
+anger,It's not a purse! It's a shoulder bag.,Rachel,20,0,dia20_utt0.mp4
+neutral,It looks like a women's purse.,Joey,20,1,dia20_utt1.mp4
+neutral,"No Joey, look. Trust me, all the men are wearing them in the spring catalog. Look.  See look,",Rachel,20,2,dia20_utt2.mp4
+neutral,"See look,",Joey,20,3,dia20_utt3.mp4
+neutral,Exactly! Unisex!,Rachel,20,4,dia20_utt4.mp4
+neutral,Maybe you need sex.,Joey,20,5,dia20_utt5.mp4
+joy,No! No Joey! U-N-I-sex.,Rachel,20,6,dia20_utt6.mp4
+neutral,"Well, I ain't gonna say no to that.",Joey,20,7,dia20_utt7.mp4
+neutral,"So, um, have you told your parents?",Phoebe,21,0,dia21_utt0.mp4
+neutral,"No, but it'll be OK, they're pretty cool, my brother's straight so. . .",Duncan,21,1,dia21_utt1.mp4
+neutral,Here you go.,Phoebe,21,2,dia21_utt2.mp4
+neutral,"You know what, I just have one more question, um, if you had figured this out sooner and um, I had been around, do you think that I would have been the one who.",Phoebe,21,3,dia21_utt3.mp4
+joy,I love you Phoebe.,Duncan,21,5,dia21_utt5.mp4
+surprise,So your brother's straigh huh? Seriously.,Phoebe,21,6,dia21_utt6.mp4
+joy,Hey!,Chandler,22,0,dia22_utt0.mp4
+neutral,Hi.,Monica,22,1,dia22_utt1.mp4
+neutral,"I just came over to drop offnothing. So that weekend kinda sucked, huh?",Chandler,22,2,dia22_utt2.mp4
+joy,"Yeah, it did.",Monica,22,3,dia22_utt3.mp4
+neutral,What?,Monica,22,5,dia22_utt5.mp4
+surprise,"Why, exactly?",Monica,22,7,dia22_utt7.mp4
+surprise,Chandler that's crazy!,Monica,22,9,dia22_utt9.mp4
+anger,If you give up every time you'd have a fight with someone you'd never be with anyone longer thanOhhh!,Monica,22,10,dia22_utt10.mp4
+neutral,"So, this isn't over?",Chandler,22,11,dia22_utt11.mp4
+joy,You are so cute!,Monica,22,12,dia22_utt12.mp4
+joy,No.,Monica,22,13,dia22_utt13.mp4
+neutral,"No, it was a fight.",Monica,22,14,dia22_utt14.mp4
+joy,You deal with it and move on!,Monica,22,15,dia22_utt15.mp4
+neutral,It's nothing to freak out about.,Monica,22,16,dia22_utt16.mp4
+joy,Really? Okay. Great!,Chandler,22,17,dia22_utt17.mp4
+joy,"Ohh, welcome to an adult relationship!",Monica,22,18,dia22_utt18.mp4
+surprise,We're in a relationship?,Chandler,22,19,dia22_utt19.mp4
+neutral,I'm afraid so.,Monica,22,20,dia22_utt20.mp4
+neutral,Okay.,Chandler,22,21,dia22_utt21.mp4
+joy,Hi!,Rachel,23,0,dia23_utt0.mp4
+neutral,So you like the short hair better.,Danny,23,1,dia23_utt1.mp4
+neutral,What? YetiI mean Danny?,Rachel,23,2,dia23_utt2.mp4
+neutral,Can I tell you a little secret?,Phoebe,24,0,dia24_utt0.mp4
+joy,Yeah!,Rachel,24,1,dia24_utt1.mp4
+neutral,I want to keep one.,Phoebe,24,2,dia24_utt2.mp4
+joy,"Ohh, I'm gonna be on the news!",Rachel,24,3,dia24_utt3.mp4
+neutral,What? Honey.,Monica,25,0,dia25_utt0.mp4
+neutral,"Oh, I am, my side still hurts from when you crashed into me yesterday.",Rachel,25,1,dia25_utt1.mp4
+neutral,I know.,Rachel,25,3,dia25_utt3.mp4
+anger,Ow!!,Rachel,25,4,dia25_utt4.mp4
+surprise,Oh God!,Monica,25,5,dia25_utt5.mp4
+joy,"Hey, you guys! Guess what?",Ross,25,6,dia25_utt6.mp4
+neutral,Got a job on a river boat?,Rachel,25,7,dia25_utt7.mp4
+anger,"Y'know what I didnt wear this suit for a year because you hated it. Well, guess what? Youre not my girlfriend anymore so...",Ross,25,8,dia25_utt8.mp4
+neutral,"Oh I see, so this suit is making a point.",Rachel,25,9,dia25_utt9.mp4
+anger,"Now that youre on youre own, youre free to look as stupid as you like.",Rachel,25,10,dia25_utt10.mp4
+neutral,You like it right?,Ross,25,11,dia25_utt11.mp4
+neutral,Oh absolutely. I like it even more on you than I did on Colonel Sanders.  Ross! Ross! Im kidding!,Monica,25,12,dia25_utt12.mp4
+neutral,"Yeah, come here!",Rachel,25,13,dia25_utt13.mp4
+neutral,What-what was it you were gonna tell us?,Monica,25,14,dia25_utt14.mp4
+neutral,Yeah. Oh! Was how you invented the cotton gin?!,Rachel,25,15,dia25_utt15.mp4
+anger,"Okay, good bye!",Ross,25,16,dia25_utt16.mp4
+joy,Hey I got one! I got one!,Joey,26,0,dia26_utt0.mp4
+joy,Hi!,Man,27,0,dia27_utt0.mp4
+neutral,Hi.,Phoebe,27,1,dia27_utt1.mp4
+neutral,"Oh uh, up or down?",Man,28,0,dia28_utt0.mp4
+joy,Oh down please.  I-I hate to be a ball buster can I just do it?,Phoebe,28,1,dia28_utt1.mp4
+neutral,Could you press up too please?,Man,28,2,dia28_utt2.mp4
+neutral,Oh yeah? Howd yours happen?,Man,28,4,dia28_utt4.mp4
+neutral,"Well, its a long story.",Phoebe,28,5,dia28_utt5.mp4
+neutral,Its kind of embarrassing.,Phoebe,28,6,dia28_utt6.mp4
+joy,Lets just say there was a typographical error with a sex manual.,Phoebe,28,7,dia28_utt7.mp4
+neutral,How about you?,Phoebe,28,8,dia28_utt8.mp4
+neutral,"Oh, let me guess some idiot on a cell phone wasnt paying attention?",Man,28,10,dia28_utt10.mp4
+neutral,"Yeah. Me.  Oh hey, thats me.  Hey uh, I take it youre just visiting someone.",Man,28,11,dia28_utt11.mp4
+neutral,"Uh-huh, yeah.",Phoebe,28,12,dia28_utt12.mp4
+neutral,"Well umm, if you have sometime yknow and maybe you might want to visit someone else",Man,28,13,dia28_utt13.mp4
+joy,Oh yeah! I-I would like that.,Phoebe,28,14,dia28_utt14.mp4
+anger,Wait! What?! No!! Elevator!! No!,Phoebe,28,15,dia28_utt15.mp4
+neutral,"Uh, you gotta press the button.",Joey,28,16,dia28_utt16.mp4
+neutral,"Oh we did, and you still have all your lamps.",Chandler,29,0,dia29_utt0.mp4
+surprise,"Oh, I didn't factor in the room tax.",Chandler,29,1,dia29_utt1.mp4
+neutral,"Oh dude, don't worry about it, I found an unattended maid's car.    We're way ahead of the game.",Ross,29,2,dia29_utt2.mp4
+surprise,Oh my god.,Ross,29,3,dia29_utt3.mp4
+surprise,What?,Chandler,29,4,dia29_utt4.mp4
+surprise,There's something new in the bowl.,Ross,29,5,dia29_utt5.mp4
+joy,"No, but I want...I want the pinecones!",Ross,29,7,dia29_utt7.mp4
+neutral,There's a forest right outside.,Chandler,29,8,dia29_utt8.mp4
+neutral,It's not the same.,Ross,29,9,dia29_utt9.mp4
+joy,Thank you for a delightful stay.,Ross,29,11,dia29_utt11.mp4
+joy,"Oh, my maple candy!",Ross,29,12,dia29_utt12.mp4
+surprise,"Oh my God, what happened?",Rachel,30,0,dia30_utt0.mp4
+joy,"Oh. God, crazy Chandler. He spun me...off...the...bed!",Janice,30,1,dia30_utt1.mp4
+joy,Wow! Spinning that sounds like fun.,Rachel,30,2,dia30_utt2.mp4
+joy,"Oh,  I wish. No, you know he was just trying Ross's Hug and Roll thing.",Janice,30,3,dia30_utt3.mp4
+surprise,Ross's what?,Rachel,30,4,dia30_utt4.mp4
+neutral,"Whoops.  Oh, hey, do you need help with that?",Rachel,31,0,dia31_utt0.mp4
+surprise,"Yes!! Yes! Yes! Yes!! Thats my Dad, thats Frank! Yeah! Im sorry Im getting all flingy.",Phoebe,32,0,dia32_utt0.mp4
+joy,"Take it easy--if you want, theres cookies on the counter, or, or--sangria!  I can make sangria!",Phoebe Sr,32,1,dia32_utt1.mp4
+neutral,"No-no, sorry. Cookies are good, thanks.",Phoebe,32,2,dia32_utt2.mp4
+neutral,Oh.,Phoebe Sr,32,3,dia32_utt3.mp4
+neutral,"Well, so, umm, anyway umm, Ive been, Ive been looking for my Father, and umm, have you heard from him, or seen him?",Phoebe,32,4,dia32_utt4.mp4
+neutral,"Oh, okay. Well, so tell me everything about my parents. Everything.",Phoebe,32,6,dia32_utt6.mp4
+neutral,"Ohh, well. Y'know we were always together, in fact the had a nickname for the three of us.",Phoebe Sr,32,7,dia32_utt7.mp4
+surprise,"Oh, what? What was it?",Phoebe,32,8,dia32_utt8.mp4
+joy,"Yeah, no, it was great.",Phoebe,32,12,dia32_utt12.mp4
+anger,Go back in time and listen to Phoebe!,Phoebe,33,1,dia33_utt1.mp4
+neutral,"Alright here’s something, it says to try holding the baby  close to your body and then swing her rapidly from side to side.",Monica,33,2,dia33_utt2.mp4
+neutral,Ok.,Rachel,33,3,dia33_utt3.mp4
+surprise,It worked!,Monica,33,4,dia33_utt4.mp4
+neutral,"Umm, she Rach, not it, she.",Monica,33,7,dia33_utt7.mp4
+neutral,"Yeah, I’m not so sure.",Rachel,33,8,dia33_utt8.mp4
+anger,"Oh my god, I am losing my mind.",Monica,33,9,dia33_utt9.mp4
+anger,"Yeah, no kidding, this just proves no good can come from  having sex with Ross!",Phoebe,33,10,dia33_utt10.mp4
+neutral,"Well, youre not.",Monica,34,0,dia34_utt0.mp4
+joy,"Yeah I can!  And dont think I dont, because I do! I mean all the time, you betcha!",Monica,34,2,dia34_utt2.mp4
+surprise,"Monica. Youve, youve done it right?",Rachel,34,3,dia34_utt3.mp4
+anger,"Of course I have! What do you think, Im some 30 year old virgin?",Monica,34,4,dia34_utt4.mp4
+surprise,Oh my God! Youre a 30 year old virgin!,Rachel,34,5,dia34_utt5.mp4
+anger,"Its not like, I havent any opportunities.",Monica,34,7,dia34_utt7.mp4
+neutral,"I mean, yknow, Im just waiting for the perfect guy.",Monica,34,8,dia34_utt8.mp4
+neutral,"Im seeing this guy Roger, all right?",Monica,34,9,dia34_utt9.mp4
+neutral,"Hes not perfect, but umm, I think maybe I should just get it over with.",Monica,34,10,dia34_utt10.mp4
+neutral,"Yknow, give him my flower.",Monica,34,11,dia34_utt11.mp4
+surprise,"Oh my God!! Do it!! Honey, youve waited",Rachel,34,12,dia34_utt12.mp4
+surprise,Yknow what? You are right?!,Monica,34,13,dia34_utt13.mp4
+anger,I mean sex does not have to be a big deal!,Rachel,34,14,dia34_utt14.mp4
+anger,There shouldnt be all this rules and restrictions!,Rachel,34,15,dia34_utt15.mp4
+neutral,"Yknow, people should be able to sleep with who ever they want, whenever",Rachel,34,16,dia34_utt16.mp4
+anger,Rachel! Im never gonna think its okay for you to cheat on your husband!,Monica,34,17,dia34_utt17.mp4
+anger,Oh what do you know? Virgin!,Rachel,34,18,dia34_utt18.mp4
+neutral,"Push, push!",All,35,0,dia35_utt0.mp4
+joy,We're here!,Ross,35,1,dia35_utt1.mp4
+neutral,Where have you been?,Carol,35,2,dia35_utt2.mp4
+neutral,"Long story, honey.",Ross,35,3,dia35_utt3.mp4
+neutral,"All right, Carol, I need you to keep pushing. I need Excuse me, could I have this?",Dr. Franzblau,35,4,dia35_utt4.mp4
+neutral,C'mon up.,Rachel,36,0,dia36_utt0.mp4
+anger,Behind my brother's back?  ... is exactly the kind of crazy thing you won't be hearing from me.,Monica,36,1,dia36_utt1.mp4
+anger,"So, I hear, you hate me!",Janice,37,0,dia37_utt0.mp4
+neutral,"I, ah, I never said hate, I was very careful about that.",Joey,37,1,dia37_utt1.mp4
+anger,A little birdie told me something about you wanting to rip your arm off and throw it at me.,Janice,37,2,dia37_utt2.mp4
+anger,"All right, fine, fine, fine, fine, fine, we've got to do something about our little situation here Joey.",Janice,37,4,dia37_utt4.mp4
+neutral,"So, this is my idea: you and me spending some quality time together.",Janice,37,5,dia37_utt5.mp4
+anger,But what does that gonna do...,Joey,37,6,dia37_utt6.mp4
+anger,For Chandler!,Janice,37,7,dia37_utt7.mp4
+joy,"Guess what, I got an audition!",Student,38,0,dia38_utt0.mp4
+joy,"Awww, one of my students got an audition. Im so proud.",Joey,38,1,dia38_utt1.mp4
+neutral,I was wondering if you would consider coaching me for it?,Student,38,2,dia38_utt2.mp4
+joy,You bet! Whats the part?,Joey,38,3,dia38_utt3.mp4
+joy,"Oh its great, its a role on",Student,38,4,dia38_utt4.mp4
+neutral,"Hi!  Hi!  Hi. Has umm, anyone seen Chandler?",Ross,39,0,dia39_utt0.mp4
+neutral,I thought he was with you.,Mr. Geller,39,1,dia39_utt1.mp4
+neutral,"He-he was with me umm, were playing a little game, yknow? Hide and seek.",Ross,39,2,dia39_utt2.mp4
+neutral,"You cant ask us son, thats cheating.",Mr. Geller,39,3,dia39_utt3.mp4
+neutral,"Youre right, thanks for keeping me honest dad.",Ross,39,4,dia39_utt4.mp4
+neutral,"Well, he better not come by here. He cant see the bride in the wedding dress.",Mrs. Geller,39,5,dia39_utt5.mp4
+joy,"As I recall when we got married, I saw the groom in the wedding dress.",Mrs. Bing,39,6,dia39_utt6.mp4
+neutral,"But that was after the wedding, its not bad luck then.",Mr. Bing,39,7,dia39_utt7.mp4
+neutral,"Honey, it isnt good luck.",Mrs. Bing,39,8,dia39_utt8.mp4
+surprise,Oh my God! Monica!,Ross,39,9,dia39_utt9.mp4
+neutral,"I know! Hey, hows Chandler doin?",Monica,39,10,dia39_utt10.mp4
+neutral,Great. Hes doing great. Dont you worry about Chandler.,Ross,39,11,dia39_utt11.mp4
+joy,Yeah baby!,Monica,40,0,dia40_utt0.mp4
+neutral,"Im really glad you guys are okay but, I just keep thinking what would happen if-if you two  actually had hooked up.",Phoebe,40,1,dia40_utt1.mp4
+neutral,"So, we did okay at the strip club, right?",Monica,41,0,dia41_utt0.mp4
+anger,"Oh yeah, that was great. Thanks to you, the hottest cocktail waitress there is quitting to teach the third grade!",Chandler,41,1,dia41_utt1.mp4
+anger,I cant believe it! He still hasnt called.,Rachel,41,2,dia41_utt2.mp4
+surprise,"Who, Josh?",Phoebe,41,3,dia41_utt3.mp4
+anger,Its Joshua.,Rachel,41,4,dia41_utt4.mp4
+surprise,"What, he doesnt like Josh?",Monica,41,5,dia41_utt5.mp4
+neutral,"All right, well Im gonna put my sweats back on.",Chandler,41,7,dia41_utt7.mp4
+surprise,Oh no!,Phoebe,41,8,dia41_utt8.mp4
+surprise,Wait!,Phoebe,41,9,dia41_utt9.mp4
+neutral,Because were girls.,Phoebe,41,12,dia41_utt12.mp4
+joy,"Thank you, thanks.",Ross,42,0,dia42_utt0.mp4
+neutral,"Yknow, Im not gonna play anymore,  would you, can you finish my set?",Ross,42,2,dia42_utt2.mp4
+surprise,"After that? Yeah! No, I mean if I can help.",Phoebe,42,3,dia42_utt3.mp4
+neutral,"Yeah, like I could",Ross,42,4,dia42_utt4.mp4
+surprise,What?,Rachel,42,5,dia42_utt5.mp4
+joy,I played bad on purpose guys.,Ross,42,6,dia42_utt6.mp4
+surprise,"Okay, so you were trying to play bad this whole time.",Monica,42,7,dia42_utt7.mp4
+neutral,"Yeahno, just that last song.",Ross,42,8,dia42_utt8.mp4
+neutral,"Oh, I was thinking about having people over for the game.",Monica,43,0,dia43_utt0.mp4
+neutral,"Oh yeah, whos playing?",Joey,43,1,dia43_utt1.mp4
+neutral,The players.,Monica,43,2,dia43_utt2.mp4
+neutral,Somebody seems to be missing being the hostess.,Ross,43,3,dia43_utt3.mp4
+neutral,"Please, its a relief is what it is, is what it is.",Monica,43,4,dia43_utt4.mp4
+neutral,"All right Pheebs, stick out your plate!",Joey,43,5,dia43_utt5.mp4
+neutral,Oh.,Phoebe,43,6,dia43_utt6.mp4
+neutral,Whose is it?,Chandler,44,0,dia44_utt0.mp4
+neutral,I dont want to say.,Rachel,44,1,dia44_utt1.mp4
+joy,"Oh, come on! I dont care! Come on! Whose is it?",Chandler,44,2,dia44_utt2.mp4
+neutral,Diane Keaton.,Rachel,44,3,dia44_utt3.mp4
+anger,Phoebe! Come on! Lets go!  Come on!  Why arent you dressed yet?!,Monica,45,0,dia45_utt0.mp4
+neutral,"Im sorry, but I just wrote the best dance song for your wedding. Check this out.",Phoebe,45,1,dia45_utt1.mp4
+neutral,"No, Phoebe, Ill tell you what, if you get ready now Ill let you play it at the wedding.",Monica,45,2,dia45_utt2.mp4
+surprise,Really?!,Phoebe,45,3,dia45_utt3.mp4
+joy,Oh thats so exciting!,Phoebe,45,4,dia45_utt4.mp4
+joy,Thanks Mon!,Phoebe,45,5,dia45_utt5.mp4
+anger,"Oh but Mon, if you touch my guitar again Ill have to pound on you for a little bit.",Phoebe,45,6,dia45_utt6.mp4
+neutral,"Fair enough, now go get ready!",Monica,45,7,dia45_utt7.mp4
+neutral,"Ill get everybody else , finally we can start celebrating my Im sorry, uh apparently Ive opened the door to the past.",Monica,45,8,dia45_utt8.mp4
+joy,"My best shoes, so good to me.",Leslie,46,0,dia46_utt0.mp4
+joy,I wear them everyday.,Leslie,46,1,dia46_utt1.mp4
+joy,"Down at the heel, holes in the toes.",Leslie,46,2,dia46_utt2.mp4
+joy,Dont care what people say.,Leslie,46,3,dia46_utt3.mp4
+joy,"My feets best friends, pals to the end.",Leslie,46,4,dia46_utt4.mp4
+joy,With them Im one hot chicky.,Leslie,46,5,dia46_utt5.mp4
+neutral,"Though late one night, not much light, I....",Leslie,46,6,dia46_utt6.mp4
+joy,I stepped in something icky.,Phoebe,46,7,dia46_utt7.mp4
+joy,"Sticky shoes, sticky shoes, always make me smile. Sticky shoes, sticky shoes, next time Ill.... avoid the..... pillleeeee.",Phoebe and Leslie,46,8,dia46_utt8.mp4
+neutral,"""You wanna go over to Joey and Chandlers?""",Joey,47,3,dia47_utt3.mp4
+neutral,"""Cant, its not there.""",Joey,47,4,dia47_utt4.mp4
+neutral,"Look, Im just gonna be across the hall, we can still do all the same stuff.",Chandler,47,5,dia47_utt5.mp4
+neutral,Not once did we do that.,Chandler,47,7,dia47_utt7.mp4
+neutral,Hi.,Monica,47,8,dia47_utt8.mp4
+neutral,Hey!,Chandler,47,9,dia47_utt9.mp4
+neutral,Hi.,Joey,47,10,dia47_utt10.mp4
+neutral,"So I, I told Rachel it was just gonna be the two of us.",Monica,47,11,dia47_utt11.mp4
+neutral,"Oh yeah? Well, howd she take it?",Chandler,47,12,dia47_utt12.mp4
+neutral,"Really well. Yeah. Surprisingly well. Yeah, she didnt cry. She wasnt angry or sad.",Monica,47,13,dia47_utt13.mp4
+neutral,"Okay, if you need the vacuum, its in my closet on the left-hand side. Ah, the garbage bags are next to the refrigerator",Monica,48,0,dia48_utt0.mp4
+neutral,"Okay, okay, but Rachels gonna be here too, cant I just ask her this stuff?",Phoebe,48,1,dia48_utt1.mp4
+neutral,"Yeah, okay, give that a try!",Monica,48,2,dia48_utt2.mp4
+joy,All right! Lets do it!,Chandler,48,3,dia48_utt3.mp4
+joy,Woo-hoo!!,Joey,48,4,dia48_utt4.mp4
+joy,"Yeah, cheerie-o!",Ross,48,5,dia48_utt5.mp4
+joy,London baby!,Joey,48,6,dia48_utt6.mp4
+joy,Hi!,Monica,49,0,dia49_utt0.mp4
+joy,Hi!,Chandler,49,1,dia49_utt1.mp4
+neutral,Monica? What time is it?,Joey,49,2,dia49_utt2.mp4
+neutral,"Uhh, 9.",Chandler,49,3,dia49_utt3.mp4
+neutral,But it's dark out.,Joey,49,4,dia49_utt4.mp4
+neutral,"Well that's because you always sleep to noon, silly! This is what 9 looks like.",Monica,49,5,dia49_utt5.mp4
+neutral,I guess I'll get washed up then. Watch that sunrise.,Joey,49,6,dia49_utt6.mp4
+neutral,I'm,Monica,49,7,dia49_utt7.mp4
+neutral,"I know, me too.",Chandler,49,8,dia49_utt8.mp4
+joy,Hey!,Chandler,49,9,dia49_utt9.mp4
+neutral,Y'know what if we went away for a whole weekend?,Chandler,49,10,dia49_utt10.mp4
+joy,Y'know we'd have no interruptions and we could be naked the entire time.,Chandler,49,11,dia49_utt11.mp4
+surprise,All weekend? That's a whole lotta naked.,Monica,49,12,dia49_utt12.mp4
+neutral,"Yeah, I can say that I have a conference and you can say you have a chef thing.",Chandler,49,13,dia49_utt13.mp4
+joy,"Ohh, I've always wanted to go to this culinary fair that they have in Jersey!",Monica,49,14,dia49_utt14.mp4
+neutral,"Okay, y'know your not though. Let's go.",Chandler,49,15,dia49_utt15.mp4
+neutral,Wait! What about Joey?,Monica,49,16,dia49_utt16.mp4
+neutral,"Oh umm, theres also a book here by a woman named Wendy Bagina.  What is that?",Ross,50,0,dia50_utt0.mp4
+neutral,Sounds like two people are really enjoying the Dewey decimal system.,Chandler,50,1,dia50_utt1.mp4
+neutral,You didnt bring,Chandler,50,3,dia50_utt3.mp4
+joy,Hey!,Joey,51,0,dia51_utt0.mp4
+joy,Hi!,Rachel,51,1,dia51_utt1.mp4
+neutral,"Oh you know uh Kash, really liked you the other day. He said he thought you were charming.",Joey,51,2,dia51_utt2.mp4
+neutral,Okay I-I just have to stop by my place first.,Ross,52,0,dia52_utt0.mp4
+neutral,"No-no, I-I have to see if this apartment became available.",Ross,52,2,dia52_utt2.mp4
+surprise,"Oh, youre switching apartments?",Joey,52,3,dia52_utt3.mp4
+neutral,"Its not for me, its for Rachel.",Ross,52,4,dia52_utt4.mp4
+neutral,But Rachel has an apartment.,Joey,52,5,dia52_utt5.mp4
+neutral,"Yeah, but when the baby comes shes gonna want to move.",Ross,52,6,dia52_utt6.mp4
+surprise,She is?,Joey,52,7,dia52_utt7.mp4
+surprise,"Yeah, you didnt expect her to live there with a baby did you?",Ross,52,8,dia52_utt8.mp4
+neutral,I guess I didnt really think about it.,Joey,52,9,dia52_utt9.mp4
+anger,Ezel!  Hey Gunther! Youre an ezel!,Ross,52,10,dia52_utt10.mp4
+anger,Damnit!,Ross,52,11,dia52_utt11.mp4
+surprise,Look what I got! Look what I got! Look what I got!  Can you believe they make these for little people?,Monica,53,0,dia53_utt0.mp4
+neutral,Little village people.,Rachel,53,1,dia53_utt1.mp4
+joy,"Okay, look at this one. This is my favourite.",Monica,53,2,dia53_utt2.mp4
+joy,"Oh, that is so sweet!",Rachel,53,3,dia53_utt3.mp4
+joy,I know! Phoebe is gonna love dressing them in these!,Monica,53,4,dia53_utt4.mp4
+neutral,"Huh. Except, Phoebes not gonna be the one that gets to dress them.",Rachel,53,5,dia53_utt5.mp4
+surprise,Wait a minute!,Monica,53,8,dia53_utt8.mp4
+joy,"Unless, we give her all gifts she can use after shes done being pregnant.",Monica,53,9,dia53_utt9.mp4
+neutral,"Like-like umm, regular coffee, Tequila.",Monica,53,10,dia53_utt10.mp4
+joy,"Oh, and somebody can get those leather pants shes always wanted!",Rachel,53,11,dia53_utt11.mp4
+joy,"Oh, shes gonna love that!",Monica,53,12,dia53_utt12.mp4
+neutral,Okay you two are asking the court for an annulment?,Judge,54,0,dia54_utt0.mp4
+neutral,"Yes your honor, and here are, are forms, all filled out.",Rachel,54,1,dia54_utt1.mp4
+neutral,So based on your petition you are seeking an annulment on the grounds that Mr. Geller is mentally unstable.,Judge,54,2,dia54_utt2.mp4
+anger,"Fine, Im mentally unstable.",Ross,54,3,dia54_utt3.mp4
+neutral,And based on the fact that Mr. Geller is intravenous drug user.,Judge,54,4,dia54_utt4.mp4
+surprise,What?!,Ross,54,5,dia54_utt5.mp4
+neutral,"Uh yes, heroin and crack.",Rachel,54,6,dia54_utt6.mp4
+anger,Crack isnt even an intravenous drug!,Ross,54,7,dia54_utt7.mp4
+neutral,"Well, you would know.",Rachel,54,8,dia54_utt8.mp4
+neutral,Now it also says here that you lied about your sexual preference before marriage?,Judge,54,9,dia54_utt9.mp4
+neutral,Phoebe just because I'm alone doesnt mean I wanna walk around naked.,Rachel,55,0,dia55_utt0.mp4
+neutral,"I mean, you live alone, you don't walk around naked.",Rachel,55,1,dia55_utt1.mp4
+joy,Uh-huh! Why do you think it takes me so long to answer the door?,Phoebe,55,2,dia55_utt2.mp4
+neutral,"Oh sure, come here!  Sure you can! Uh, look come here look,  its-its-its, its right there .",Ross,56,1,dia56_utt1.mp4
+joy,"Oh. Oh, its beautiful. I see it now.",Rachel,56,2,dia56_utt2.mp4
+neutral,Do you really?,Ross,56,3,dia56_utt3.mp4
+anger,"No, I dont see it!",Rachel,56,4,dia56_utt4.mp4
+joy,"Come on! Come on! Here, okay-okay, you see this?  This tiny thing that looks like a peanut?",Ross,56,5,dia56_utt5.mp4
+neutral,Yeah.,Rachel,56,6,dia56_utt6.mp4
+joy,Sweetie thats it.,Ross,56,7,dia56_utt7.mp4
+joy,"Thats it? Well I saw that! Ohh-ohh-oh, thank you.",Rachel,56,8,dia56_utt8.mp4
+neutral,Youre welcome.,Ross,56,9,dia56_utt9.mp4
+surprise,Wow! I cant believe thats our baby.,Rachel,56,10,dia56_utt10.mp4
+joy,"Yeah, thats our baby.",Ross,56,11,dia56_utt11.mp4
+neutral,Gin.,Monica,57,0,dia57_utt0.mp4
+joy,"We were playing Gin? Y'know if we were a couple, we could play this game naked.",Chandler,57,1,dia57_utt1.mp4
+joy,Will you stop!,Monica,57,2,dia57_utt2.mp4
+neutral,Okay. All right.,Chandler,57,3,dia57_utt3.mp4
+joy,"Okay, all right, I think youre great, I think youre sweet, and youre smart, and I love you.",Monica,57,4,dia57_utt4.mp4
+joy,Hey!,Chandler,58,0,dia58_utt0.mp4
+joy,Hey!,Monica,58,1,dia58_utt1.mp4
+joy,Let me tell you about this chick I scored with last night! Oh no wait a minute that was you!,Chandler,58,2,dia58_utt2.mp4
+joy,"Hey, check me out, Im a slut!",Monica,58,3,dia58_utt3.mp4
+neutral,"So you uh, want to do something tonight?",Chandler,58,4,dia58_utt4.mp4
+neutral,Oh I cant. Dr. Roger is coming over again.,Monica,58,5,dia58_utt5.mp4
+neutral,Oh.,Chandler,58,6,dia58_utt6.mp4
+surprise,Oh right!,Chandler,58,7,dia58_utt7.mp4
+surprise,Right!,Chandler,58,8,dia58_utt8.mp4
+neutral,Are you okay?,Monica,58,11,dia58_utt11.mp4
+joy,"Yeah! Totally! Totally, and you?",Chandler,58,12,dia58_utt12.mp4
+joy,"Great! Its so amazing! I mean, last time Dr. Roger came over, I was",Monica,58,13,dia58_utt13.mp4
+neutral,I bet he can.,Chandler,58,14,dia58_utt14.mp4
+neutral,"Yknow, I dont have an appointment, but I sure could use a physical.  Are you sure youre okay?",Monica,58,15,dia58_utt15.mp4
+neutral,You got the clothes clean. Now that's the important part.,Ross,59,0,dia59_utt0.mp4
+neutral,"Oh, I guess. Except everything looks like jammies now.",Rachel,59,1,dia59_utt1.mp4
+anger,"Whoa, I'm sorry. Excuse me. We had this cart.",Rachel,59,2,dia59_utt2.mp4
+neutral,"Oh, Chandler, look. You and Monica are meant to have children.    I am sure it's gonna be just fine.",Janice,60,1,dia60_utt1.mp4
+joy,"oh, oh, yeah, ok, thanks.",Chandler,60,2,dia60_utt2.mp4
+surprise,I can't believe    I didn't even think of that.,Chandler,60,3,dia60_utt3.mp4
+anger,"What, you can do it in the parking lot of a Taco Bell, but you    can't do it at a doctor's office?",Janice,60,5,dia60_utt5.mp4
+anger,"It was a ""Wendy's!!    """,Chandler,60,6,dia60_utt6.mp4
+surprise,"...and then Zana, just let one rip!!",Chip,61,0,dia61_utt0.mp4
+surprise,"Like you, I dont even know where you work?",Monica,61,2,dia61_utt2.mp4
+neutral,Yeah.,Kathy,62,0,dia62_utt0.mp4
+anger,"Yeah. Well, I think our second fight is going to be a",Chandler,62,1,dia62_utt1.mp4
+neutral,Hey.,Phoebe,63,0,dia63_utt0.mp4
+neutral,Hey!,Ross,63,1,dia63_utt1.mp4
+anger,"So, you stole my joke, and you stole my money.",Chandler,64,0,dia64_utt0.mp4
+neutral,"Well, I was going to stick it in the ATM, but now I think Ill show the sexy teller that I am a published writer.",Ross,64,1,dia64_utt1.mp4
+anger,"Well, she is going to know that you stole the joke.",Chandler,64,2,dia64_utt2.mp4
+anger,"Oh, what are you going to do, follow me down there?",Ross,64,3,dia64_utt3.mp4
+anger,Yeah!,Chandler,64,4,dia64_utt4.mp4
+neutral,"Well, Im not going to go now anyway .",Ross,64,5,dia64_utt5.mp4
+neutral,Okay .,Chandler,64,6,dia64_utt6.mp4
+neutral,Here you go.,Gunther,64,7,dia64_utt7.mp4
+neutral,"Ah, Gunther, I cant pay for this right now because Im not working, so Ive had to cut down on some luxuries like uh, payin for stuff.",Joey,64,8,dia64_utt8.mp4
+neutral,"Well, if you want, you can work here.",Gunther,64,9,dia64_utt9.mp4
+neutral,"Uh, I dont know.",Joey,64,10,dia64_utt10.mp4
+neutral,"Ya see, its just, see I was a regular on a soap opera yknow?",Joey,64,11,dia64_utt11.mp4
+neutral,"Okay, but the moneys good, plus you get to stare at Rachel as much as you want.",Gunther,64,13,dia64_utt13.mp4
+surprise,What?!,Joey,64,14,dia64_utt14.mp4
+neutral,Flexible hours.,Gunther,64,15,dia64_utt15.mp4
+neutral,Maybe I could be a waiter. Could I use the phone?,Joey,64,16,dia64_utt16.mp4
+neutral,I have no name.,Chandler,65,0,dia65_utt0.mp4
+neutral,"All right, so, what are we supposed to call you?",Phoebe,65,1,dia65_utt1.mp4
+neutral,"Okay uh, for now, temporarily, you can call me, Clint.",Chandler,65,2,dia65_utt2.mp4
+surprise,"Okay, so what name am I cool enough to pull off?",Chandler,65,4,dia65_utt4.mp4
+neutral,"Umm, Gene.",Phoebe,65,5,dia65_utt5.mp4
+anger,Its Clint. Its Clint!,Chandler,65,6,dia65_utt6.mp4
+neutral,"See you later, Gene.",Joey,65,7,dia65_utt7.mp4
+neutral,"Bye, Gene.",Phoebe,65,8,dia65_utt8.mp4
+anger,Its Clint!,Chandler,65,9,dia65_utt9.mp4
+surprise,Whats up with Gene?,Joey,65,10,dia65_utt10.mp4
+neutral,Welcome to Las Vegas.,Flight Attendant,66,0,dia66_utt0.mp4
+joy,Thank you!  Enjoy your flight?,Flight Attendant,66,1,dia66_utt1.mp4
+joy,"Yes, I did. Thank you very much, it was excellent.",Rachel,66,2,dia66_utt2.mp4
+neutral,Hope you had a nice flight.,Flight Attendant,66,3,dia66_utt3.mp4
+joy,"Ohh, it was the best!",Ross,66,4,dia66_utt4.mp4
+neutral,"Oh, Larry.",Monica,67,0,dia67_utt0.mp4
+neutral,"Umm, do health inspectors work on commission?",Phoebe,67,1,dia67_utt1.mp4
+neutral,"No, bribes.",Larry,67,2,dia67_utt2.mp4
+joy,It's okay to laugh right?,Phoebe,67,3,dia67_utt3.mp4
+anger,Come on Joey!!!,Rachel,68,0,dia68_utt0.mp4
+anger,"Rach, I told you everything I knew last night!",Joey,68,1,dia68_utt1.mp4
+neutral,"Look, it's not that big of a deal, so Monica and Chandler are doing it.",Joey,68,2,dia68_utt2.mp4
+neutral,Sorry. Monica and Chandler are making love.,Joey,68,4,dia68_utt4.mp4
+anger,No! I mean come on! This is a,Rachel,68,5,dia68_utt5.mp4
+neutral,I don't know.,Joey,68,6,dia68_utt6.mp4
+joy,Is he romantic with her?,Rachel,68,7,dia68_utt7.mp4
+neutral,I don't know.,Joey,68,8,dia68_utt8.mp4
+joy,Are they in love?,Rachel,68,9,dia68_utt9.mp4
+neutral,I don't know.,Joey,68,10,dia68_utt10.mp4
+anger,You don't know anything.,Rachel,68,11,dia68_utt11.mp4
+joy,"Ohh, I know one thing!",Joey,68,12,dia68_utt12.mp4
+joy,What?,Rachel,68,13,dia68_utt13.mp4
+neutral,They did it right there on the couch.,Joey,68,14,dia68_utt14.mp4
+anger,"Excuse me, look, we've been here for over an hour, and a lot of people less sick than my friend have gone in.",Chandler,69,0,dia69_utt0.mp4
+anger,"I mean, that guy with the toe thing?",Chandler,69,1,dia69_utt1.mp4
+neutral,Who's he sleeping with?,Chandler,69,2,dia69_utt2.mp4
+neutral,"Oh, c'mon Dora, don't be mad...",Chandler,69,3,dia69_utt3.mp4
+neutral,"I know we both said some things we didn't mean, but that doesn't mean we still don't love each other.",Chandler,69,4,dia69_utt4.mp4
+joy,"Y'know, I feel like I've lost her..  Ba-!",Chandler,69,5,dia69_utt5.mp4
+neutral,"So you see, Molly, what people don't understand is that acting    is a discipline. It takes a lot of hard work.",Joey,70,0,dia70_utt0.mp4
+neutral,So where did you study?,Molly,70,1,dia70_utt1.mp4
+neutral,"Oh, I didn't go to college.",Joey,70,2,dia70_utt2.mp4
+neutral,"No, where did you study acting?",Molly,70,3,dia70_utt3.mp4
+neutral,Molly ... people don't study acting ...,Joey,70,4,dia70_utt4.mp4
+neutral,"Molly, ah, do you mind giving us just a minute?",Ross,70,5,dia70_utt5.mp4
+neutral,"Sure, I'll go check on Emma.",Molly,70,6,dia70_utt6.mp4
+neutral,Thanx.,Ross,70,7,dia70_utt7.mp4
+anger,"You know, this isn't fair.",Joey,70,11,dia70_utt11.mp4
+anger,What makes you think that I'm just gonna sleep with her and then blow her off?,Joey,70,12,dia70_utt12.mp4
+anger,Huh?,Joey,70,13,dia70_utt13.mp4
+anger,"Can't you guys open your minds to the possibility that I actally like her,    and might want something real?",Joey,70,14,dia70_utt14.mp4
+joy,Come on! Joe!,Ross and Chandler,70,17,dia70_utt17.mp4
+neutral,"Hi, is Molly here?",Woman,70,18,dia70_utt18.mp4
+neutral,"Yeah, come on in. Molly?",Ross,70,19,dia70_utt19.mp4
+neutral,"Hey! Guys, this is Tabatha .  I'll see you tomorrow.",Molly,70,20,dia70_utt20.mp4
+neutral,"Ok ...  Well, uh, Joey, I guess    we have no problem.",Ross,70,21,dia70_utt21.mp4
+joy,"It's like my favorite fairy tale come true!  The princess, the stable boy and the lesbian!",Joey,70,22,dia70_utt22.mp4
+joy,"And whats cool is, the character is from Naples, right?",Joey,71,0,dia71_utt0.mp4
+neutral,Yeah.,The Director,71,1,dia71_utt1.mp4
+joy,My whole familys from Naples!,Joey,71,2,dia71_utt2.mp4
+surprise,"Oh thats great! Okay, well Ive heard everything I need to hear. I just need to uh, Leslie",The Director,71,3,dia71_utt3.mp4
+joy,"Joey, this is the awkward part.",The Casting Director,71,4,dia71_utt4.mp4
+surprise,Oh!,Joey,71,5,dia71_utt5.mp4
+surprise,Hey right!,Joey,71,6,dia71_utt6.mp4
+neutral,Not a problem.,Joey,71,7,dia71_utt7.mp4
+neutral,I totally understand.,Joey,71,8,dia71_utt8.mp4
+neutral,You need to yknow make sure I dont have any horrible scars or tattoos.,Joey,71,9,dia71_utt9.mp4
+neutral,Dont you worry. I have nothing to hide.,Joey,71,10,dia71_utt10.mp4
+neutral,"So there you go, thats me.",Joey,71,11,dia71_utt11.mp4
+joy,One hundred percent natural!,Joey,71,12,dia71_utt12.mp4
+neutral,This rooms available.,Nurse,72,0,dia72_utt0.mp4
+joy,Okay!,Rachel,72,1,dia72_utt1.mp4
+anger,Okay wait!,Rachel,72,2,dia72_utt2.mp4
+anger,You listen to me!,Rachel,72,3,dia72_utt3.mp4
+anger,You listen to me!,Rachel,72,4,dia72_utt4.mp4
+anger,"Since I have been waiting four women, thats four, one higher than the number of centimeters that I am dilated, have come and gone with their babies!",Rachel,72,5,dia72_utt5.mp4
+anger,Im next!,Rachel,72,6,dia72_utt6.mp4
+anger,Its my turn!,Rachel,72,7,dia72_utt7.mp4
+anger,Its only fair!,Rachel,72,8,dia72_utt8.mp4
+anger,And if you bring in one woman and she has her baby before me Im going to sue you!,Rachel,72,9,dia72_utt9.mp4
+anger,"Not this hospital, Im going to sue you!",Rachel,72,10,dia72_utt10.mp4
+anger,And my husband  hes a lawyer!,Rachel,72,11,dia72_utt11.mp4
+neutral,Uh Rach,Ross,72,12,dia72_utt12.mp4
+anger,Go get back on that case honey!,Rachel,72,13,dia72_utt13.mp4
+neutral,I dont think the next patient is very far along.,Nurse,72,14,dia72_utt14.mp4
+neutral,"Okay, well then bring her in.",Rachel,72,15,dia72_utt15.mp4
+surprise,OH.MY.GAWD!!!,Woman,72,16,dia72_utt16.mp4
+neutral,They dont look any bigger than me!,Ross,73,1,dia73_utt1.mp4
+anger,"Well, maybe thats because youre closer to you. So you look bigger to you from where you are.",Joey,73,2,dia73_utt2.mp4
+neutral,Im just going to say hi to the lads. All right?,Emily,73,3,dia73_utt3.mp4
+neutral,All right.,Ross,73,4,dia73_utt4.mp4
+neutral,Okay.,Emily,73,5,dia73_utt5.mp4
+neutral,Hi.,Phoebe,73,6,dia73_utt6.mp4
+joy,Whoa!  I kinda liked it.,Phoebe,73,7,dia73_utt7.mp4
+anger,"Okay, I know what I have to do. Ive got to go Red Ross.  Yknow, Red Ross!",Ross,73,8,dia73_utt8.mp4
+neutral,I totally dont know what youre talking about.,Joey,73,9,dia73_utt9.mp4
+anger,Come on! The time we were all waiting in line for,Ross,73,10,dia73_utt10.mp4
+joy,Y'know you guys were a lot more supportive when I wanted to make denim furniture.,Phoebe,74,0,dia74_utt0.mp4
+neutral,"No, Pheebs, listen, if you decide to do this, well be supportive like crazy.",Joey,74,1,dia74_utt1.mp4
+neutral,We just want you to think it through.,Monica,74,2,dia74_utt2.mp4
+neutral,"Yeah, honey, maybe you can talk to somebody whos had a baby. Like your mom?",Rachel,74,3,dia74_utt3.mp4
+neutral,My mom never gave birth. Oh! But my birth mom did.,Phoebe,74,4,dia74_utt4.mp4
+neutral,"Umm, thank you for meeting with me.",Phoebe,75,0,dia75_utt0.mp4
+neutral,Thank you. All right.,Frank Sr.,75,1,dia75_utt1.mp4
+neutral,"Come, sit.",Phoebe,75,2,dia75_utt2.mp4
+neutral,Sit.,Phoebe,75,3,dia75_utt3.mp4
+anger,Sit!,Phoebe,75,4,dia75_utt4.mp4
+neutral,"Umm, all righty, before we get started I justI need you to state for the official record that you are in fact Frank Buffay.",Phoebe,75,5,dia75_utt5.mp4
+neutral,Lucky sixes....,Ross,76,0,dia76_utt0.mp4
+neutral,"Everybody, this is Paolo. Paolo, I want you to meet my friends. This is Monica.",Rachel,76,1,dia76_utt1.mp4
+neutral,Hi!,Monica,76,2,dia76_utt2.mp4
+neutral,And Joey....,Rachel,76,3,dia76_utt3.mp4
+neutral,Hi!,Monica,76,4,dia76_utt4.mp4
+neutral,And Ross.,Rachel,76,5,dia76_utt5.mp4
+neutral,Hi!,Monica,76,6,dia76_utt6.mp4
+neutral,He doesn't speak much English.,Rachel,76,7,dia76_utt7.mp4
+surprise,Look at that!,Rachel,76,8,dia76_utt8.mp4
+neutral,"So, um... where did Paolo come from?",Ross,76,9,dia76_utt9.mp4
+neutral,"Oh... Italy, I think.",Rachel,76,10,dia76_utt10.mp4
+neutral,"No, I mean tonight, in the building. Suddenly. Into our lives.",Ross,76,11,dia76_utt11.mp4
+neutral,"Well, the cat... the cat turned out to be Paolo's cat!",Rachel,76,12,dia76_utt12.mp4
+neutral,"That, that is funny... .... and Rachel keeps touching him.",Ross,76,13,dia76_utt13.mp4
+neutral,Alright. I looked all over the building and I couldn't find the kitty anywhere.,Phoebe,76,14,dia76_utt14.mp4
+neutral,"Oh, I found him. He was Paolo's cat.",Rachel,76,15,dia76_utt15.mp4
+joy,Ah! Well! There you go! Last to know again! And I'm guessing... since nobody told me... this is Paolo.,Phoebe,76,16,dia76_utt16.mp4
+neutral,"Ah, Paolo, this is Phoebe.",Rachel,76,17,dia76_utt17.mp4
+joy,You betcha!,Phoebe,76,18,dia76_utt18.mp4
+surprise,"Okay, where in the hell did you get that?!",Ross,77,0,dia77_utt0.mp4
+neutral,"When Mom and Dad drove you to the hospital to get your nose fixed, I swam into the lake and fished it out.",Monica,77,1,dia77_utt1.mp4
+anger,That cup is mine!,Ross,77,2,dia77_utt2.mp4
+anger,"No its not! You want it, youre gonna have to win it!",Monica,77,3,dia77_utt3.mp4
+neutral,Because I don't work at the Szechwan Dragon.,Monica,78,1,dia78_utt1.mp4
+neutral,"You really, really need to get some sleep, honey.",Rachel,78,2,dia78_utt2.mp4
+neutral,I know I do.,Monica,78,3,dia78_utt3.mp4
+neutral,Hi.,Ross,78,4,dia78_utt4.mp4
+neutral,Hi.,Rachel,78,5,dia78_utt5.mp4
+neutral,Guess what?,Ross,78,6,dia78_utt6.mp4
+joy,They published my paper.,Ross,78,7,dia78_utt7.mp4
+joy,"Oh, really, let me see, let me see.",Rachel,78,8,dia78_utt8.mp4
+joy,"Rach, look!  Oh, hi! Where is my strong Ross Skywalker to come rescue me.  There he is.",Phoebe,78,9,dia78_utt9.mp4
+neutral,"You know what this is, this is us getting ready for the prom.",Monica,79,0,dia79_utt0.mp4
+neutral,Oh.,Rachel,79,1,dia79_utt1.mp4
+anger,What?! You got us evicted!!,Rachel,80,0,dia80_utt0.mp4
+anger,I told you not to go down there!,Monica,80,1,dia80_utt1.mp4
+anger,Rachel always cries!,Monica,80,3,dia80_utt3.mp4
+anger,Thats not true!,Rachel,80,4,dia80_utt4.mp4
+neutral,"Now Joey, you go down there and you suck up to him. I mean you suck like youve never sucked before!",Monica,80,5,dia80_utt5.mp4
+neutral,"All right! Ill try! But if I cant, you can stay with Chandler and I until you get settled.",Joey,80,6,dia80_utt6.mp4
+anger,Go!!,Rachel,80,7,dia80_utt7.mp4
+neutral,"All right, all right, all right.",Joey,80,8,dia80_utt8.mp4
+neutral,"I mean Ill have to check with him first, but Ill think hell be cool with it.",Joey,80,9,dia80_utt9.mp4
+joy,"So, hes just a nice guy. You really think this Mark doesnt want anything in exchange for helping him?",Ross,81,0,dia81_utt0.mp4
+neutral,"Well, I assume Ill have to take showers with him, but y'know, thats true of any job.",Rachel,81,1,dia81_utt1.mp4
+neutral,How ya feelin?,Monica,82,0,dia82_utt0.mp4
+neutral,"Well, my apartment isnt there anymore, because I drank it.",Chandler,83,0,dia83_utt0.mp4
+neutral,Whered you get too? We lost you after you opened up all the presents.,Phoebe,83,1,dia83_utt1.mp4
+neutral,Yeah.,Ross,83,2,dia83_utt2.mp4
+neutral,"Yeah, I ended up in the storage room, and not alone.",Chandler,83,3,dia83_utt3.mp4
+joy,Woooo hoooo!!!,All,83,4,dia83_utt4.mp4
+anger,"Ow, no woo-hooing, no woo-hooing.",Chandler,83,5,dia83_utt5.mp4
+surprise,"Why, what happened?",Phoebe,83,6,dia83_utt6.mp4
+neutral,What is the worse part?,Monica,83,8,dia83_utt8.mp4
+anger,You see what men do! Dont tell me men are not nice!  This is men!!,Ross,83,10,dia83_utt10.mp4
+anger,Whats wrong with you?,Chandler,84,0,dia84_utt0.mp4
+anger,Nothing!,Joey,84,1,dia84_utt1.mp4
+neutral,"But um, I dont think its anything serious.",Joey,85,0,dia85_utt0.mp4
+surprise,This sounds like a hernia. You have toyou-youGo to the doctor!,Chandler,85,1,dia85_utt1.mp4
+anger,No way!,Joey,85,2,dia85_utt2.mp4
+anger,"Kay look, if I have to go to the doctor for anything its gonna be for this thing sticking out of my stomach!",Joey,85,3,dia85_utt3.mp4
+anger,Damn you 15s!,Joey,85,5,dia85_utt5.mp4
+neutral,Its a trifle.,Rachel,86,0,dia86_utt0.mp4
+neutral,Its got all of these layers.,Rachel,86,1,dia86_utt1.mp4
+neutral,"First theres a layer of ladyfingers, then a layer of jam, then custard, which I made from scratch.",Rachel,86,2,dia86_utt2.mp4
+neutral,"[Joey and Ross make impressed faces] Then raspberries, more ladyfingers, then beef sautéed with peas and onions, [Joey and Ross look like somethings wrong.]",Rachel,86,3,dia86_utt3.mp4
+neutral,"then a little more custard, and then bananas, and then I just put some whipped cream on top!",Rachel,86,4,dia86_utt4.mp4
+joy,I like it.,Joey,86,6,dia86_utt6.mp4
+surprise,Are you kidding?,Ross,86,7,dia86_utt7.mp4
+neutral,Does anyone else think David Copperfield is cute?,Chandler,87,0,dia87_utt0.mp4
+neutral,"No, but he told me, he thinks your a fox.",Monica,87,1,dia87_utt1.mp4
+joy,"Welcome everybody, welcome to Amazing Discoveries!",Host,88,0,dia88_utt0.mp4
+joy,"Oh, oh! It's on again!",Phoebe,88,1,dia88_utt1.mp4
+anger,Shhhh!,All,88,3,dia88_utt3.mp4
+neutral,"Folks, has this ever happened to you.",Host,88,4,dia88_utt4.mp4
+neutral,"You go to the refrigerator to get a nice glass of milk,  and these darn cartons are so flingin'-flangin' hard to open.",Host,88,5,dia88_utt5.mp4
+anger,"Oh, you said it Mike.  Aw! There's got to be a better way!",Joey,88,6,dia88_utt6.mp4
+neutral,And there is Kevin.,Mike,88,7,dia88_utt7.mp4
+joy,"Noo way, Kevin.",Rachel,88,9,dia88_utt9.mp4
+neutral,There is a revolutionary new product that guarantees that you'll never have to open up milk cartons again. Meet the Milk Master 2000.,Mike,88,10,dia88_utt10.mp4
+surprise,Are you intrigued?,Ross,88,11,dia88_utt11.mp4
+joy,You're flingin'-flangin' right I am!,Chandler,88,12,dia88_utt12.mp4
+neutral,"Keep in mind, he's never used this product before, you're gonna see how easy this is to do.",Mike,88,13,dia88_utt13.mp4
+neutral,Go ahead.,Mike,89,0,dia89_utt0.mp4
+neutral,This works with any milk carton.,Mike,89,1,dia89_utt1.mp4
+surprise,"Wow, it is easy.  Now, I can have milk everyday.",Joey,89,2,dia89_utt2.mp4
+neutral,"Well, you might want to tell him it sounds like his wife is  gay.",Rachel,90,0,dia90_utt0.mp4
+anger,She is not  Shes gay. Oh my God. She is,Ross,90,1,dia90_utt1.mp4
+surprise,Good day for married people huh?,Rachel,90,2,dia90_utt2.mp4
+neutral,"Hey Ross, will you pass me that knife?",Joey,91,0,dia91_utt0.mp4
+joy,I can't wait to be with you!,Monica,92,0,dia92_utt0.mp4
+neutral,I'll sneak over as soon as Ross picks up Ben.,Monica,92,1,dia92_utt1.mp4
+neutral,I'll just tell Rachel I'm gonna be doing laundry for a couple of hours.,Monica,92,2,dia92_utt2.mp4
+joy,Laundry. Huh. Is that my new nickname?,Chandler,92,3,dia92_utt3.mp4
+joy,"Awww, y'know what your nickname is, Mr. Big",Monica,92,4,dia92_utt4.mp4
+neutral,Yeah! Help me get this mini-fridge past the security guard.,Joey,93,2,dia93_utt2.mp4
+neutral,"Hey Joey, I want to talk to you.",Wayne,93,3,dia93_utt3.mp4
+neutral,Yeah?,Joey,93,4,dia93_utt4.mp4
+neutral,"Oh, Chandler, Wayne.",Joey,93,8,dia93_utt8.mp4
+neutral,"Wayne, Chandler.",Joey,93,9,dia93_utt9.mp4
+neutral,"Hi, how are ya?",Chandler,93,10,dia93_utt10.mp4
+neutral,"Joey, Joey, I-I-Ill g-get you your job back if you help me out.",Wayne,93,11,dia93_utt11.mp4
+anger,Why should I help you?!,Joey,93,12,dia93_utt12.mp4
+neutral,The reason he just said.,Chandler,93,13,dia93_utt13.mp4
+neutral,What do you need?,Joey,93,14,dia93_utt14.mp4
+neutral,"I-I-I saw you on stage talking to that beautiful woman, yknow Sarah?",Wayne,93,15,dia93_utt15.mp4
+surprise,What?,Paul,94,0,dia94_utt0.mp4
+neutral,And I too am just a love machine.,Ross,94,1,dia94_utt1.mp4
+neutral,"Ross, let me show you where the guest room is.",Paul,94,2,dia94_utt2.mp4
+surprise,"Oh, I thought this was your party and it turns out its a party for Howard. He's just the sweetest little man!",Phoebe,95,0,dia95_utt0.mp4
+joy,"See ya Phoebe! Oh and hey, thanks for chipping in!",Guest #1,95,1,dia95_utt1.mp4
+surprise,You chipped in?!,Ross,95,2,dia95_utt2.mp4
+neutral,"Yeah, uh-huh, a 100 dollars.",Phoebe,95,3,dia95_utt3.mp4
+surprise,Phoebe! I can't believe you gave them money! I thought you agreed it was totally unreasonable that they asked me for that money!,Ross,95,4,dia95_utt4.mp4
+anger,"Yeah, but they didn't ask me!",Phoebe,95,5,dia95_utt5.mp4
+neutral,Y'know?,Phoebe,95,6,dia95_utt6.mp4
+joy,"This way I'm just y'know, the exotic, generous stranger.",Phoebe,95,7,dia95_utt7.mp4
+joy,That's always fun to be.,Phoebe,95,8,dia95_utt8.mp4
+anger,"Yeah, but you're making me look bad!",Ross,95,9,dia95_utt9.mp4
+neutral,No I'm not.,Phoebe,95,10,dia95_utt10.mp4
+surprise,No!,Phoebe,95,11,dia95_utt11.mp4
+joy,If anything I'm making you look better!,Phoebe,95,12,dia95_utt12.mp4
+joy,They'll see you talking to me and that's--I'm a hit!,Phoebe,95,13,dia95_utt13.mp4
+joy,"Oh hey, Pheebs!",Steve,95,14,dia95_utt14.mp4
+joy,Hey!,Phoebe,95,15,dia95_utt15.mp4
+neutral,"Oh hey, Ross.",Steve,95,16,dia95_utt16.mp4
+neutral,Something to think about.,Steve,95,18,dia95_utt18.mp4
+joy,"Yeah, okay, my bad.",Phoebe,95,19,dia95_utt19.mp4
+neutral,Here. I need to borrow some moisturizer.,Joey,96,0,dia96_utt0.mp4
+neutral,For what?,Monica,96,1,dia96_utt1.mp4
+joy,Whaddya think? Today's the big day!,Joey,96,2,dia96_utt2.mp4
+joy,Thank you!,Joey,96,4,dia96_utt4.mp4
+neutral,Where's Joey? His mom's on the phone.,Chandler,96,5,dia96_utt5.mp4
+anger,He's in the bathroom. I don't think you wanna go in there!,Monica,96,6,dia96_utt6.mp4
+neutral,I warned you...,Monica,96,8,dia96_utt8.mp4
+anger,Who is being loud?,Rachel,96,9,dia96_utt9.mp4
+neutral,"Oh, that would be Monica.",Chandler,96,10,dia96_utt10.mp4
+neutral,"Hey, listen, I wanna borrow a coupla things, Aurora spent the night, I really wanna make her breakfast.",Chandler,96,11,dia96_utt11.mp4
+surprise,"Oh, you got the whole night, huh?",Monica,96,12,dia96_utt12.mp4
+neutral,"Yeah, well, I only have twenty minutes until Ethan, so, y'know..",Chandler,96,13,dia96_utt13.mp4
+surprise,"Ooh, do I sense a little bit of resentment?",Rachel,96,14,dia96_utt14.mp4
+neutral,"No, no resentment, believe me, it's worth it.",Chandler,96,15,dia96_utt15.mp4
+neutral,'Kay?,Chandler,96,16,dia96_utt16.mp4
+neutral,Y'know in a relationship you have these key moments that you know you'll remember for the rest of your life?,Chandler,96,17,dia96_utt17.mp4
+neutral,"Well, every- single- second is like that with Aurora.. and I've just wasted about thirty-five of them talking to you people, so, uh.. Monica, can you help me with the door?",Chandler,96,18,dia96_utt18.mp4
+neutral,"Oh, um, Chandler?",Monica,96,19,dia96_utt19.mp4
+neutral,"Y'know, the-the old Monica would-would remind you to scrub that Teflon pan with a plastic brush...But I'm not gonna do that.",Monica,96,20,dia96_utt20.mp4
+joy,"Hey Monica, it's Joey!",Joey,97,0,dia97_utt0.mp4
+joy,"Hey Joey! Aww, you remembered even though you're a big star!",Monica,97,1,dia97_utt1.mp4
+neutral,"Aw, come on! It'll be years before I forget you!",Joey,97,2,dia97_utt2.mp4
+neutral,"Joey, what's it like on a movie set, huh?",Monica,97,3,dia97_utt3.mp4
+neutral,Do you have a dressing room?,Monica,97,4,dia97_utt4.mp4
+neutral,Do you have a chair with your name on it?,Monica,97,5,dia97_utt5.mp4
+neutral,"Uh, well yeah-yeah, I've got all of that going on.",Joey,97,6,dia97_utt6.mp4
+neutral,"Yeah, listen uh, I want you to make sure you tell Chandler that he couldn't have been more wrong!",Joey,97,7,dia97_utt7.mp4
+neutral,"I gotta go Monica, my uh, my sushi's here!",Joey,97,9,dia97_utt9.mp4
+neutral,Sorry about that. Thanks for waitin'.,Joey,97,10,dia97_utt10.mp4
+joy,"Everybody smile!  Okay, thanks a lot! Enjoy your stay at",Joey,97,11,dia97_utt11.mp4
+surprise,"Wow, this is so cool, you guys. The entire city is blacked out!",Rachel,98,0,dia98_utt0.mp4
+anger,"Mom says it's all of Manhattan, parts of Brooklyn and Queens, and they have no idea when it's coming back on.",Monica,98,1,dia98_utt1.mp4
+surprise,"Wow, you guys, this is big.",Rachel,98,2,dia98_utt2.mp4
+anger,Pants and a sweater?,Monica,98,3,dia98_utt3.mp4
+anger,"Why, mom?",Monica,98,4,dia98_utt4.mp4
+anger,Who am I gonna meet in a blackout?,Monica,98,5,dia98_utt5.mp4
+anger,Power company guys?,Monica,98,6,dia98_utt6.mp4
+anger,Eligible looters?,Monica,98,7,dia98_utt7.mp4
+anger,Could we talk about this later?,Monica,98,8,dia98_utt8.mp4
+neutral,OK.,Monica,98,9,dia98_utt9.mp4
+neutral,Can I borrow the phone? I want to call my apartment and check on my grandma.  What's my number?,Phoebe,98,10,dia98_utt10.mp4
+neutral,"Well, I never call",Phoebe,98,11,dia98_utt11.mp4
+neutral,What cha doing?,Joey,99,0,dia99_utt0.mp4
+neutral,Having a swim.,Chandler,99,1,dia99_utt1.mp4
+neutral,What about the chick?,Joey,99,2,dia99_utt2.mp4
+neutral,Chicks dont swim.,Chandler,99,3,dia99_utt3.mp4
+neutral,Are you sure?,Joey,99,4,dia99_utt4.mp4
+neutral,I dont know. Should we try it?,Chandler,99,5,dia99_utt5.mp4
+neutral,Sure.,Joey,99,6,dia99_utt6.mp4
+neutral,"See, I told you they dont swim.",Chandler,99,7,dia99_utt7.mp4
+neutral,Wait. Give him a minute.,Joey,99,8,dia99_utt8.mp4
+neutral,"Me taking care of you is no problem, huh?",Phoebe,100,0,dia100_utt0.mp4
+neutral,You guys feel safe.,Phoebe,100,1,dia100_utt1.mp4
+neutral,Right?,Phoebe,100,2,dia100_utt2.mp4
+neutral,"Okay, Im gonna take that spit bubble as, ""Yeah, I do!""",Phoebe,100,3,dia100_utt3.mp4
+neutral,"Okay, after I get rid of this dirty diaper Leslie, Ill set you up with a clean one.",Phoebe,100,4,dia100_utt4.mp4
+neutral,I just have to clean that up.,Phoebe,100,7,dia100_utt7.mp4
+neutral,Okay?,Phoebe,100,8,dia100_utt8.mp4
+neutral,"Cause lets face it, were at Monicas.",Phoebe,100,9,dia100_utt9.mp4
+neutral,All right.,Phoebe,100,11,dia100_utt11.mp4
+neutral,"Well, thats just the way that goes.",Phoebe,100,12,dia100_utt12.mp4
+neutral,"Okay, good.",Phoebe,100,13,dia100_utt13.mp4
+neutral,"Well, you cant answer.",Phoebe,100,16,dia100_utt16.mp4
+neutral,Leslie?,Phoebe,100,17,dia100_utt17.mp4
+joy,Hey!,Phoebe,101,0,dia101_utt0.mp4
+neutral,Hey.,Monica,101,1,dia101_utt1.mp4
+neutral,"Oh, theres banana on it.",Monica,101,3,dia101_utt3.mp4
+anger,You said she was bald.,Rachel,102,0,dia102_utt0.mp4
+neutral,"Yeah, she was bald, shes not now.",Phoebe,102,1,dia102_utt1.mp4
+surprise,How could you not tell me that she has hair?,Rachel,102,2,dia102_utt2.mp4
+neutral,"I dont know, I hardly ever say that about people.",Phoebe,102,3,dia102_utt3.mp4
+anger,"Ohh, well, this is just perfect!",Rachel,102,4,dia102_utt4.mp4
+anger,"Yeah, I said what was okay when I thought she was some weird bald chick. I mean, y'know, that girl has hair got",Rachel,102,6,dia102_utt6.mp4
+neutral,"Why, does she have a bad personality?",Rachel,102,8,dia102_utt8.mp4
+joy,"Oh no, Bonnies the best!",Phoebe,102,9,dia102_utt9.mp4
+joy,Hey!,Ross,103,0,dia103_utt0.mp4
+neutral,Hey.,Joey,103,1,dia103_utt1.mp4
+surprise,"Sure. What? About uh, you showering with your mom?",Joey,103,3,dia103_utt3.mp4
+anger,"I actually had a topic in mind! Im, Im kinda going through a dry spell, sex wise.",Ross,103,4,dia103_utt4.mp4
+surprise,"Whoa, for like months?",Joey,103,5,dia103_utt5.mp4
+joy,"Excellent! Excellent! And uh, finally, are you into any weird stuff yknow, sexually?",Joey,104,0,dia104_utt0.mp4
+surprise,No!,Cliff,104,1,dia104_utt1.mp4
+neutral,"Oooh, wrong answer.",Joey,104,2,dia104_utt2.mp4
+anger,"Ow! My ass. Okay. Okay.  Oh, shhh!",Phoebe,105,0,dia105_utt0.mp4
+anger,Then don't break in!!,Phoebe Sr,105,2,dia105_utt2.mp4
+anger,"Oh yeah, Smokey Joe here got half way to the highway and collapsed.",Joey,106,0,dia106_utt0.mp4
+neutral,I have the lung capacity of a two year old.,Chandler,106,1,dia106_utt1.mp4
+neutral,"Honey, I was wondering....",Rachel,107,0,dia107_utt0.mp4
+neutral,Hmm?,Ross,107,1,dia107_utt1.mp4
+joy,"Do you still have that, um, Navy uniform?",Rachel,107,2,dia107_utt2.mp4
+neutral,Hmm.,Rachel,107,4,dia107_utt4.mp4
+joy,I think I have an old band uniform from high school.,Ross,107,5,dia107_utt5.mp4
+neutral,"Well honey, what about you?",Rachel,107,8,dia107_utt8.mp4
+neutral,What?,Ross,107,9,dia107_utt9.mp4
+neutral,"I mean do you have any fun, you know, fantasy type things?",Rachel,107,10,dia107_utt10.mp4
+neutral,No.,Ross,107,11,dia107_utt11.mp4
+surprise,Come on you gotta have one!,Rachel,107,12,dia107_utt12.mp4
+anger,"I mean if you buy a bed from Janices ex-husband, thats like betraying Chandler.",Phoebe,108,3,dia108_utt3.mp4
+anger,Not at these prices.,Monica,108,4,dia108_utt4.mp4
+joy,Hi. Y'know in England this car would be on the other side of the store.  Woo!,Phoebe,108,5,dia108_utt5.mp4
+joy,"Oh! Ohhhhh! Oh! Phoebe, come here. Aw, this is my new bed. You gotta feel this bad boy.",Monica,108,6,dia108_utt6.mp4
+surprise,"Eh, Monica it, it feels so weird, y'know, Chandlers your friend...  Oh!",Phoebe,108,7,dia108_utt7.mp4
+surprise,Oh my God!,Phoebe,108,8,dia108_utt8.mp4
+joy,"Aw, all right take this bed, you can make other friends.",Phoebe,108,9,dia108_utt9.mp4
+joy,"You know, ever since I was little, I've been able to pick up quarters with my toes.",Lorraine,109,0,dia109_utt0.mp4
+joy,"Good for you.  Uh, quarters or rolls of quarters?",Joey,109,1,dia109_utt1.mp4
+anger,"By the way, Chandler. I cut you out of all my pictures. So if you want, I have a bag with just your heads.",Janice,109,2,dia109_utt2.mp4
+neutral,That's OK.,Chandler,109,3,dia109_utt3.mp4
+surprise,"Oh, are you sure?",Janice,109,4,dia109_utt4.mp4
+anger,"Because you know, you could make little puppets out of them, and you could use them in your theater of cruelty.",Janice,109,5,dia109_utt5.mp4
+neutral,We can't do that.,Joey,109,6,dia109_utt6.mp4
+surprise,What? What can't you do?,Chandler,109,7,dia109_utt7.mp4
+surprise,She really said that?,Joey,110,0,dia110_utt0.mp4
+neutral,"Well, I added the 'exactly like me' part...",Ross,110,1,dia110_utt1.mp4
+neutral,"But she said she's looking for someone, and someone is gonna be there tonight.",Ross,110,2,dia110_utt2.mp4
+surprise,'Tonight' tonight?,Joey,110,3,dia110_utt3.mp4
+joy,"Well, I think it's perfect.",Ross,110,4,dia110_utt4.mp4
+neutral,"Y'know, it's just gonna be the two of us, she spent all day taking care of my monkey...",Ross,110,5,dia110_utt5.mp4
+joy,"Anyway, I figured after work I'd go pick up a bottle of wine, go over there and, uh, try to woo her.",Ross,110,7,dia110_utt7.mp4
+neutral,"Car's waiting downstairs, I just wanted to drop off these copies of my book for your friends. Anything you want from Lisbon?",Mrs. Bing,111,0,dia111_utt0.mp4
+neutral,"No, just knowing you're gonna be there is enough.",Chandler,111,1,dia111_utt1.mp4
+joy,"Alright, well, be good, I love you.",Mrs. Bing,111,2,dia111_utt2.mp4
+anger,You kissed my best Ross! ...Or something to that effect.,Chandler,111,3,dia111_utt3.mp4
+anger,Really stupid.,Chandler,111,5,dia111_utt5.mp4
+anger,Yeah. No. No...,Chandler,111,10,dia111_utt10.mp4
+neutral,"Ah, the forbidden love of a man and his door.",Ross,111,11,dia111_utt11.mp4
+neutral,"Shh. He did it. He told her off, and not just about the kiss, about everything.",Joey,111,12,dia111_utt12.mp4
+surprise,You're kidding.,Ross,111,13,dia111_utt13.mp4
+neutral,"No, no. He said ""When are you gonna grow up and start being a mom?""",Joey,111,14,dia111_utt14.mp4
+neutral,Oh there it is.,Phoebe,112,0,dia112_utt0.mp4
+neutral,Thats not your regular dry cleaners.,Monica,112,1,dia112_utt1.mp4
+surprise,What?!,Monica,112,4,dia112_utt4.mp4
+neutral,A new grocery store.,Phoebe,112,5,dia112_utt5.mp4
+anger,The universe said I was going to meet a nice guy and thats what they gave me?,Phoebe,112,6,dia112_utt6.mp4
+anger,When I get up there Im going to kick some ass.,Phoebe,112,7,dia112_utt7.mp4
+neutral,"Dont worry Phoebe, youre gonna meet someone. If I can meet a great guy, so can you.",Monica,112,8,dia112_utt8.mp4
+neutral,"Yeah, we both can. And we both will.",Phoebe,112,9,dia112_utt9.mp4
+neutral,"Oh, you didnt have to come in with me.",Phoebe,112,10,dia112_utt10.mp4
+joy,Are you kidding? This is where they get out stains! Okay? This is like,Monica,112,11,dia112_utt11.mp4
+surprise,"Oh, excuse me! I think you dropped s Wow!",Guy,112,12,dia112_utt12.mp4
+surprise,What?,Phoebe,112,13,dia112_utt13.mp4
+surprise,"Im sorry, its just that youre so incredibly beautiful.",Guy,112,14,dia112_utt14.mp4
+neutral,"Oh yeah well, Im sorry about that too, but what are you going to do?",Phoebe,112,15,dia112_utt15.mp4
+joy,"I hope you dont think Im crazy but I feel like I was meant to pick this up, do you believe in that kind of thing?",Guy,112,16,dia112_utt16.mp4
+neutral,A little.   Now youre talking.,Phoebe,112,17,dia112_utt17.mp4
+neutral,Would you like to go out and have a cup of coffee?,Guy,112,18,dia112_utt18.mp4
+joy,I-I-Id love to. Let me just tell my friend.,Phoebe,112,19,dia112_utt19.mp4
+joy,"Ooh, an ink stain! Hey, can I watch how you get this out?",Monica,112,20,dia112_utt20.mp4
+neutral,She mustve left.,Phoebe,112,21,dia112_utt21.mp4
+anger,Monica! Stop throwing it so hard! We're on the same team!,Ross,113,0,dia113_utt0.mp4
+surprise,Four hours? You guys have been doing this for four hours?,Chandler,113,1,dia113_utt1.mp4
+joy,That's right baby.,Joey,113,2,dia113_utt2.mp4
+neutral,"All right, let me in.",Chandler,113,3,dia113_utt3.mp4
+surprise,What?,Chandler,113,5,dia113_utt5.mp4
+anger,He's a dropper!,Monica,113,6,dia113_utt6.mp4
+anger,"Oh yeah, that's right!",Joey,113,7,dia113_utt7.mp4
+anger,I'm not a dropper!,Chandler,113,8,dia113_utt8.mp4
+neutral,"It's really a uh-uh three person game, y'know?",Ross,113,9,dia113_utt9.mp4
+anger,It's throwing and catching!,Chandler,113,10,dia113_utt10.mp4
+neutral,All right.,Ross,113,11,dia113_utt11.mp4
+surprise,Oh! Oh! That's so hard.,Chandler,113,12,dia113_utt12.mp4
+anger,"Whoa-whoa you guys, it's not a cat!",Joey,113,13,dia113_utt13.mp4
+surprise,Oh myOh good God!,Monica,113,14,dia113_utt14.mp4
+anger,"I give up you guys, I don't know what I'm going to do with this thing!",Rachel,113,15,dia113_utt15.mp4
+neutral,"Baking it didn't help, huh?",Ross,113,16,dia113_utt16.mp4
+neutral,"All right, well the place was closed. Ill just copy it later.",Rachel,114,0,dia114_utt0.mp4
+neutral,"Or not. Uh, Rach, why dont you just move in with me?",Joey,114,1,dia114_utt1.mp4
+surprise,"Whoa! Whoa! Whoa, Joey!",Ross,114,2,dia114_utt2.mp4
+neutral,"No-no-no-no-no-no-no-no Its okay, I mean Ilook Rach, I know I scared you off with that whole Naked Thursdays thing, but we dont have to do that!",Joey,114,3,dia114_utt3.mp4
+neutral,"Well, it would be easier to move just right across the hall. Wait a minute, unless youre thinking about Naked Wednesdays.",Rachel,114,4,dia114_utt4.mp4
+joy,"Thursdays clearly not good for ya, pick a day!",Joey,114,5,dia114_utt5.mp4
+joy,"So thats two boxes of the Holiday Macaroons. On behalf of the Brown Birds of America, I salute you.",Sarah,115,0,dia115_utt0.mp4
+neutral,"Just admit it Chandler, you have no backhand.",Ross,115,1,dia115_utt1.mp4
+anger,"Excuse me little one, I have a very solid backhand.",Chandler,115,2,dia115_utt2.mp4
+neutral,I was shrieking... like a Marine.,Chandler,115,4,dia115_utt4.mp4
+neutral,All right here. Watch me execute the three Ps of championship play. Power.  Precision.  and penache.,Ross,115,5,dia115_utt5.mp4
+neutral,She's not much of a phone person.,Lydia,116,0,dia116_utt0.mp4
+neutral,"Yeah, so, uh, so, uh, what's the deal with this father guy, I mean, if someone was havin' my baby somewhere, I'd wanna know about it, you know?",Joey,116,1,dia116_utt1.mp4
+anger,"Hey, Knick fan, am I interested in your views on fatherhood? Uh, no.",Lydia,116,2,dia116_utt2.mp4
+neutral,"Ok, look, maybe I should just go.",Joey,116,3,dia116_utt3.mp4
+anger,Maybe you should.,Lydia,116,4,dia116_utt4.mp4
+neutral,You know what the Celtics problem is? They let the players run the team.,Joey,116,6,dia116_utt6.mp4
+neutral,"Oh, that is so not true.",Lydia,116,7,dia116_utt7.mp4
+neutral,"Oh, it is.",Joey,116,8,dia116_utt8.mp4
+neutral,It isn't.,Lydia,116,9,dia116_utt9.mp4
+neutral,It is.,Joey,116,10,dia116_utt10.mp4
+anger,Isn't!,Lydia,116,11,dia116_utt11.mp4
+neutral,"Okay ladies, that ends todays class, and lets remember, lets be safe out there.",The Instructor,117,0,dia117_utt0.mp4
+joy,Its a great class.,Ross,117,1,dia117_utt1.mp4
+neutral,Thanks.,The Instructor,117,2,dia117_utt2.mp4
+neutral,"Yeah, yeah, I was watching.",Ross,117,3,dia117_utt3.mp4
+neutral,"Umm, hey, a couple of questions though.",Ross,117,4,dia117_utt4.mp4
+neutral,"Well, she would take her keys and try to jam them",The Instructor,117,6,dia117_utt6.mp4
+anger,No. No-no. No. What would,Ross,117,7,dia117_utt7.mp4
+surprise,Who? Me the attacker?,The Instructor,117,8,dia117_utt8.mp4
+surprise,No-noReally?!,Chandler,118,2,dia118_utt2.mp4
+joy,Of course!,Dana,118,3,dia118_utt3.mp4
+neutral,Well maybe there is one thing you can do.,Chandler,118,6,dia118_utt6.mp4
+joy,What?! Anything! Anything!,Dana,118,7,dia118_utt7.mp4
+neutral,"Well, I umm, I mean this is just off the top of my head now, umm but I have this friend.",Chandler,118,8,dia118_utt8.mp4
+surprise,Absolutely! But you-you would really feel better about me rejecting you if your actor friend can audition for my movie?,Dana,118,10,dia118_utt10.mp4
+neutral,"Well, the heart wants what it wants. Ill see you later.",Chandler,118,11,dia118_utt11.mp4
+neutral,"Okay, I got that. Ill escape over there. Ill come back over here. All right, come on",Monica,119,0,dia119_utt0.mp4
+neutral,Theyre all Chandler.,Monica,119,2,dia119_utt2.mp4
+surprise,Chandler sucks! He couldnt have gotten this good!,Phoebe,119,3,dia119_utt3.mp4
+neutral,I did.  But it came at a price.,Chandler,119,4,dia119_utt4.mp4
+surprise,"Oh come on, by age seven kids have already seen orgies.  Was it just me?!",Chandler,119,6,dia119_utt6.mp4
+joy,Sure!,Chandler,120,0,dia120_utt0.mp4
+neutral,"Okay, I was thinking we should have a beautiful guest room, right?",Monica,120,1,dia120_utt1.mp4
+joy,With a mahogany sleigh bed and bedside tables with flowers on them all the time!,Monica,120,2,dia120_utt2.mp4
+joy,And we could have a roll top desk with comment cards on them so people could say how much they loved staying here!!,Monica,120,3,dia120_utt3.mp4
+neutral,"Okay, whatever, I really havent thought about it that much.",Monica,120,4,dia120_utt4.mp4
+joy,"Well, I like that idea.",Chandler,120,5,dia120_utt5.mp4
+joy,Obviously!,Chandler,120,6,dia120_utt6.mp4
+neutral,"I was thinking maybe-maybe-maybe it could be a game room, yknow?",Chandler,120,7,dia120_utt7.mp4
+neutral,"I mean you can buy old arcade games like uh, like",Chandler,120,8,dia120_utt8.mp4
+joy,"Okay so you mean no as in, ""Gee Chandler, what an interesting idea. Lets discuss it before we reject it completely.""",Chandler,120,10,dia120_utt10.mp4
+surprise,"So, thats it?",Chandler,120,12,dia120_utt12.mp4
+neutral,I just dont think arcade games go in the beautiful guest room. The beautiful guest room is gonna be filled with antiques.,Monica,120,13,dia120_utt13.mp4
+neutral,Which is why,Chandler,120,14,dia120_utt14.mp4
+anger,What do you have against the beautiful guest room?,Monica,120,15,dia120_utt15.mp4
+anger,"I dont have anything against the beautiful guest room, especially since everybody we know lives about 30 seconds away!",Chandler,120,16,dia120_utt16.mp4
+anger,Are you mocking me?,Monica,120,17,dia120_utt17.mp4
+neutral,"No, Im not mocking you,  or you beautiful guest room.",Chandler,120,18,dia120_utt18.mp4
+joy,"Y'know, I love doing crossword puzzles with you honey!",Monica,121,0,dia121_utt0.mp4
+joy,"Aww, me too. Now let's finish this and go to bed.",Joey,121,1,dia121_utt1.mp4
+neutral,"Okay! There's only one left, three letter word, not dog but",Monica,121,2,dia121_utt2.mp4
+neutral,Cat.,Joey,121,3,dia121_utt3.mp4
+joy,Yes! You are so smart!  I love you.,Monica,121,4,dia121_utt4.mp4
+joy,I love you too.,Joey,121,5,dia121_utt5.mp4
+neutral,"I never sucked, I actually didn't want you to know how good I was!",Chandler,122,0,dia122_utt0.mp4
+surprise,Why?,Monica,122,1,dia122_utt1.mp4
+neutral,I don't know.,Chandler,122,2,dia122_utt2.mp4
+joy,This is so great! Now we can enter into doubles tournaments!,Monica,122,3,dia122_utt3.mp4
+neutral,That's,Chandler,122,4,dia122_utt4.mp4
+neutral,"Hey. Okay, I gave him another chance, but Tim has",Monica,123,0,dia123_utt0.mp4
+neutral,But,Phoebe,123,1,dia123_utt1.mp4
+neutral,"Okay. Okay, but you cant fire him today.",Phoebe,123,3,dia123_utt3.mp4
+anger,Why not?!,Monica,123,4,dia123_utt4.mp4
+neutral,Because Im dumping him today.,Phoebe,123,5,dia123_utt5.mp4
+surprise,What?! You said he was sweet!,Monica,123,6,dia123_utt6.mp4
+neutral,He,Phoebe,123,7,dia123_utt7.mp4
+neutral,Just dont pick up your phone.,Monica,123,8,dia123_utt8.mp4
+surprise,What? So now Im not allowed to fire him?,Monica,123,10,dia123_utt10.mp4
+neutral,"Okay well then, Ill fire him today and you go out with him for another week.",Monica,123,12,dia123_utt12.mp4
+neutral,"Okay well, then well both do it today and hell just have to deal with it!",Monica,123,14,dia123_utt14.mp4
+neutral,This is the final boarding call for Flight 664 to Yemen.,Ticket Counter Attendant,124,0,dia124_utt0.mp4
+neutral,"Well, just until we find an energy source to replace fuel.",Chandler,124,3,dia124_utt3.mp4
+neutral,"Oh. Well, Ill right you everyday.  15 Yemen Road, Yemen.",Janice,124,4,dia124_utt4.mp4
+neutral,Chandler?,Janice,124,6,dia124_utt6.mp4
+anger,No!,Chandler,124,7,dia124_utt7.mp4
+surprise,Chandler!,Janice,124,8,dia124_utt8.mp4
+surprise,Janice!,Chandler,124,9,dia124_utt9.mp4
+surprise,There you are!,Chandler,124,10,dia124_utt10.mp4
+surprise,There you are!,Chandler,124,11,dia124_utt11.mp4
+neutral,No! No! I wanna see you take-off.,Janice,124,13,dia124_utt13.mp4
+joy,"Well, I then guess Im going to Yemen! Im going to Yemen!  When we get to Yemen, can I stay with you?",Chandler,124,14,dia124_utt14.mp4
+joy,Hi!,Rachel,125,0,dia125_utt0.mp4
+neutral,Hey.,Joey,125,1,dia125_utt1.mp4
+neutral,"HeyOoh, hows Hilda? Is she working out?",Phoebe,125,2,dia125_utt2.mp4
+neutral,"Ohh, my new assistant is working out, yes.",Rachel,125,3,dia125_utt3.mp4
+neutral,Was she happy you gave her the job?,Joey,125,4,dia125_utt4.mp4
+neutral,"Oh, my-my new assistant was very happy that I hired my new assistant.",Rachel,125,5,dia125_utt5.mp4
+neutral,Hello?,Joey,125,6,dia125_utt6.mp4
+surprise,Oh hey!,Joey,125,7,dia125_utt7.mp4
+neutral,"Can you, can you hang on a second?",Joey,125,8,dia125_utt8.mp4
+neutral,Its the producers over at Mac and C.H.E.E.S.E.,Joey,125,9,dia125_utt9.mp4
+neutral,can you excuse me for a minute?,Joey,125,10,dia125_utt10.mp4
+joy,"Hey, funny you should call.",Joey,125,11,dia125_utt11.mp4
+neutral,I was just looking over next weeks script.,Joey,125,12,dia125_utt12.mp4
+surprise,Canceled?!,Joey,125,13,dia125_utt13.mp4
+surprise,Like theyre taking it off the air?,Joey,125,14,dia125_utt14.mp4
+neutral,Ohh.,Joey,125,15,dia125_utt15.mp4
+neutral,"All right, see you Monday.",Joey,125,16,dia125_utt16.mp4
+surprise,Were not even shootin them anymore?!!,Joey,125,17,dia125_utt17.mp4
+anger,"All right, bye!",Joey,125,18,dia125_utt18.mp4
+anger,They canceled Mac and C.H.E.E.S.E!,Joey,125,19,dia125_utt19.mp4
+surprise,Why would they do that?! It was a good show right?!,Joey,125,22,dia125_utt22.mp4
+neutral,Its so secluded up here.,Rachel,126,0,dia126_utt0.mp4
+joy,I know. I like it up here.,Paul,126,1,dia126_utt1.mp4
+joy,I feel like were the only two people in the world.  Oops. Sorry.,Rachel,126,2,dia126_utt2.mp4
+neutral,Whats the matter honey? Did you see a little mouse?,Paul,126,3,dia126_utt3.mp4
+neutral,"Honey, we dont have any bears here.",Paul,126,5,dia126_utt5.mp4
+neutral,"Well, okay. Would-would you get me a",Rachel,126,6,dia126_utt6.mp4
+neutral,Okay. Ill be right back.,Paul,126,7,dia126_utt7.mp4
+surprise,Okay.  What?! What are you doing here?!,Rachel,126,8,dia126_utt8.mp4
+neutral,What are,Ross,126,9,dia126_utt9.mp4
+anger,I came with Paul!,Rachel,126,10,dia126_utt10.mp4
+neutral,"Yeah, I recognize the ankles!",Ross,126,11,dia126_utt11.mp4
+anger,Get up!,Rachel,126,12,dia126_utt12.mp4
+joy,Here you go honey!,Paul,126,13,dia126_utt13.mp4
+joy,Ahh. Thank you!,Rachel,126,14,dia126_utt14.mp4
+neutral,Diet Coke,Paul,126,15,dia126_utt15.mp4
+anger,What the hell was that?!,Rachel,127,0,dia127_utt0.mp4
+neutral,A lesson in the importance of unagi.,Ross,127,1,dia127_utt1.mp4
+neutral,"Ohh,",Phoebe,127,2,dia127_utt2.mp4
+neutral,"Perhaps. Now Im curious, at what point during those girlish screams would you have begun to",Ross,127,3,dia127_utt3.mp4
+neutral,"All right, so we werent",Rachel,127,4,dia127_utt4.mp4
+neutral,"Im sorry I had to take such drastic measures to make my point, but Ilook, I just want you guys to be safe.",Ross,127,5,dia127_utt5.mp4
+neutral,What are you doing?,Brenda,128,0,dia128_utt0.mp4
+neutral,Im leaning. This is where I lean.,Chandler,128,1,dia128_utt1.mp4
+neutral,Okay. (Goes over and fluffs up the pillows on the couch.,Brenda,128,2,dia128_utt2.mp4
+surprise,What?,Brenda,128,4,dia128_utt4.mp4
+anger,Yes! Its flown into your blouse and youd better undo your buttons lest it sting you!,Chandler,128,5,dia128_utt5.mp4
+neutral,You do?,Chandler,128,7,dia128_utt7.mp4
+neutral,I totally understand.  Can I,Chandler,128,9,dia128_utt9.mp4
+joy,"All right, let's do it!",Director,129,0,dia129_utt0.mp4
+surprise,"No, no, no. What was that?",Director,129,1,dia129_utt1.mp4
+neutral,"I know, it was the best I could get out of them.",Joey,129,2,dia129_utt2.mp4
+neutral,"People, people, people.",Joey,129,4,dia129_utt4.mp4
+neutral,"Let's try it again, and this time let's watch everybody watch Joey.",Director,129,5,dia129_utt5.mp4
+neutral,Show 'em how it's done.,Director,129,6,dia129_utt6.mp4
+neutral,Count it off.,Director,129,7,dia129_utt7.mp4
+neutral,So what did he decide? Does your Uncle Nathan get an invite or not?,Emily,130,0,dia130_utt0.mp4
+neutral,"Yeah, invite him?",Ross,130,2,dia130_utt2.mp4
+neutral,"Hey, did I do these neat enough?",Ross,130,3,dia130_utt3.mp4
+neutral,"Yeah, theyre fine.",Emily,130,4,dia130_utt4.mp4
+joy,Yeah?,Ross,130,5,dia130_utt5.mp4
+surprise,"If anyone asks, well just say Ben addressed them.  Oh! So you invited Rachel then?",Emily,130,6,dia130_utt6.mp4
+neutral,Sure. Why not?,Ross,130,7,dia130_utt7.mp4
+surprise,Really?,Emily,130,8,dia130_utt8.mp4
+neutral,Yeah?,Ross,130,9,dia130_utt9.mp4
+neutral,But its absolutely your decision.,Emily,130,13,dia130_utt13.mp4
+neutral,More tea?,Emily,130,14,dia130_utt14.mp4
+neutral,Yeah sure.,Ross,130,15,dia130_utt15.mp4
+neutral,Earl Grey?,Emily,130,16,dia130_utt16.mp4
+neutral,"Huh? Yeah, fine, invite whoever you want.",Ross,130,17,dia130_utt17.mp4
+neutral,Hi.,Rachel,131,0,dia131_utt0.mp4
+joy,Hey!,Joey,131,1,dia131_utt1.mp4
+neutral,Hey! So how was the doctor?,Phoebe,131,2,dia131_utt2.mp4
+joy,"Oh, everything went great.",Rachel,131,3,dia131_utt3.mp4
+neutral,Good.,Phoebe,131,4,dia131_utt4.mp4
+neutral,"Oh hey, show them the picture of your uterus.",Ross,131,5,dia131_utt5.mp4
+joy,Oh.,Phoebe,131,6,dia131_utt6.mp4
+neutral,I dont see the baby. Where is it?,Joey,131,7,dia131_utt7.mp4
+joy,"Oh no, I know I couldnt see it either at first, but its right umm  Ross, I lost it again.",Rachel,131,8,dia131_utt8.mp4
+neutral,Could you help me with something?,Phoebe,132,0,dia132_utt0.mp4
+neutral,The patient Im looking for has a broken leg and is in a wheelchair.,Phoebe,132,1,dia132_utt1.mp4
+neutral,"And umm, hes like early to mid-thirties, very attractive.",Phoebe,132,2,dia132_utt2.mp4
+neutral,I think I know who youre talking about.,Nurse,132,3,dia132_utt3.mp4
+joy,"Oh yay! Great! Okay, what room number is he in?",Phoebe,132,4,dia132_utt4.mp4
+neutral,"Im sorry, that information is restricted to hospital staff",Nurse,132,5,dia132_utt5.mp4
+neutral,"Uh, shes with me.  Dr. Drake Remoray.",Joey,132,6,dia132_utt6.mp4
+neutral,Dr. Drake who?,Nurse,132,7,dia132_utt7.mp4
+neutral,Remoray. Its Portuguese. We need that information. Im a doctor.,Joey,132,8,dia132_utt8.mp4
+surprise,A doctor at this hospital?,Nurse,132,9,dia132_utt9.mp4
+anger,Damnit woman were losing precious time! Now do you want this mans blood on your head?,Joey,132,10,dia132_utt10.mp4
+neutral,Hands.,Phoebe,132,11,dia132_utt11.mp4
+neutral,Hands!,Joey,132,12,dia132_utt12.mp4
+neutral,It is absolutely essential that you tell me what room the man my assistant described is staying in.,Joey,132,13,dia132_utt13.mp4
+neutral,"Hes a patient of mine, Ive been treating him for years!",Joey,132,14,dia132_utt14.mp4
+neutral,Hes in room 816.,Nurse,132,15,dia132_utt15.mp4
+joy,"816, thank you!",Joey,132,16,dia132_utt16.mp4
+neutral,Thank you.,Phoebe,132,17,dia132_utt17.mp4
+neutral,And what is his name?,Joey,132,18,dia132_utt18.mp4
+surprise,No!,Phoebe,132,19,dia132_utt19.mp4
+joy,Hi!,Ross,133,0,dia133_utt0.mp4
+joy,Hi!,Rachel and Bonnie,133,1,dia133_utt1.mp4
+neutral,Rachel was just helping me out. My head got all sunburned.,Bonnie,133,2,dia133_utt2.mp4
+joy,Awww.,Ross,133,3,dia133_utt3.mp4
+joy,Thanks a million.,Bonnie,133,4,dia133_utt4.mp4
+joy,"Oh, youre welcome a million.",Rachel,133,5,dia133_utt5.mp4
+neutral,"Okay, Ill see you in our room.",Bonnie,133,6,dia133_utt6.mp4
+neutral,Yeah.,Ross,133,7,dia133_utt7.mp4
+surprise,Oh my God.,Rachel,133,8,dia133_utt8.mp4
+neutral,I know.,Ross,133,9,dia133_utt9.mp4
+neutral,"Okay, I gotta go.",Ross,133,10,dia133_utt10.mp4
+surprise,Whoa! What?! Why?!,Rachel,133,11,dia133_utt11.mp4
+surprise,Here?! Now?!,Rachel,133,13,dia133_utt13.mp4
+neutral,"Well, yeah.",Ross,133,14,dia133_utt14.mp4
+surprise,What happened?,Ross,134,0,dia134_utt0.mp4
+joy,"Ohh, man! Chicago, is sooo lucky!",Ross,134,2,dia134_utt2.mp4
+anger,"Stupid, useless Canadian money!",Chandler,134,3,dia134_utt3.mp4
+neutral,"Rachel, one of your customers seems to have left his billfold. A Joshua Bergen.",Mr. Waltham,135,0,dia135_utt0.mp4
+surprise,Really?,Rachel,135,1,dia135_utt1.mp4
+neutral,Will you call him?,Mr. Waltham,135,2,dia135_utt2.mp4
+joy,Yes!,Rachel,135,3,dia135_utt3.mp4
+joy,I will!,Rachel,135,4,dia135_utt4.mp4
+joy,Absolutely!,Rachel,135,5,dia135_utt5.mp4
+joy,Oh my God! That is so good!,Rachel,136,0,dia136_utt0.mp4
+neutral,"Im full, and yet I know if I stop eating this, Ill regret it.",Chandler,137,0,dia137_utt0.mp4
+neutral,Hey!,Joey,137,1,dia137_utt1.mp4
+neutral,Hey!,Rachel,137,2,dia137_utt2.mp4
+neutral,What do you got there?,Joey,137,3,dia137_utt3.mp4
+neutral,"Oh its umm, its tofu cake. Do you want some?",Rachel,137,4,dia137_utt4.mp4
+neutral,What are you doing tonight?,Chandler,137,5,dia137_utt5.mp4
+neutral,Huh? Uh,Joey,137,6,dia137_utt6.mp4
+surprise,Dude! Dude!,Chandler,137,7,dia137_utt7.mp4
+neutral,"Oh!  Sorry. Uh, Ive got those plans with Phoebe, why?",Joey,137,8,dia137_utt8.mp4
+surprise,"Oh really? Uh, Monica said she had a date at 9:00.",Chandler,137,9,dia137_utt9.mp4
+surprise,What?! Tonight?!,Joey,137,10,dia137_utt10.mp4
+neutral,Thats what Monica said.,Chandler,137,11,dia137_utt11.mp4
+surprise,After she gave me that big speech?!,Joey,137,12,dia137_utt12.mp4
+anger,She goes and makes a date with a guy on the same night she has plans with me?,Joey,137,13,dia137_utt13.mp4
+anger,I think shes trying to pull a fast one on Big Daddy!,Joey,137,14,dia137_utt14.mp4
+neutral,"Okay, is this lamp in the same place?",Chandler,138,0,dia138_utt0.mp4
+surprise,No-no-no-no-no-no-no-no!!! You can't come in here! R-r-r-r-Ross is naked.,Chandler,138,2,dia138_utt2.mp4
+surprise,What?!,Monica,138,3,dia138_utt3.mp4
+neutral,Its yours!,Jill,139,0,dia139_utt0.mp4
+neutral,Me too.,Jill,139,2,dia139_utt2.mp4
+joy,Hi Jill!,Ross,139,3,dia139_utt3.mp4
+joy,Hey!,Jill,139,4,dia139_utt4.mp4
+neutral,Hi .,Ross,139,5,dia139_utt5.mp4
+neutral,Rachel.,Rachel,139,6,dia139_utt6.mp4
+surprise,"Rachel! Well, you-youre not at home, youre-youre-youre right here.",Ross,139,7,dia139_utt7.mp4
+joy,"Yeah I know, and I bet you thought it would be weird. But its not!",Rachel,139,8,dia139_utt8.mp4
+neutral,"Okay. So well Ill umm,  Ill have her home by midnight.",Ross,139,9,dia139_utt9.mp4
+anger,That part was perfect for me! I can't believe I didn't get it!,Joey,140,0,dia140_utt0.mp4
+neutral,"Hey, y'know what you should do?",Ross,140,2,dia140_utt2.mp4
+neutral,You should make something happen for yourself.,Ross,140,3,dia140_utt3.mp4
+neutral,"Y'know, like-like write a play.",Ross,140,4,dia140_utt4.mp4
+joy,Write a movie!,Ross,140,5,dia140_utt5.mp4
+neutral,Huh?,Ross,140,6,dia140_utt6.mp4
+neutral,"I mean, what about those",Ross,140,7,dia140_utt7.mp4
+joy,"Wait a second, I could star in it!",Joey,140,9,dia140_utt9.mp4
+neutral,Or that.,Ross,140,10,dia140_utt10.mp4
+anger,I can't write!,Joey,140,11,dia140_utt11.mp4
+neutral,I'll help you.,Ross,140,14,dia140_utt14.mp4
+neutral,"Yeah, I'll make up a schedule and make sure you stick to it.",Ross,140,15,dia140_utt15.mp4
+neutral,"And plus, it'll give me something to do.",Ross,140,16,dia140_utt16.mp4
+neutral,"Soo, ah, Eric, what kind of photography do ya do?",Chandler,141,0,dia141_utt0.mp4
+neutral,"Oh, mostly fashion, so there may be models here from time to time, I hope thats cool.",Eric,141,1,dia141_utt1.mp4
+neutral,"Yes, that is cool. Because I have models here y'know......never.",Chandler,141,2,dia141_utt2.mp4
+neutral,"Oh, yeah, during the summer, I spend most weekends at my sisters beach house, which you are welcome to use by the way.",Eric,141,3,dia141_utt3.mp4
+neutral,"Although, I should probably tell you, shes a porn star.",Eric,141,4,dia141_utt4.mp4
+neutral,"Well, listen I ah, still have one more person to ah meet, but unless it turns out to be your sister, I think youre chances are pretty good.",Chandler,142,0,dia142_utt0.mp4
+neutral,All right.,Chandler,142,1,dia142_utt1.mp4
+neutral,"As bad as that went, I actually enjoyed myself. I think that Im going to apologize for all of the stupid things I do.",Chandler,143,0,dia143_utt0.mp4
+neutral,Why dont you just stop doing stupid things? Then you wouldnt have to apologize.,Monica,143,1,dia143_utt1.mp4
+neutral,I would really love it if I could do both.,Chandler,143,2,dia143_utt2.mp4
+neutral,What?,Chandler,143,4,dia143_utt4.mp4
+surprise,What?!,Chandler,143,6,dia143_utt6.mp4
+anger,"Well, you broke up with Julie Grath! How much weight could she have gained?",Monica,143,7,dia143_utt7.mp4
+anger,"Yes, yes it is. Its uh  Every time on the lips! Why?! Why on lips?!",Ross,144,0,dia144_utt0.mp4
+joy,"Heres Frannie. Hmm, wont she be happy to see me?",Monica,144,1,dia144_utt1.mp4
+anger,"Now wait a minute, you be nice! All right? I didnt bring you here so you can ambush her.",Ross,144,2,dia144_utt2.mp4
+neutral,Frannie was the one who found your,Monica,144,3,dia144_utt3.mp4
+anger,That bitch!,Ross,144,4,dia144_utt4.mp4
+surprise,Monica! What,Frannie,144,5,dia144_utt5.mp4
+anger,Am I doing here? Why? Surprised to see me? Ross brought me. How do you like that?!,Monica,144,6,dia144_utt6.mp4
+neutral,"Hi Frannie, congratulations.",Ross,144,7,dia144_utt7.mp4
+anger,"You invite my brother, you invite my whole family, and not me?!",Monica,144,8,dia144_utt8.mp4
+surprise,Why?!,Monica,144,9,dia144_utt9.mp4
+anger,WhatWhy wouldnt you want me at your wedding?,Monica,144,10,dia144_utt10.mp4
+anger,What could I have possibly done?!,Monica,144,11,dia144_utt11.mp4
+anger,Stuart!,Monica,144,12,dia144_utt12.mp4
+neutral,I believe you know my husband.,Frannie,144,13,dia144_utt13.mp4
+neutral,So its really a question of,Ross,144,14,dia144_utt14.mp4
+neutral,Hey ladies! What are you in here for?,Chandler,145,0,dia145_utt0.mp4
+surprise,"Hey Chandler, what are you doing here?",Gary,145,1,dia145_utt1.mp4
+neutral,"Gary, I'm here to report a crime.",Chandler,145,2,dia145_utt2.mp4
+surprise,Yeah?,Gary,145,3,dia145_utt3.mp4
+neutral,It is a crime that you and I don't spend more time together.,Chandler,145,4,dia145_utt4.mp4
+neutral,What's up?,Gary,145,5,dia145_utt5.mp4
+neutral,"Well, I heard that you thinking about asking Phoebe to move in with you and I thought maybe, we should have a talk.",Chandler,145,6,dia145_utt6.mp4
+neutral,"Man to uh, me.",Chandler,145,7,dia145_utt7.mp4
+neutral,Sure. Okay.,Gary,145,8,dia145_utt8.mp4
+surprise,"Uh, are you crazy? Are you insane? If you live with Phoebe, you two are gonna be y'know, live-living together!",Chandler,145,9,dia145_utt9.mp4
+neutral,"Yeah, I-I considered that. I just know it would make me happy.",Gary,145,10,dia145_utt10.mp4
+neutral,You mean scared.,Chandler,145,11,dia145_utt11.mp4
+neutral,"No, I mean happy.",Gary,145,12,dia145_utt12.mp4
+joy,"Hey! Oh listen, I was just clearing some space for your stuff.",Ross,146,0,dia146_utt0.mp4
+surprise,"What do you mean, theyre not moving in? They-theyre still moving in right?",Ross,146,2,dia146_utt2.mp4
+neutral,"No-no, they just had a big blowout over what to do with my room.",Rachel,146,3,dia146_utt3.mp4
+surprise,What?! Over a stupid room!,Ross,146,4,dia146_utt4.mp4
+joy,"Yeah, I feel kinda bad for them, but Im also really psyched cause I dont have to move in here!",Rachel,146,5,dia146_utt5.mp4
+joy,"Oh no, yeah no, that parts great!",Ross,146,6,dia146_utt6.mp4
+surprise,Shut-out!!,Chandler,147,0,dia147_utt0.mp4
+surprise,"Where are you guys going? Come on, one more game!",Monica,147,1,dia147_utt1.mp4
+anger,"Yeah, get out!",Chandler,147,3,dia147_utt3.mp4
+anger,You guys are always hanging out in my apartment!,Monica,147,4,dia147_utt4.mp4
+anger,"Come on, I'll only use my left hand, huh?",Monica,147,5,dia147_utt5.mp4
+anger,"Come on, wussies!",Monica,147,6,dia147_utt6.mp4
+neutral,"All right, ok, I gotta go.",Monica,147,7,dia147_utt7.mp4
+neutral,"I'm going,  and I'm gone.",Monica,147,8,dia147_utt8.mp4
+neutral,One more game?,Chandler,147,9,dia147_utt9.mp4
+joy,Oh yeah!,Joey,147,10,dia147_utt10.mp4
+anger,I dont care!  I dont care!!,Chandler,150,1,dia150_utt1.mp4
+neutral,Rachel has those in burgendy.,Gunther,150,5,dia150_utt5.mp4
+neutral,What?,Frank,151,1,dia151_utt1.mp4
+neutral,Yeah I know what I wanted to ask you.,Phoebe,151,2,dia151_utt2.mp4
+neutral,"Um, can you roll your tongue?",Phoebe,151,3,dia151_utt3.mp4
+neutral,"Because I can, and my Mom couldnt, and I thought y'know, I figured that was something I got from our Dad.",Phoebe,152,0,dia152_utt0.mp4
+neutral,"What, wait, you mean like this?",Frank,152,1,dia152_utt1.mp4
+surprise,"Yeah, yeah. You can do it to.",Phoebe,152,2,dia152_utt2.mp4
+neutral,Your not doing it.,Frank,152,3,dia152_utt3.mp4
+neutral,"Oh right, yeah okay, my Mom could, and I cant. We dont have that....",Phoebe,152,4,dia152_utt4.mp4
+neutral,Where there is no fear of commitment.,Ross,153,0,dia153_utt0.mp4
+neutral,Do we have any... Do we have any thoughts here?,Chandler,153,1,dia153_utt1.mp4
+neutral,"Well, I've never been through the tunnel myself, 'cause as I understand it, you're not allowed to go through with more than one girl in the car, right.",Joey,153,2,dia153_utt2.mp4
+neutral,"But, it seems to me it's pretty much like anything else, you know, face your fear.",Joey,153,3,dia153_utt3.mp4
+neutral,If you're afraid of bugs.....get a bug.,Joey,153,5,dia153_utt5.mp4
+neutral,Right.,Joey,153,6,dia153_utt6.mp4
+neutral,"In this case, you have a fear of commitment, so I say you go in there and be the most committed guy there ever was.",Joey,153,7,dia153_utt7.mp4
+joy,"Amazingly, that makes sense.",Rachel,153,8,dia153_utt8.mp4
+neutral,You think?,Chandler,153,9,dia153_utt9.mp4
+joy,"Oh, yeah. Go for it man, jump off the high dive, stare down the barrel of the gun, pee into the wind!",Joey,153,10,dia153_utt10.mp4
+joy,Hey!  Hey!,Mona,154,0,dia154_utt0.mp4
+joy,Hi!,Ross,154,1,dia154_utt1.mp4
+joy,Hi! Look! I got our pictures developed from Rockefeller Center.,Mona,154,2,dia154_utt2.mp4
+joy,"Oh great! Hey-hey Joey, do you want to check out pictures of me and Mona ice skating?",Ross,154,3,dia154_utt3.mp4
+neutral,"Oh uh, ordinarily I would love too, but I am just swamped right now.",Joey,154,4,dia154_utt4.mp4
+neutral,Hey where-where are the pictures that creepy pretzel vendor took of us together?,Ross,154,5,dia154_utt5.mp4
+surprise,"Oh yeah, probably at the end.  Oh my God! He only took pictures of my breasts!",Mona,154,6,dia154_utt6.mp4
+joy,Im missin picture time?!,Joey,154,7,dia154_utt7.mp4
+anger,Yknow she has a face Ross!,Phoebe,154,8,dia154_utt8.mp4
+joy,"Okay. Okay, heres a good one of us.",Mona,154,9,dia154_utt9.mp4
+joy,Wow!,Ross,154,10,dia154_utt10.mp4
+joy,That is a good one!,Ross,154,11,dia154_utt11.mp4
+joy,"Wow, it looks like a, like a holiday card yknow, with the tree in the middle and the skaters and the snow.",Ross,154,12,dia154_utt12.mp4
+neutral,"Yknow, every year I say Im gonna send out holiday cards and I never do it.",Mona,154,13,dia154_utt13.mp4
+neutral,"Do you wanna, do you wanna send this one out together?",Mona,154,14,dia154_utt14.mp4
+surprise,Together? Like-like to people?,Ross,154,15,dia154_utt15.mp4
+joy,"Yeah, yknow. Happy holidays from Mona and Ross. Itll be cute, okay?",Mona,154,16,dia154_utt16.mp4
+joy,Okay.,Ross,154,17,dia154_utt17.mp4
+neutral,"Oh, I gotta get to work. So call me later?",Mona,154,18,dia154_utt18.mp4
+neutral,"Uh sure, sure.",Ross,154,19,dia154_utt19.mp4
+neutral,Bye guys.,Mona,154,20,dia154_utt20.mp4
+anger,"I mean, I dont feel like I even have a girlfriend anymore.",Ross,155,0,dia155_utt0.mp4
+anger,You want me to just quit my job so that you can feel like youve got a girlfriend?,Rachel,155,1,dia155_utt1.mp4
+neutral,Is this about Mark?,Ross,155,2,dia155_utt2.mp4
+surprise,Oh my God.,Rachel,155,3,dia155_utt3.mp4
+neutral,"Okay, its not, its not.",Ross,155,4,dia155_utt4.mp4
+neutral,"Fine, youre right.",Ross,155,6,dia155_utt6.mp4
+neutral,"Lets ah, lets take a break,  lets cool off, okay, lets get some frozen yoghurt, or something..",Ross,155,7,dia155_utt7.mp4
+joy,"Bing! Were all set for tonight, 8 oclock.",Doug,156,0,dia156_utt0.mp4
+joy,"Oh uh, as it turns out, we cant do it. Monica has to work.",Chandler,156,1,dia156_utt1.mp4
+neutral,"Oh, my ex-wife didnt work, unless you call turning into her mother work. Fine. Tomorrow night then.",Doug,156,2,dia156_utt2.mp4
+neutral,Oh uh well tomorrows no good for her either.,Chandler,156,3,dia156_utt3.mp4
+neutral,Oh? Why not?,Doug,156,4,dia156_utt4.mp4
+neutral,Its the semi-finalsof herbotchy ball tournament.,Chandler,156,5,dia156_utt5.mp4
+anger,"Whats going on Bing? Does uh, your wife have a problem with me or something?",Doug,156,6,dia156_utt6.mp4
+joy,Well now-now youre just talking crazy.,Chandler,156,7,dia156_utt7.mp4
+neutral,So why cant the three of us go out together?,Doug,156,8,dia156_utt8.mp4
+joy,"And the way she looked at me, pure lust.",Doug,156,11,dia156_utt11.mp4
+anger,Yknow what would really help me through this tough time is choking something. Can I choke ya?,Chandler,156,12,dia156_utt12.mp4
+neutral,"Bing my boy, were gonna get you over this.",Doug,156,13,dia156_utt13.mp4
+joy,"Now heres the plan, grab your coat, were going to a strip club.",Doug,156,14,dia156_utt14.mp4
+anger,"Oh no-no-no, Monica would freak.  But to hell with that bitch.",Chandler,156,15,dia156_utt15.mp4
+neutral,"Look at you, all sweet and innocent, sleeping like an angel...    with Emma's chubby little hands wrapped around ya.",Joey,157,0,dia157_utt0.mp4
+neutral,"It's    okay, Emma, you stay asleep.",Joey,157,1,dia157_utt1.mp4
+anger,": Step away from the crib,    I have a weapon!",Rachel,157,2,dia157_utt2.mp4
+neutral,"It's okay, it's okay Rach, it's me. Put down the scrunchy.",Joey,157,3,dia157_utt3.mp4
+neutral,What are you doing?,Rachel,157,4,dia157_utt4.mp4
+neutral,"Well, I heard Emma stirring, so I came to make sure she could    reach Hugsy.",Joey,157,5,dia157_utt5.mp4
+neutral,"Oh, oh thanks. Alright well, now that I'm up I'm going to go    to the bathroom.",Rachel,157,6,dia157_utt6.mp4
+neutral,There you go sweetie...     This isn't over.,Joey,157,7,dia157_utt7.mp4
+neutral,Did he call?,Joanna,158,0,dia158_utt0.mp4
+neutral,"Maybe hes intimated by really smart, strong, successful women.",Sophie,158,3,dia158_utt3.mp4
+anger,"Sophie, would you please climb out of my butt. Why hasnt he called, Rachel? Why?",Joanna,158,4,dia158_utt4.mp4
+neutral,"Okay, okay. Umm, well ah, maybe he, maybe he feels awkward because you are my boss.",Rachel,158,5,dia158_utt5.mp4
+surprise,Awkward? Why should he feel awkward?,Joanna,158,6,dia158_utt6.mp4
+anger,"The only person that should feel awkward is you, and you didnt tell him not to call me, did you?",Joanna,159,0,dia159_utt0.mp4
+anger,"Because if you feel uncomfortable with your friend dating someone you work for, there are always ways to fix...that.",Joanna,159,1,dia159_utt1.mp4
+anger,"I mean, all Im asking for is just a little emotion!",Monica,160,1,dia160_utt1.mp4
+anger,Is that too much to ask after six years?!,Monica,160,2,dia160_utt2.mp4
+anger,I mean what?,Monica,160,3,dia160_utt3.mp4
+anger,Are-are-are Rachel and I not as close as you guys?!,Monica,160,4,dia160_utt4.mp4
+anger,I mean do we not have as much fun?!,Monica,160,5,dia160_utt5.mp4
+anger,Hey!,Joey,160,8,dia160_utt8.mp4
+anger,I did not cry my eyes out!!,Joey,160,9,dia160_utt9.mp4
+anger,"Okay, I gotta ask, who calls us that?!",Chandler,160,13,dia160_utt13.mp4
+neutral,Do I know why were rushing?,Chloe,161,0,dia161_utt0.mp4
+neutral,"Yeah, y'know the ah, the girlfriend I told you about last night?",Ross,161,1,dia161_utt1.mp4
+neutral,"Well it turns out she ah, she wants to get back together with me.",Ross,161,2,dia161_utt2.mp4
+joy,"Oh, I found it!",Ross,161,3,dia161_utt3.mp4
+joy,Thats so great for you guys!,Chloe,161,4,dia161_utt4.mp4
+neutral,"Good luck, with your girlfriend.",Chloe,161,5,dia161_utt5.mp4
+joy,"Oh, thank you.  Hey, hey.  Rachel!!!!",Ross,161,6,dia161_utt6.mp4
+neutral,"Hi. Ohhh, you got my message.",Rachel,161,7,dia161_utt7.mp4
+neutral,"Yeah, oh hey, you are right on time.",Ross,161,8,dia161_utt8.mp4
+neutral,So what do you say? Can I be your girlfriend again?,Rachel,161,9,dia161_utt9.mp4
+joy,"Yes, you can, very much.",Ross,161,10,dia161_utt10.mp4
+surprise,Ahhhh!!,Ross,161,11,dia161_utt11.mp4
+joy,"Ooh! I'm sorry! I think, I THINK, that may have missed the table!",Monica,162,0,dia162_utt0.mp4
+neutral,Do,Mike,162,1,dia162_utt1.mp4
+neutral,"Ah,",Monica,162,2,dia162_utt2.mp4
+neutral,Do,Mike,162,3,dia162_utt3.mp4
+neutral,"Ah,",Monica,162,4,dia162_utt4.mp4
+anger,DO YOU?,Mike,162,5,dia162_utt5.mp4
+joy,"All that stuff you said about true love, you were right, I mean, we did learn a lot from Mom and Dad!",Ross,163,3,dia163_utt3.mp4
+neutral,And that picture of Chi-Chi with her mischievous grin.,Ross,163,4,dia163_utt4.mp4
+neutral,And what you said about Nana.,Ross,163,5,dia163_utt5.mp4
+neutral,And you know what?,Ross,163,7,dia163_utt7.mp4
+neutral,I think she was.,Ross,163,8,dia163_utt8.mp4
+surprise,"Oh good God, Ross! How the hell do you do it?",Monica,163,9,dia163_utt9.mp4
+neutral,You forget how many great songs Heart had.,Joey,164,0,dia164_utt0.mp4
+neutral,Yeah.,Chandler,164,1,dia164_utt1.mp4
+neutral,"You know, Barracuda was the first song I learned to play on the keyboard.",Ross,164,2,dia164_utt2.mp4
+neutral,"So, you heard it, you repeated it, so that must mean you wrote it.",Chandler,164,3,dia164_utt3.mp4
+neutral,"Oh, you guys, with this joke. I gotta say, I know I cracked up, but Im not even sure I got it.",Joey,164,4,dia164_utt4.mp4
+neutral,"What, you didnt get it? The doctor is a monkey.",Ross,164,5,dia164_utt5.mp4
+neutral,And monkeys cant write out prescriptions.,Chandler,164,6,dia164_utt6.mp4
+anger,You are not allowed to laugh at my joke.,Chandler,164,7,dia164_utt7.mp4
+neutral,"Your joke? Well, I think the Hef would disagree, which is why he sent me a check for one hundred ah-dollars.",Ross,164,8,dia164_utt8.mp4
+anger,I cant find garbage bags!,Monica,165,0,dia165_utt0.mp4
+neutral,"Oh, I think I saw some in here.",Rachel,165,1,dia165_utt1.mp4
+surprise,What is it?!,Monica,165,2,dia165_utt2.mp4
+surprise,You still haven’t told Rachel you weren’t really  proposing?,Chandler,166,0,dia166_utt0.mp4
+anger,"No! She had the ring on, she seemed so excited, and then she  took her breast out.",Joey,166,1,dia166_utt1.mp4
+surprise,"Joey, you have to tell her what’s going on! And what did it  look like?!",Chandler,166,2,dia166_utt2.mp4
+anger,I didn’t look at it. Stupid baby’s head was blocking most of  it.,Joey,166,3,dia166_utt3.mp4
+neutral,"Okay, look, just do it gently.",Chandler,166,6,dia166_utt6.mp4
+neutral,You’re right.,Joey,166,7,dia166_utt7.mp4
+neutral,You’re right.,Joey,166,8,dia166_utt8.mp4
+neutral,I-I’ll go tell her now before Ross  finds out and I’ll be gentle.,Joey,166,9,dia166_utt9.mp4
+neutral,I can do that.,Joey,166,10,dia166_utt10.mp4
+neutral,I am a gentle person.,Joey,166,11,dia166_utt11.mp4
+neutral,"Oh, by the  way.",Joey,166,12,dia166_utt12.mp4
+neutral,Two people screwing in there  if you want to check that out.,Joey,166,13,dia166_utt13.mp4
+neutral,Which,Phoebe,167,1,dia167_utt1.mp4
+neutral,"How would you characterize the theme of this book, uh let's see here , Rachel Green?",The Teacher,167,2,dia167_utt2.mp4
+neutral,"Umm, well I would have to say that it's a, it's tragic love story.",Rachel,167,3,dia167_utt3.mp4
+neutral,"Well, that's sort of a given, but yes. Anyone else?",The Teacher,167,4,dia167_utt4.mp4
+joy,"Oh-oh-oh, symbolism! And uh, the-the uh, wildness of the mores, which",Rachel,167,5,dia167_utt5.mp4
+joy,Excellent! What Rachel has shrewdly observed here,The Teacher,167,6,dia167_utt6.mp4
+anger,You completely stole my answer!,Phoebe,167,7,dia167_utt7.mp4
+anger,Well how would you know?! You didn't even read it!,Phoebe,167,9,dia167_utt9.mp4
+neutral,What do you think? You in the blue shirt.,The Teacher,167,10,dia167_utt10.mp4
+neutral,"I think that uh, yours is a question with many answers.",Phoebe,167,11,dia167_utt11.mp4
+neutral,Would ya care to venture one?,The Teacher,167,12,dia167_utt12.mp4
+neutral,Would,Phoebe,167,13,dia167_utt13.mp4
+anger,Are you just repeating what I'm saying?,The Teacher,167,14,dia167_utt14.mp4
+neutral,"All right, let's move on.",The Teacher,167,15,dia167_utt15.mp4
+neutral,Okay then.,Phoebe,167,16,dia167_utt16.mp4
+neutral,"All right, okay, this is great, uh, Chandler, you get behind the desk.",Joey,168,0,dia168_utt0.mp4
+neutral,"And-and when she comes in hopefully, she wont recognise you because, well, why would she?",Joey,168,1,dia168_utt1.mp4
+neutral,"Uh, okay, and then you buzz Ross and I.",Joey,168,2,dia168_utt2.mp4
+neutral,"You be Mr. Gonzalez, and Ill be uh, Mr. Wong.",Joey,168,3,dia168_utt3.mp4
+neutral,Diverse.,Ross,168,4,dia168_utt4.mp4
+neutral,Did anybody call for security?,The Stripper,168,5,dia168_utt5.mp4
+neutral,You be cool.,Chandler,168,6,dia168_utt6.mp4
+neutral,"Okay, which one of you guys is Gunther Central-Perk?  Hey, Joey?",The Stripper,168,7,dia168_utt7.mp4
+neutral,"Way to be cool, man.",Chandler,168,9,dia168_utt9.mp4
+neutral,Whats he talking about?,The Stripper,168,10,dia168_utt10.mp4
+anger,"There was a ring, in a box, on my nightstand, after you left, it was gone!",Joey,168,11,dia168_utt11.mp4
+surprise,"Wait, you guys think I stole some ring?",The Stripper,168,12,dia168_utt12.mp4
+anger,We know you took so just-just save yourself the time and confess!,Ross,168,13,dia168_utt13.mp4
+surprise,"Okay, who are you?",The Stripper,168,14,dia168_utt14.mp4
+anger,The Hardy boys?,The Stripper,168,15,dia168_utt15.mp4
+anger,"Look, I dont need to steal some stupid ring, all right?",The Stripper,168,16,dia168_utt16.mp4
+anger,"I make $1,600 a week doing what I do; any of you guys make that?",The Stripper,168,17,dia168_utt17.mp4
+neutral,Marry me.,Chandler,168,18,dia168_utt18.mp4
+surprise,Oh my God! Joey!,Monica,169,0,dia169_utt0.mp4
+joy,Hell yeah! Ill marry you!,Phoebe,169,1,dia169_utt1.mp4
+anger,You cant marry him!,Monica,169,2,dia169_utt2.mp4
+anger,"Hey lady, your days over! Its my turn!",Phoebe,169,3,dia169_utt3.mp4
+surprise,Phoebe!,Monica,169,4,dia169_utt4.mp4
+surprise,Why?! Why cant she marry me?!,Joey,169,5,dia169_utt5.mp4
+anger,I can and I will!,Phoebe,169,6,dia169_utt6.mp4
+neutral,Shes not pregnant. Its Rachel. Rachels the one whos pregnant.,Monica,169,7,dia169_utt7.mp4
+surprise,Oh my God.,Joey,169,8,dia169_utt8.mp4
+anger,Hey!,Phoebe,169,9,dia169_utt9.mp4
+anger,Phoebe I think he would notice if you didnt have a baby in nine months!,Monica,169,10,dia169_utt10.mp4
+surprise,Its Joey!,Phoebe,169,11,dia169_utt11.mp4
+surprise,Now I cant believe it! What? Rachels pregnant?  Whos the father?,Joey,169,12,dia169_utt12.mp4
+neutral,We dont know.,Phoebe,169,13,dia169_utt13.mp4
+neutral,Ohh I wonder if that dude.,Joey,169,14,dia169_utt14.mp4
+surprise,Theres a dude?,Monica,169,15,dia169_utt15.mp4
+neutral,Yeah.,Joey,169,16,dia169_utt16.mp4
+surprise,Who? Who is it?,Phoebe,169,17,dia169_utt17.mp4
+neutral,Was that story over?,Phoebe,169,19,dia169_utt19.mp4
+neutral,The guy left this.,Joey,169,20,dia169_utt20.mp4
+surprise,Oh my God! I know who the father is,Phoebe,169,21,dia169_utt21.mp4
+anger,People have got to finish their stories!,Monica,169,22,dia169_utt22.mp4
+surprise,"Oh my God, youre back!",Joey,170,0,dia170_utt0.mp4
+surprise,"Ohh, let me see it! Let me see your hand!",Phoebe,170,1,dia170_utt1.mp4
+neutral,Why do you want to see my hand?,Monica,170,2,dia170_utt2.mp4
+anger,No!,Ross,171,0,dia171_utt0.mp4
+joy,Me too!,Monica,171,1,dia171_utt1.mp4
+neutral,"Hey, when the music starts up again, I was thinking of maybe goind into the robot, yknow?",Ross,171,2,dia171_utt2.mp4
+joy,"Ross, I think we should stick to the routine, we dont wanna look stupid!",Monica,171,3,dia171_utt3.mp4
+joy,Alright were back! Ten seconds left here we go! Ten! Nine! Eight! Seven!,Director,171,4,dia171_utt4.mp4
+neutral,"Three, Two, One!",All,171,5,dia171_utt5.mp4
+neutral,Cut!,Director,171,6,dia171_utt6.mp4
+joy,No! Year! Happy No Year!,Joey,171,7,dia171_utt7.mp4
+joy,"Okay, heres where we go to the live shot of Times Square, nice work everyone thats a wrap!",Director,171,8,dia171_utt8.mp4
+neutral,"So Lizzie, are-are-are you planning on staying the night?",Paul,172,0,dia172_utt0.mp4
+neutral,"Oh no-no believe me, Im leaving as soon as possible!",Elizabeth,172,1,dia172_utt1.mp4
+neutral,"Good. Good. Not that we dont want you to stay, obviously youre welcomeHow much more homework do you have?",Paul,172,2,dia172_utt2.mp4
+neutral,"I see. Yknow umm, Phoebe makes sock bunnies.",Chandler,173,0,dia173_utt0.mp4
+surprise,No!,Monica,173,1,dia173_utt1.mp4
+neutral,"No, she doesnt.",Monica,173,2,dia173_utt2.mp4
+neutral,"Uh Phoebe, what she makesthats uhtheyre sock rabbits.",Monica,173,3,dia173_utt3.mp4
+anger,They are completely differentOkay!,Monica,173,4,dia173_utt4.mp4
+surprise,Okay!,Monica,173,5,dia173_utt5.mp4
+surprise,Okay!,Monica,173,6,dia173_utt6.mp4
+neutral,I totally forgot about tonight and the fact that were supposed to,Monica,173,9,dia173_utt9.mp4
+neutral,"Oh, its okay. I dont",Chandler,173,10,dia173_utt10.mp4
+joy,"Yknow Im just gonnaI, I am gonna make this up to you!",Monica,173,15,dia173_utt15.mp4
+neutral,I-I am going to,Monica,173,17,dia173_utt17.mp4
+neutral,"Well, I did put a lot of thought in the tape.",Chandler,173,18,dia173_utt18.mp4
+neutral,"No.  And then I called him, and he wasnt there.",Rachel,174,0,dia174_utt0.mp4
+neutral,"Well, then hes, hes probably just, out.",Mark,174,1,dia174_utt1.mp4
+neutral,"Oh, thank you thats very helpful, Im glad you came over.",Rachel,174,2,dia174_utt2.mp4
+neutral,Hello.,Rachel,174,3,dia174_utt3.mp4
+joy,"Hi! Oh, Im so glad you called.",Rachel,174,5,dia174_utt5.mp4
+neutral,"Hey, what do you want to drink?",Mark,174,7,dia174_utt7.mp4
+surprise,Whos that?,Ross,174,8,dia174_utt8.mp4
+neutral,Nobody.,Rachel,174,9,dia174_utt9.mp4
+neutral,Is it okay if I finish the apple juice?,Mark,174,10,dia174_utt10.mp4
+neutral,Is that Mark?,Ross,174,11,dia174_utt11.mp4
+neutral,"Umm, honey, look he just came over to....",Rachel,174,12,dia174_utt12.mp4
+anger,Yeah! Got it!,Ross,174,13,dia174_utt13.mp4
+neutral,"Hey, dinosaur guy, look at you, so sad. Come dance.",Chloe,174,14,dia174_utt14.mp4
+neutral,"Hey, you dont have to smile. You just have to dance.",Chloe,174,16,dia174_utt16.mp4
+neutral,"Oh, okay.  Hey, two beers.",Chloe,174,18,dia174_utt18.mp4
+neutral,You wanna go in the bedroom? Its a little more comfortable.,Rachel,175,0,dia175_utt0.mp4
+neutral,Sure.,Tag,175,1,dia175_utt1.mp4
+surprise,"Okay.  Oh wait! Umm, did you send those contracts to Milan?",Rachel,175,2,dia175_utt2.mp4
+surprise,If this is your idea of sexy talk?,Tag,175,3,dia175_utt3.mp4
+neutral,What contracts?,Tag,175,5,dia175_utt5.mp4
+joy,Okay please tell me that this is just one of your jokes that you do that I dont get.,Rachel,175,6,dia175_utt6.mp4
+neutral,Like what?,Tag,175,7,dia175_utt7.mp4
+anger,Tag!,Rachel,175,9,dia175_utt9.mp4
+anger,Im serious!,Rachel,175,10,dia175_utt10.mp4
+anger,This isnt funny!,Rachel,175,11,dia175_utt11.mp4
+anger,Those contracts absolutely had to go out today!,Rachel,175,12,dia175_utt12.mp4
+surprise,"Rach, Im sorry, but you didnt give me any contracts!",Tag,175,13,dia175_utt13.mp4
+anger,Yes I did! And I put a little,Rachel,175,14,dia175_utt14.mp4
+neutral,"Im telling you, you never gave them to me.",Tag,175,15,dia175_utt15.mp4
+anger,"Yknow what Tag, if we went down to the office you would see those contracts sitting on your desk.",Rachel,175,16,dia175_utt16.mp4
+anger,"No, I would see you looking embarrassed because they are",Tag,175,17,dia175_utt17.mp4
+neutral,You wanna go down to the office right now?,Tag,175,19,dia175_utt19.mp4
+anger,"No! Come on its late, were not gonna go down to the office.",Rachel,175,20,dia175_utt20.mp4
+neutral,Okay I understand.  I wouldnt want to be proved wrong either.,Tag,175,21,dia175_utt21.mp4
+joy,Okay get your coat!  Oh! When did you unhook this?  Nice work!,Rachel,175,22,dia175_utt22.mp4
+neutral,"Hey Ross, this is one of my co-stars, Dirk.  Dirk, this    is my good friend Ross.",Joey,176,0,dia176_utt0.mp4
+neutral,Nice to meet you.,Ross,176,1,dia176_utt1.mp4
+neutral,Oh and I need to talk to you.,Phoebe,177,0,dia177_utt0.mp4
+neutral,About what?,Monica,177,1,dia177_utt1.mp4
+neutral,To see if know what these guys are talking about.,Phoebe,177,2,dia177_utt2.mp4
+neutral,"Pheebs, hows it going?",Monica,178,0,dia178_utt0.mp4
+neutral,Im doing okay. I think its going well. Do you think theyre having fun? Am I talking to fast?,Phoebe,178,1,dia178_utt1.mp4
+joy,"Nope, sound like me. Pheebs, its going great. Look at Chandler with little baby girl Chandler.",Monica,178,2,dia178_utt2.mp4
+neutral,"Little baby girl Chandler, where I have heard that before?",Chandler,178,3,dia178_utt3.mp4
+neutral,"Oh right, Coach Ruben.",Chandler,178,4,dia178_utt4.mp4
+neutral,Do you know what Pheebs?,Chandler,178,5,dia178_utt5.mp4
+neutral,"Na-uh, no, we are all responsible for our own babies.",Phoebe,178,7,dia178_utt7.mp4
+neutral,See thats where I think that youre wrong. Weve been playing these babies man for man. we should really be playing a zone defense.,Chandler,178,8,dia178_utt8.mp4
+surprise,What do you mean?,Monica,178,9,dia178_utt9.mp4
+anger,Forgive me? You haven't been taking my calls in a week!,Chandler,179,0,dia179_utt0.mp4
+anger,"Well, I'm totally over it Chandler. Friends forever! Don't come out here!",Joey,179,1,dia179_utt1.mp4
+surprise,"Uh, what was that?",Chandler,179,2,dia179_utt2.mp4
+neutral,"Uh,",Joey,179,3,dia179_utt3.mp4
+neutral,"...I'm, I'm okay.",Chandler,180,0,dia180_utt0.mp4
+neutral,"That sounds good. I'll call you- or you call me, whatever...",Chandler,180,1,dia180_utt1.mp4
+neutral,Okay.,Chandler,180,2,dia180_utt2.mp4
+neutral,Bye.,All,180,3,dia180_utt3.mp4
+joy,Whoo-hoo!,Phoebe,180,4,dia180_utt4.mp4
+joy,"Yeah, there you go!",Monica,180,5,dia180_utt5.mp4
+joy,Second date!,Ross,180,6,dia180_utt6.mp4
+neutral,...I dunno.,Chandler,180,7,dia180_utt7.mp4
+anger,"Well, she seems very nice and everything, but that whole thing about her coming all the way down here, just to see if I was okay?",Chandler,180,8,dia180_utt8.mp4
+neutral,Remember when you where a kid and your Mom would drop you off at the movies with a jar of jam and a little spoon?,Joey,181,0,dia181_utt0.mp4
+joy,You're so pretty.,Rachel,181,1,dia181_utt1.mp4
+joy,Hi!,Phoebe,181,2,dia181_utt2.mp4
+neutral,"Hey, Phoebe.",All,181,3,dia181_utt3.mp4
+neutral,"Hey, oh, you know that guy who's been following me? I talked to him today.",Phoebe,181,4,dia181_utt4.mp4
+surprise,You talked to him. Are you crazy?,Joey,181,5,dia181_utt5.mp4
+joy,"Thank you, Happy Holidays.",Phoebe,182,0,dia182_utt0.mp4
+anger,"Now, that's trash. Young lady, you can't  Hey! Stop that young lady, she donated trash!",Phoebe,182,1,dia182_utt1.mp4
+anger,Hey!!,Phoebe,182,2,dia182_utt2.mp4
+joy,Oh good!,Phoebe,182,5,dia182_utt5.mp4
+joy,"Thank you, I need that.",Phoebe,182,6,dia182_utt6.mp4
+surprise,Whoa!,Phoebe,182,7,dia182_utt7.mp4
+surprise,What is that?!,Phoebe,182,8,dia182_utt8.mp4
+surprise,It's nine o'clock in the morning!,Phoebe,182,9,dia182_utt9.mp4
+neutral,Can I help you?,Female Clerk,183,0,dia183_utt0.mp4
+neutral,"Uh yeah, where-wheres the guy who decides whos pictures go up on the wall?",Joey,183,1,dia183_utt1.mp4
+neutral,Hes not here right now.,Female Clerk,183,2,dia183_utt2.mp4
+anger,"Oh, youre kidding me!",Joey,183,3,dia183_utt3.mp4
+neutral,"All-all right, well make sure you tell him that Joey Tribbiani stopped by to drop off all of these clothes.",Joey,183,4,dia183_utt4.mp4
+neutral,Okay?,Joey,183,5,dia183_utt5.mp4
+neutral,Im an actor. Im kinda getting my picture up there on the wall.,Joey,183,6,dia183_utt6.mp4
+neutral,"Yknow, there are two people who could put your picture up there.",Female Clerk,183,7,dia183_utt7.mp4
+neutral,"Oh really? Well, maybe you and I go out for drinks?  Youre the other one right?",Joey,183,8,dia183_utt8.mp4
+surprise,What?! Youre crazy! Theres nothing sexual about the noises I make!,Monica,184,1,dia184_utt1.mp4
+anger,Theres nothing sexual about this?,Phoebe,184,2,dia184_utt2.mp4
+anger,What are you looking at?!,Phoebe,184,4,dia184_utt4.mp4
+neutral,I mean hi.,Phoebe,184,5,dia184_utt5.mp4
+neutral,"No look, I have, I have lots of clients that make the same noises you do!",Phoebe,184,8,dia184_utt8.mp4
+surprise,Really?!,Monica,184,9,dia184_utt9.mp4
+neutral,"Well not clients, lovers. But lets just yknow, try it again. Come back and-and well work through it.",Phoebe,184,10,dia184_utt10.mp4
+surprise,Are you sure?,Monica,184,11,dia184_utt11.mp4
+neutral,Yes.,Phoebe,184,12,dia184_utt12.mp4
+neutral,I guess.,Monica,184,13,dia184_utt13.mp4
+joy,"Great! Okay, if youll just excuse me.  So, did you hear something you liked?",Phoebe,184,14,dia184_utt14.mp4
+neutral,"Thanks for the coffee, or bedankt voor de koffie, Gunter.",Ross,185,0,dia185_utt0.mp4
+neutral,"Yeah, were done.",Ross,185,1,dia185_utt1.mp4
+surprise,Ezel? Ezel? Ezel?,Ross,185,2,dia185_utt2.mp4
+joy,"Hey Ross! Listen, do you want to go see that new Imax movie on tide pools?",Joey,185,3,dia185_utt3.mp4
+surprise,Really?!,Ross,185,4,dia185_utt4.mp4
+neutral,"No. But I got Knicks tickets for you, me, and Chandler.",Joey,185,5,dia185_utt5.mp4
+joy,Sweet!,Ross,185,6,dia185_utt6.mp4
+neutral,"All right, well finish your coffee; lets go.",Joey,185,7,dia185_utt7.mp4
+neutral,"Uh actually, sorry I cant even make it. Im seeing Mona again tonight.",Ross,186,1,dia186_utt1.mp4
+neutral,I understand: who would cancel an actual date to go to a fake bachelor party?,Chandler,186,2,dia186_utt2.mp4
+neutral,"So it's down to these two, Nancy I know you like this one and I think I agree. Rachel, what do you think?",Kim,187,0,dia187_utt0.mp4
+neutral,"Well umm, that one is pretty but uh, I just, I just love this fabric  Sorry.",Rachel,187,1,dia187_utt1.mp4
+neutral,"Oh don't be sorry, that's part of your job here to give your opinions and then I take credit for them--I'm kidding.",Kim,187,2,dia187_utt2.mp4
+joy,"She is kidding, but don't ever disagree with her again. Okay, now I'm kidding!",Nancy,187,3,dia187_utt3.mp4
+joy,"Oh, what a fun office.",Rachel,187,4,dia187_utt4.mp4
+neutral,"I don't know which one, but I do know I need a cigarette.",Kim,187,5,dia187_utt5.mp4
+neutral,"So what do you say we take a break, we go outside, and we'll figure this out when we come back?",Kim,187,6,dia187_utt6.mp4
+neutral,Rachel? Do you smoke?,Kim,187,7,dia187_utt7.mp4
+neutral,"Oh no, my dad's a doctor and he would always tell me just horror storiesabout ghosts and goblins who totally supported the princess's right to smoke.",Rachel,187,8,dia187_utt8.mp4
+neutral,What?,Joey,188,0,dia188_utt0.mp4
+neutral,Peach pit.,Ross,188,1,dia188_utt1.mp4
+neutral,"Yes, Bunny?",Chandler,188,2,dia188_utt2.mp4
+neutral,"Peach pit. That night we, uh- we had-",Ross,188,3,dia188_utt3.mp4
+neutral,-Peaches?,Joey,188,4,dia188_utt4.mp4
+neutral,"Actually, nectarines, but basically...",Ross,188,5,dia188_utt5.mp4
+neutral,Could've been a peach.,Chandler,188,6,dia188_utt6.mp4
+neutral,"Then, uh, then we got dressed, and I-I... I walked her to the-  -the bus stop... I'm fine.",Ross,188,7,dia188_utt7.mp4
+joy,"Hey, that woman's got an ass like Carol's!  What? Thought we were trying to find stuff.",Joey,188,8,dia188_utt8.mp4
+joy,All right!,Joey,189,0,dia189_utt0.mp4
+joy,Westminster Abbey!,Joey,189,1,dia189_utt1.mp4
+joy,"Hands down, best Abbey Ive ever seen.",Joey,189,2,dia189_utt2.mp4
+joy,Hey!,Joey,189,3,dia189_utt3.mp4
+neutral,Okay.,Joey,189,4,dia189_utt4.mp4
+neutral,"What do you think of the Abbey, Chandler?",Joey,189,5,dia189_utt5.mp4
+neutral,"I think its great. Its great. Yknow, theyre thinking of changing the name of this place.",Chandler,189,6,dia189_utt6.mp4
+surprise,Really? To what?,Joey,189,7,dia189_utt7.mp4
+anger,To Put the Camera Away!!!,Chandler,189,8,dia189_utt8.mp4
+neutral,"Man,",Joey,189,9,dia189_utt9.mp4
+surprise,"Y'know, I can't believe I'm getting my nails done!  And",Chandler,190,0,dia190_utt0.mp4
+neutral,"Chandler, theres a guy right over there.",Rachel,190,1,dia190_utt1.mp4
+surprise,Thats a mailman! Thats,Chandler,190,2,dia190_utt2.mp4
+neutral,"Chandler, dont worry! This doesnt make you any less of a guy!",Rachel,190,3,dia190_utt3.mp4
+neutral,"Hey, you know who used to have nails like that?",Chandler,190,4,dia190_utt4.mp4
+neutral,What?,Rachel,191,1,dia191_utt1.mp4
+neutral,Rachel?,Gunther,191,3,dia191_utt3.mp4
+neutral,Yeah.,Rachel,191,4,dia191_utt4.mp4
+neutral,"Do you remember when you first came here, how you spent two weeks getting trained by another waitress?",Gunther,191,5,dia191_utt5.mp4
+joy,"Oh, sure! Do you need me to train somebody new?",Rachel,191,6,dia191_utt6.mp4
+neutral,"Good one. Actually, ah, Terry wants you to take the training again, whenever.",Gunther,191,7,dia191_utt7.mp4
+surprise,"Eh, do you believe that?",Rachel,191,8,dia191_utt8.mp4
+neutral,Yeah?,Chandler,191,9,dia191_utt9.mp4
+anger,"Hey honey, you got the kind with the little girl, you said we were gonna to get the kind with the baby.",Chandler,192,0,dia192_utt0.mp4
+neutral,"No, you said the baby creeps you out.",Monica,192,1,dia192_utt1.mp4
+anger,"No, the little girl creeps me out.",Chandler,192,2,dia192_utt2.mp4
+neutral,You said the baby.,Monica,192,3,dia192_utt3.mp4
+anger,Why would the baby creep me out?,Chandler,192,4,dia192_utt4.mp4
+anger,Why would the little girl creep you out?,Monica,192,5,dia192_utt5.mp4
+neutral,"You guys, Im sorry, could you please talk a little slower?",Phoebe,192,6,dia192_utt6.mp4
+surprise,This is going in your book?,Chandler,192,7,dia192_utt7.mp4
+joy,"Yeah, its about relationships. Yknow? The traps, the pitfalls, what not to do, keep going. This stuff is great!",Phoebe,192,8,dia192_utt8.mp4
+surprise,What?! Excuse me!,Monica,192,9,dia192_utt9.mp4
+neutral,And how none of it matters when the people really love each other.,Phoebe,192,10,dia192_utt10.mp4
+neutral,And how people will believe anything you tell them as long as its a compliment.,Phoebe,192,11,dia192_utt11.mp4
+joy,"Yes, I made it!",Ross,193,0,dia193_utt0.mp4
+joy,Im on time!,Ross,193,1,dia193_utt1.mp4
+neutral,"Okay, why dont we all uh,  open our books to page 23.",Ross,193,2,dia193_utt2.mp4
+neutral,Where  Where you will seea uha bunch of uhred spots.,Ross,193,3,dia193_utt3.mp4
+neutral,"Okay,  umm, why dont, why dont you all start to read, while I",Ross,193,4,dia193_utt4.mp4
+anger,"Yeah, all right. All right! Just keep walkin'! All right?",Rachel,194,0,dia194_utt0.mp4
+neutral,"Ross! What are you I'm sorry sir. I just, I think he just really likes you.",Rachel,194,1,dia194_utt1.mp4
+neutral,Hey! Y'know that teacher who had a baby with her student?,Ross,194,2,dia194_utt2.mp4
+surprise,What the? What,Ross,194,3,dia194_utt3.mp4
+neutral,Miss? May I help you?,Flight Attendant,194,4,dia194_utt4.mp4
+neutral,"But after I unpacked the boxes I wanted to do something nice for you, so, I-I-I cleaned the apartment.",Chandler,195,1,dia195_utt1.mp4
+neutral,"It's okay. Chandler, are you afraid of me or something?",Monica,195,3,dia195_utt3.mp4
+neutral,Do you want me to be afraid of you?,Chandler,195,4,dia195_utt4.mp4
+neutral,Of course not.,Monica,195,5,dia195_utt5.mp4
+joy,"I mean gosh, Chandler what you did, it's, it's a wonderful thing and I really appreciate it.",Monica,195,6,dia195_utt6.mp4
+joy,"I know I have this weird thing where I want everything to be in the perfect place, but I'd never expect you to worry about that.",Monica,195,7,dia195_utt7.mp4
+surprise,Really?,Chandler,195,8,dia195_utt8.mp4
+neutral,Of course!,Monica,195,9,dia195_utt9.mp4
+joy,Oh well you're the best. You come here to me.,Chandler,195,10,dia195_utt10.mp4
+neutral,"All right, hold on okay? First thing's first.  Okay, now did Ross sit",Monica,195,11,dia195_utt11.mp4
+anger,"Okay, that's it. I cannot make this decision! It is",Ross,196,0,dia196_utt0.mp4
+anger,"Ooh, it's not a toy.",Phoebe,196,2,dia196_utt2.mp4
+anger,"I mean, I either keep my wife and lose one of my-my-my best friends or I keep my friend and get divorced the second time before I'm 30!",Ross,196,4,dia196_utt4.mp4
+anger,"So-so if anyone has-has a better suggestion, let's hear it!",Ross,196,5,dia196_utt5.mp4
+anger,'Cause I-I got nothing!,Ross,196,6,dia196_utt6.mp4
+anger,"All right, don't be shy, any suggestion will do.",Ross,196,7,dia196_utt7.mp4
+neutral,Okay then.,Ross,196,8,dia196_utt8.mp4
+neutral,Here we go.,Ross,196,9,dia196_utt9.mp4
+neutral,"Magic 8 Ball, should I never see Rachel again?",Ross,196,10,dia196_utt10.mp4
+neutral,Ask again later.,Ross,196,11,dia196_utt11.mp4
+anger,Later is not good enough.,Ross,196,12,dia196_utt12.mp4
+neutral,Ask again later.,Ross,196,13,dia196_utt13.mp4
+anger,What the hell!,Ross,196,14,dia196_utt14.mp4
+anger,This is broken!,Ross,196,15,dia196_utt15.mp4
+anger,It-it is broken!,Ross,196,16,dia196_utt16.mp4
+neutral,"All right, let me see.  Will Chandler have sex tonight?  Don't count on it. Seems like it works to me.",Monica,196,17,dia196_utt17.mp4
+neutral,Excuse me.,The Fan,197,0,dia197_utt0.mp4
+neutral,Yeah?,Phoebe,197,1,dia197_utt1.mp4
+neutral,Are you Phoebe Buffay?,The Fan,197,2,dia197_utt2.mp4
+neutral,Yeah.,Phoebe,197,3,dia197_utt3.mp4
+joy,"Can-can I get your autograph, Im your biggest fan.",The Fan,197,4,dia197_utt4.mp4
+neutral,"I think she took it pretty well. You know Paolo's over there right now, so...",Phoebe,198,0,dia198_utt0.mp4
+joy,"Ah...ooh! Well, looks like, uh, we kicked your butts.",Ross,198,1,dia198_utt1.mp4
+anger,"No-no, she kicked our butts. You could be on the Olympic standing-there team.",Joey,198,2,dia198_utt2.mp4
+neutral,"Come on, two on one.",Ross,198,3,dia198_utt3.mp4
+surprise,"What are you still doing here? She just broke up with the guy, it's time for you to swoop in!",Chandler,198,4,dia198_utt4.mp4
+surprise,"What, now?",Ross,198,5,dia198_utt5.mp4
+joy,"Yes, now is when you swoop!",Joey,198,6,dia198_utt6.mp4
+joy,"You gotta make sure that when Paolo walks out of there, the first guy Rachel sees is you, She's gotta know that you're everything he's not!",Joey,198,7,dia198_utt7.mp4
+anger,"You're like, like the anti-Paolo!",Joey,198,8,dia198_utt8.mp4
+neutral,My Catholic friend is right.,Chandler,198,9,dia198_utt9.mp4
+neutral,She's distraught.,Chandler,198,10,dia198_utt10.mp4
+neutral,You're there for her.,Chandler,198,11,dia198_utt11.mp4
+joy,"You pick up the pieces, and then you usher in the age of Ross!",Chandler,198,12,dia198_utt12.mp4
+neutral,"Well, I just called Joshua",Rachel,199,0,dia199_utt0.mp4
+neutral,"Well, I did my best to convince him that Im not some crazy girl who is dying to get marriedIm just going through a hard time.",Rachel,199,2,dia199_utt2.mp4
+neutral,What did he say?,Phoebe,199,3,dia199_utt3.mp4
+joy,Hey!,Ross,199,15,dia199_utt15.mp4
+surprise,I dont get it!,Joey,200,0,dia200_utt0.mp4
+anger,It was in my room all night!,Joey,200,1,dia200_utt1.mp4
+anger,"And if she didnt take it, and I didnt take it; and you  didnt take it, then who did?",Joey,200,2,dia200_utt2.mp4
+anger,Shh!,Joey,200,3,dia200_utt3.mp4
+anger,Were trying to think!,Joey,200,4,dia200_utt4.mp4
+neutral,"This is the unit for you my friend. Sturdy construction, tons of storage compartments, some big enough to fit a grown man.",Joey,201,0,dia201_utt0.mp4
+surprise,What?!,Guy,201,1,dia201_utt1.mp4
+joy,Oh yeah!,Joey,201,2,dia201_utt2.mp4
+neutral,I got in there myself once.,Joey,201,3,dia201_utt3.mp4
+neutral,"My roommate bet me five bucks that I couldnt, and then he stuck a board through the handles that locked me in.",Joey,201,4,dia201_utt4.mp4
+neutral,Yeah.,Joey,201,5,dia201_utt5.mp4
+neutral,It was funny til I started feeling like I was in a coffin.,Joey,201,6,dia201_utt6.mp4
+neutral,"No, you, you cant fit in that thing. Thats not deep enough.",Guy,201,7,dia201_utt7.mp4
+anger,"Oh yeah?  If I cant, Ill knock five bucks off the price off the unit.",Joey,201,8,dia201_utt8.mp4
+neutral,"All right, you have yourself a deal.",Guy,201,9,dia201_utt9.mp4
+surprise,Okay.  See?! I told ya!,Joey,201,10,dia201_utt10.mp4
+anger,"Sometimes I get in here just to get away from it! Hey, a nickel!!",Joey,201,11,dia201_utt11.mp4
+neutral,Hey! Whats up?,Joey,202,0,dia202_utt0.mp4
+joy,Hey!,Rachel,202,1,dia202_utt1.mp4
+joy,"Hey-hey, whos your friend?  Hey!!",Joey,202,2,dia202_utt2.mp4
+joy,Hey Joey!,Erin,202,3,dia202_utt3.mp4
+joy,Erin! Still here!,Joey,202,4,dia202_utt4.mp4
+joy,"Yeah, we ended up spending the day together and had such a great time!",Rachel,202,5,dia202_utt5.mp4
+joy,Why wouldnt ya? Erin is great! Then-then theres you guys.,Joey,202,6,dia202_utt6.mp4
+joy,"Ohh, listen. Ive got to get going. Today was great, thanks!",Erin,202,7,dia202_utt7.mp4
+anger,I think I brought back half of the beach in my hair. It was so much easier when I used to shave my head.,Bonnie,203,0,dia203_utt0.mp4
+neutral,"Y'know, I gotta tell ya, I just",Rachel,203,1,dia203_utt1.mp4
+surprise,Really?!,Bonnie,203,2,dia203_utt2.mp4
+surprise,Ohh!,Rachel,203,3,dia203_utt3.mp4
+neutral,Because I think about shaving it all off again sometime.,Bonnie,203,4,dia203_utt4.mp4
+surprise,Really?!,Rachel,203,5,dia203_utt5.mp4
+joy,Yeah!,Bonnie,203,6,dia203_utt6.mp4
+neutral,I mean you definitely should do that.,Rachel,203,7,dia203_utt7.mp4
+joy,"Y'know what, I should do it.",Bonnie,203,8,dia203_utt8.mp4
+joy,Yeah!,Rachel,203,9,dia203_utt9.mp4
+joy,"Yeah, thank you Rachel, you are soo cool.",Bonnie,203,10,dia203_utt10.mp4
+neutral,"Awww, stop. Come on. Now go shave that head!",Rachel,203,11,dia203_utt11.mp4
+neutral,All right.,Bonnie,203,12,dia203_utt12.mp4
+anger,This woman's living my life.,Monica,204,1,dia204_utt1.mp4
+surprise,What?,Rachel,204,2,dia204_utt2.mp4
+anger,"She's living my life, and she's doing it better than me!",Monica,204,3,dia204_utt3.mp4
+anger,"Look at this, look.",Monica,204,4,dia204_utt4.mp4
+anger,She buys tickets for plays that I wanna see.,Monica,204,5,dia204_utt5.mp4
+anger,"She, she buys clothes from stores that I'm intimidated by the sales people.",Monica,204,6,dia204_utt6.mp4
+anger,She spent three hundred dollars on art supplies.,Monica,204,7,dia204_utt7.mp4
+neutral,You're not an artist.,Rachel,204,8,dia204_utt8.mp4
+anger,"Yeah, well I might be if I had the supplies! I mean, I could do all this stuff. Only I don't.",Monica,204,9,dia204_utt9.mp4
+surprise,I can't believe you would actually say that. I would much rather be Mr.Peanut than Mr.Salty.,Chandler,205,0,dia205_utt0.mp4
+anger,"No way! Mr.Salty is a sailor, all right, he's got to be, like, thetoughest snack there is.",Joey,205,1,dia205_utt1.mp4
+neutral,"I don't know, you don't wanna mess with corn nuts. They're craaazy.",Ross,205,2,dia205_utt2.mp4
+surprise,I can't believe it! He's looking right at us!,Ross,205,4,dia205_utt4.mp4
+surprise,"How can people do that?...  Oh, you guys, look! Ugly Naked Guy got gravity boots!",Phoebe,205,7,dia205_utt7.mp4
+joy,Man that was great! Huh? Can you believe how long we threw that ball around?,Joey,206,0,dia206_utt0.mp4
+neutral,"Yeah, it is amazing it lasted that long.",Rachel,206,1,dia206_utt1.mp4
+neutral,I know. My arm is killing me.,Ross,206,2,dia206_utt2.mp4
+neutral,"No, I meant with the dropper over here.",Rachel,206,3,dia206_utt3.mp4
+anger,"Y'know, how did I get this reputation as a dropper? Okay? I'm",Chandler,206,4,dia206_utt4.mp4
+neutral,Hey.,Joey,208,0,dia208_utt0.mp4
+neutral,I just saw a woman breast feeding both of her twins at the same time. it is like a freak show up here.,Joey,208,1,dia208_utt1.mp4
+neutral,Whats the matter?,Joey,208,2,dia208_utt2.mp4
+neutral,Nothing.,Rachel,208,3,dia208_utt3.mp4
+neutral,"Rach come on, what?",Joey,208,6,dia208_utt6.mp4
+surprise,What are you talking about alone? What about Ross?,Joey,208,8,dia208_utt8.mp4
+neutral,"Okay, how long was I watching that woman?",Joey,208,10,dia208_utt10.mp4
+neutral,"Yeah, I guess so.",Joey,208,12,dia208_utt12.mp4
+surprise,Bob. Bob! Bob!!!  What the hell are you doing?!,Chandler,209,0,dia209_utt0.mp4
+joy,"I just found out this is Chandlers office! Come on Toby, give me a hand!",Bob,209,1,dia209_utt1.mp4
+anger,"Chandler, we said we would meet at the coffeehouse at six.",Monica,210,0,dia210_utt0.mp4
+anger,We said seven!,Chandler,210,1,dia210_utt1.mp4
+anger,We said six!,Monica,210,2,dia210_utt2.mp4
+neutral,"The only way that I said six would be if the sevens, let meet at seven, not at six.",Chandler,210,3,dia210_utt3.mp4
+anger,"Yeah and if I had seven, maybe I wouldve said something like this, ""Wow! My boyfriends such a wise assseven!""",Monica,210,4,dia210_utt4.mp4
+joy,Hi!,Phoebe,210,5,dia210_utt5.mp4
+joy,I know what time you said.,Phoebe,210,7,dia210_utt7.mp4
+surprise,What?!,Chandler,210,8,dia210_utt8.mp4
+neutral,"Well actually, I know what time Chester and Marcia said.",Phoebe,210,9,dia210_utt9.mp4
+anger,"You, get out of my shop!",The Dry Cleaner,211,0,dia211_utt0.mp4
+surprise,"Well, what did he do?",Phoebe,211,1,dia211_utt1.mp4
+anger,He went out with my wife!,The Dry Cleaner,211,2,dia211_utt2.mp4
+surprise,Joey!,Phoebe,211,3,dia211_utt3.mp4
+anger,"Whoa-whoa-whoa-whoa, I-IHey! I did",Joey,211,4,dia211_utt4.mp4
+anger,Thats my wife!!! Get out!,The Dry Cleaner,211,5,dia211_utt5.mp4
+neutral,"Well, we should go.",Phoebe,211,6,dia211_utt6.mp4
+neutral,Yeah.,Joey,211,7,dia211_utt7.mp4
+neutral,"Yknow you, really didnt have to take me to the airport.",Chandler,212,0,dia212_utt0.mp4
+neutral,Oh please.,Janice,212,1,dia212_utt1.mp4
+neutral,Yknow?,Janice,212,3,dia212_utt3.mp4
+neutral,"Well, were really not that close.  Okay, so I guess this is uh, good-bye then.",Chandler,212,5,dia212_utt5.mp4
+anger,"No, Im afraid I wont be able to make love as well as him.",Chandler,213,0,dia213_utt0.mp4
+neutral,"Yeah, I was going for the metaphor.",Ross,213,1,dia213_utt1.mp4
+neutral,"Yes, and I was saying the actual words.",Chandler,213,2,dia213_utt2.mp4
+neutral,"So big deal, so Joeys had a lot of girlfriends, it doesnt mean hes great in bed.",Monica,213,3,dia213_utt3.mp4
+neutral,"We share a wall! So either hes great in bed, or she just likes to agree with him a lot.",Chandler,213,4,dia213_utt4.mp4
+joy,"Sweetie, with you its gonna be different. The sex is gonna be great, cause you-you guys are in love.",Monica,213,5,dia213_utt5.mp4
+surprise,Yeah?,Chandler,213,6,dia213_utt6.mp4
+joy,Yeah!,Rachel,213,7,dia213_utt7.mp4
+neutral,Just go for it Chandler.,Ross,213,8,dia213_utt8.mp4
+neutral,"Yeah, you should.",Monica,213,9,dia213_utt9.mp4
+neutral,"Yeah, you should, really.",Rachel,213,10,dia213_utt10.mp4
+neutral,"All right, all right, Ill go sleep with my girlfriend. But Im just doing it for you guys.",Chandler,213,11,dia213_utt11.mp4
+neutral,"You just ahh, you just need more practice.",Joey,214,2,dia214_utt2.mp4
+neutral,"Here, come on, lets ahh, lets try it again.",Joey,214,3,dia214_utt3.mp4
+joy,"I mean, yknow, Im not really that comfortable dancing with a We-he!!",Joey,214,5,dia214_utt5.mp4
+joy,Hey!,Joey,214,6,dia214_utt6.mp4
+joy,: Yeah!,Mr. Treeger,214,7,dia214_utt7.mp4
+neutral,Are you sure? Ill bet theres another flight to Minsk in like,Phoebe,215,0,dia215_utt0.mp4
+neutral,"July. Umm,",David,215,1,dia215_utt1.mp4
+joy,Thats really beautiful. What does it mean?,Phoebe,215,2,dia215_utt2.mp4
+neutral,"Please, clean my beakers. I dont get out of the lab much.",David,215,3,dia215_utt3.mp4
+joy,"Thats good. I got to admit, I thought it was something else.",Phoebe,215,4,dia215_utt4.mp4
+neutral,"Yeah, I Well I really actually wanted to say umm, that, but um, I figured I probably shouldnt because yknow, Ihave to leave.",David,215,5,dia215_utt5.mp4
+neutral,Bye Phoebe.,David,215,9,dia215_utt9.mp4
+joy,"Yeah, I-I heard.  I think its great!  Ohh, Im so happy for you!",Rachel,216,0,dia216_utt0.mp4
+joy,I cant believe youre getting married!,Monica,216,1,dia216_utt1.mp4
+neutral,Yeah.,Ross,216,2,dia216_utt2.mp4
+neutral,Monica and Rachel made out.,Joey,216,3,dia216_utt3.mp4
+surprise,Ohhh!,Rachel,217,0,dia217_utt0.mp4
+surprise,Why are we in bed together?,Ross,217,1,dia217_utt1.mp4
+neutral,I dont know. Do-do you have any clothes on?,Rachel,217,2,dia217_utt2.mp4
+neutral,Yeah.,Ross,217,3,dia217_utt3.mp4
+surprise,Really?!,Rachel,217,4,dia217_utt4.mp4
+neutral,No!,Ross,217,5,dia217_utt5.mp4
+neutral,"I mean, I dont remember much about last night, it was such a blur.",Ross,217,7,dia217_utt7.mp4
+joy,Oh! I remember laughing! I laughed a lot.,Rachel,217,8,dia217_utt8.mp4
+neutral,And we didnt have sex.,Ross,217,9,dia217_utt9.mp4
+neutral,"Ohh, I mean, we were really drunk. Im just glad we didnt do anything stupid.",Rachel,217,10,dia217_utt10.mp4
+neutral,Tell me about it.,Ross,217,11,dia217_utt11.mp4
+neutral,What are we gonna do?,Monica,218,0,dia218_utt0.mp4
+neutral,I say we go with,Chandler,218,1,dia218_utt1.mp4
+neutral,Chandler?,Janice,218,2,dia218_utt2.mp4
+neutral,Did she see us yet? Did she see us?,Chandler,219,0,dia219_utt0.mp4
+anger,I know!,Joey,220,1,dia220_utt1.mp4
+neutral,"Hi, remember us?",Rachel,221,0,dia221_utt0.mp4
+neutral,"Um, okay. You just called a little while ago about needing a signature on the admissions form. Well, it turns out we need a",Monica,221,1,dia221_utt1.mp4
+neutral,I am. I'm,Monica,221,2,dia221_utt2.mp4
+neutral,"Yeah, and and, I'm just gonna pay for this with a check.",Rachel,221,3,dia221_utt3.mp4
+neutral,"Hey, Mon, if you were hoping to sleep with Joshua the first time tonight, which one of these would you want to be wearing.",Rachel,222,0,dia222_utt0.mp4
+neutral,Yknow what? It,Monica,222,1,dia222_utt1.mp4
+neutral,Sorry.,Rachel,222,2,dia222_utt2.mp4
+joy,Im so exited!,Rachel,222,3,dia222_utt3.mp4
+joy,Ive been waiting for this for months!,Rachel,222,4,dia222_utt4.mp4
+joy,I got my hair coloured!,Rachel,222,5,dia222_utt5.mp4
+joy,I got new sheets!,Rachel,222,6,dia222_utt6.mp4
+joy,Im making him a,Rachel,222,7,dia222_utt7.mp4
+neutral,What am I making him by the way?,Rachel,222,8,dia222_utt8.mp4
+neutral,"Well, youre making him a frieze salad with goat cheese and pine nuts, wild nuts, wild rice, roast asparagus, and salmon au croup.",Monica,222,9,dia222_utt9.mp4
+surprise,I thought I was making him filet mignon?,Rachel,222,10,dia222_utt10.mp4
+neutral,"Yeah, you were, but you decided to make salmon because you had some left over at the restaurant.",Monica,222,11,dia222_utt11.mp4
+anger,"And then you realised if you  bitched about it, then you  would stop cooking, and you  would have to make your famous baked potato and Diet Coke.",Monica,222,12,dia222_utt12.mp4
+surprise,"Wow, I really get crabby when I cook.",Rachel,222,13,dia222_utt13.mp4
+neutral,"Yknow its like uh, Biology!",Chandler,223,2,dia223_utt2.mp4
+neutral,"Check it out. Okay, I can play this when the guests are coming in. Okay.",Phoebe,223,4,dia223_utt4.mp4
+joy,Phoebe!,Monica,223,5,dia223_utt5.mp4
+neutral,"If you wouldve let me finish, it goes on to say that hes probably not gay.",Phoebe,223,6,dia223_utt6.mp4
+neutral,You are falling fast asleep.,Hypnosis Tape,224,0,dia224_utt0.mp4
+neutral,Deeper.,Hypnosis Tape,224,1,dia224_utt1.mp4
+neutral,Deeper.,Hypnosis Tape,224,2,dia224_utt2.mp4
+neutral,Deeper.,Hypnosis Tape,224,3,dia224_utt3.mp4
+neutral,You are now completely asleep.,Hypnosis Tape,224,4,dia224_utt4.mp4
+neutral,You dont need to smoke.,Hypnosis Tape,224,5,dia224_utt5.mp4
+neutral,Cigarettes dont control you.,Hypnosis Tape,224,6,dia224_utt6.mp4
+neutral,"You are a strong, confident woman, who does not need to smoke.",Hypnosis Tape,224,7,dia224_utt7.mp4
+neutral,"A strong, confident woman.",Hypnosis Tape,224,8,dia224_utt8.mp4
+neutral,"Thank you for your patience, youre the next caller.",Hold Voice,225,0,dia225_utt0.mp4
+joy,Yes!! Yes!! Im the next caller! You were gonna have me hang up.,Phoebe,225,1,dia225_utt1.mp4
+neutral,Hey! Can you take a duck and a chick to the theatre?,Chandler,225,2,dia225_utt2.mp4
+neutral,No.,Phoebe,225,4,dia225_utt4.mp4
+neutral,Okay. I just wanted them to hear it from somebody else.,Chandler,225,5,dia225_utt5.mp4
+neutral,So how are things going with Paul?,Phoebe,226,0,dia226_utt0.mp4
+joy,Good.,Rachel,226,1,dia226_utt1.mp4
+neutral,"Although yknow, he-hes a private guy.",Rachel,226,2,dia226_utt2.mp4
+neutral,Thats easy! You just have to think of him as a-as a jar of pickles that wont open.,Phoebe,226,4,dia226_utt4.mp4
+surprise,So what are you saying.  I should run him under hot water and bang his head against a table?,Rachel,226,5,dia226_utt5.mp4
+neutral,No thats what you do when you want to get the truth out of someone.,Phoebe,226,6,dia226_utt6.mp4
+neutral,Hi honey.,Paul,226,7,dia226_utt7.mp4
+joy,Hi!,Rachel,226,8,dia226_utt8.mp4
+surprise,"Monica, number one, I dont think Ben understands the concept of bribery, and number two, I...   What?!",Rachel,227,1,dia227_utt1.mp4
+neutral,You said number two.,Joey,227,2,dia227_utt2.mp4
+neutral,I also said number one.,Rachel,227,3,dia227_utt3.mp4
+neutral,Remind me to review with you which pot is decaf and which is regular.,Gunther,228,0,dia228_utt0.mp4
+neutral,Cant I just look at the handles on them?,Rachel,228,1,dia228_utt1.mp4
+neutral,You would think.,Gunther,228,2,dia228_utt2.mp4
+neutral,"Okay, fine.",Rachel,228,3,dia228_utt3.mp4
+anger,"Gunther, y'know what, I am a terrible waitress, do you know why Im a terrible waitress?",Rachel,228,4,dia228_utt4.mp4
+neutral,"Because, I dont care.",Rachel,228,5,dia228_utt5.mp4
+neutral,I dont care.,Rachel,228,6,dia228_utt6.mp4
+anger,"I dont care which pot is regular and which pot is decaf, I dont care where the tray spot is, I just dont care, this is not what I want to do.",Rachel,228,7,dia228_utt7.mp4
+surprise,What?!,Gunther,228,10,dia228_utt10.mp4
+surprise,Does this mean were gonna have to start paying for coffee?,Chandler,228,12,dia228_utt12.mp4
+joy,"Ohh, I mean its just so realistic!",Rachel,229,0,dia229_utt0.mp4
+neutral,"I know.  Yeah, his name is Pat.",Joey,229,1,dia229_utt1.mp4
+joy,Pat the dog. Oh! Oh! I get it!!,Rachel,229,2,dia229_utt2.mp4
+neutral,"Do you uh, do youready for a refill?",Joey,229,3,dia229_utt3.mp4
+surprise,"Oh, I probably shouldntso I will!  Oh! Wow! Its like its raining!",Rachel,229,4,dia229_utt4.mp4
+joy,"Pretty cool, huh?",Joey,229,5,dia229_utt5.mp4
+neutral,"But if youre thinking you can put a fish in there and it wouldnt get sucked up into the mechanism, well youd be wrong.",Joey,229,6,dia229_utt6.mp4
+neutral,"Umm, can I use your bathroom?",Rachel,229,7,dia229_utt7.mp4
+neutral,"Its uh, right through there.",Joey,229,8,dia229_utt8.mp4
+joy,"Okay.  God yknow, if someone told me a week ago that I would be peeing in Joey Tribbianis apartment",Rachel,229,9,dia229_utt9.mp4
+joy,"Yeah, lifes pretty great isnt it?",Joey,229,10,dia229_utt10.mp4
+neutral,"You know, I think I was sixteen.",Joey,230,0,dia230_utt0.mp4
+neutral,"Please, just a little bit off the back.",Monica,230,1,dia230_utt1.mp4
+neutral,"I'm still on ""no.""",Phoebe,230,2,dia230_utt2.mp4
+neutral,"Uh, morning. Do you guys think you could close your eyes for just a sec?",Rachel,230,3,dia230_utt3.mp4
+anger,"No-no-no-no-no,  I'm not fallin' for that again.",Joey,230,4,dia230_utt4.mp4
+neutral,What's goin' on?,Phoebe,230,5,dia230_utt5.mp4
+neutral,"Well, I sorta did a stupid thing last night.",Rachel,230,6,dia230_utt6.mp4
+neutral,What stupid thing did you do?,Chandler,230,7,dia230_utt7.mp4
+neutral,I know.,Chandler,231,0,dia231_utt0.mp4
+neutral,"See, yes.",Chandler,231,1,dia231_utt1.mp4
+neutral,"Thats Yasmine Bleeth, shes a completely different kind of chick.",Chandler,231,2,dia231_utt2.mp4
+neutral,I love you both.,Chandler,231,3,dia231_utt3.mp4
+neutral,But in very different ways.,Chandler,231,4,dia231_utt4.mp4
+surprise,Hey!,Joey,231,5,dia231_utt5.mp4
+surprise,Hey!,Chandler,231,6,dia231_utt6.mp4
+anger,"I did! But the store wouldnt take her back! So then I took her to the shelter, and you know what I found out?",Chandler,231,7,dia231_utt7.mp4
+anger,"If they cant find a home for her, they kill her! And Im not gonna let that happen to little Yasmine!",Chandler,231,8,dia231_utt8.mp4
+joy,"Thanks, Im glad you see it that way.",Chandler,231,12,dia231_utt12.mp4
+joy,"Ohhh-hoo, funny story!",Chandler,231,13,dia231_utt13.mp4
+neutral,"So Chandler, have you heard about Monica's secret boyfriend?",Rachel,232,0,dia232_utt0.mp4
+neutral,"Uhh, yeah. She uh, she uh, she uh might've mentioned him.",Chandler,232,1,dia232_utt1.mp4
+neutral,"So Mon, when are we gonna meet this new secret waiter man?",Rachel,232,2,dia232_utt2.mp4
+neutral,"Ohh, he's really shy. I-I dont think he's up to meeting everyone yet.",Monica,232,3,dia232_utt3.mp4
+neutral,"Yeah, I don't think he's up to meeting everyone yet.",Chandler,232,4,dia232_utt4.mp4
+joy,I dont care! I wanna meet this guy who's the best sex she ever had!,Rachel,232,5,dia232_utt5.mp4
+surprise,Really?! That's what you heard?  You said that?,Chandler,232,6,dia232_utt6.mp4
+neutral,I might've said that.  Why is that funny?,Monica,232,7,dia232_utt7.mp4
+joy,Because I'm very happy for him!  And,Chandler,232,8,dia232_utt8.mp4
+anger,Did you get all this stuff for Joey to try and drive me out of the apartment?,Rachel,233,0,dia233_utt0.mp4
+surprise,Fish!,Phoebe,233,2,dia233_utt2.mp4
+neutral,"It wouldn't have mattered anyway, Phoebe, you and I are, are gonna live together, we're roommates; that's the deal.",Rachel,233,3,dia233_utt3.mp4
+joy,"Oh, it's so much more fun with you.",Rachel,233,5,dia233_utt5.mp4
+joy,"We did have fun, didn't we?",Phoebe,233,6,dia233_utt6.mp4
+joy,We did!,Rachel,233,7,dia233_utt7.mp4
+neutral,"Oh, anyway, they say, if we want, we can see it tonight.",Phoebe,233,8,dia233_utt8.mp4
+joy,"Oh, I would love to!",Rachel,233,9,dia233_utt9.mp4
+joy,"Yay, okay!",Phoebe,233,10,dia233_utt10.mp4
+joy,"Good, good, good, good, good.",Rachel,233,11,dia233_utt11.mp4
+neutral,"Great, all right, okay, and Monica ask me to make the drumming stop.",Phoebe,233,12,dia233_utt12.mp4
+neutral,Um...  Done!,Rachel,233,13,dia233_utt13.mp4
+neutral,"Okay, its coffee.",Ross,234,0,dia234_utt0.mp4
+surprise,Ice coffee? Tell me its ice coffee!,Tommy,234,1,dia234_utt1.mp4
+neutral,Its-its hot,Ross,234,2,dia234_utt2.mp4
+surprise,Hot coffee!!!,Tommy,234,3,dia234_utt3.mp4
+anger,You idiot!!,Tommy,234,4,dia234_utt4.mp4
+anger,"You were gonna spill hot coffee all over me, huh?!!",Tommy,234,5,dia234_utt5.mp4
+anger,"What are you just some big, dumb, stupid, doofy idiot, with a doofy idiot hairdo, huh?!",Tommy,234,6,dia234_utt6.mp4
+anger,Huh?,Tommy,234,7,dia234_utt7.mp4
+neutral,Whats your favourite thing about summertime?,Rachel,234,8,dia234_utt8.mp4
+neutral,"Umm, going to the beach. When it stays light real late.",Monica,234,9,dia234_utt9.mp4
+neutral,Yeah,Rachel,234,10,dia234_utt10.mp4
+surprise,Hey!,Tommy,234,11,dia234_utt11.mp4
+joy,"Tommyyyy! Say, whats your favourite thing about summer?",Rachel,234,12,dia234_utt12.mp4
+neutral,"Ooh, I dont know. Probably the smell of freshly cut grass.",Tommy,234,13,dia234_utt13.mp4
+joy,"Ohh, thats a good one.",Chandler,234,14,dia234_utt14.mp4
+neutral,"OK, try this salmon mousse.",Monica,235,0,dia235_utt0.mp4
+joy,Mmmm. Good.,Joey,236,0,dia236_utt0.mp4
+neutral,Is it better than the other salmon mousse?,Monica,237,0,dia237_utt0.mp4
+neutral,It's creamier.,Joey,237,1,dia237_utt1.mp4
+neutral,"Yeah, well, is that",Monica,237,2,dia237_utt2.mp4
+surprise,My God! What happened to you?,Rachel,237,4,dia237_utt4.mp4
+anger,"""You are ideally suited for a career in data processing for a large multinational corporation.""",Chandler,237,6,dia237_utt6.mp4
+joy,That's so great! 'Cause you already know how to do that!,Phoebe,237,7,dia237_utt7.mp4
+anger,"Can you believe it? I mean, don't I seem like somebody who should be doing something really",Chandler,237,8,dia237_utt8.mp4
+joy,"Here you go, maybe this'll cheer you up.",Monica,237,10,dia237_utt10.mp4
+neutral,"Ooh, you know, I had a grape about five hours ago, so I'd better split this with you.",Chandler,237,11,dia237_utt11.mp4
+neutral,I thought it was gonna be a closed casket.,Ross,238,0,dia238_utt0.mp4
+neutral,"Sweetie, you think you can get in there?",Mrs. Geller,238,2,dia238_utt2.mp4
+neutral,I don't see why not.,Ross,238,3,dia238_utt3.mp4
+neutral,Here's my retainer!,Ross,238,4,dia238_utt4.mp4
+neutral,Someone in there?,Gunther,239,0,dia239_utt0.mp4
+anger,No. This is just part of a dare devil game that I play called wait until the last moment before I burst and die.,Chandler,239,1,dia239_utt1.mp4
+surprise,"Jeez, man did you fall.. Hi! So ah, did ya, did-did-did ya fall high?",Chandler,239,2,dia239_utt2.mp4
+neutral,"Someone was in the lady's room, I couldnt wait. I left the lid up for ya though.",Woman,239,3,dia239_utt3.mp4
+neutral,"Y'know what Gunther, go ah, go ahead, Im-Im talking to ah, .  This is the part where you say your name.",Chandler,239,4,dia239_utt4.mp4
+neutral,Ginger.,Woman,239,5,dia239_utt5.mp4
+neutral,"Ginger. Im talking to Ginger, so....",Chandler,239,6,dia239_utt6.mp4
+neutral,Dont you have to use the bathroom?,Ginger,239,7,dia239_utt7.mp4
+neutral,"Nope, nope, Id just ah, Id rather talk to you.",Chandler,239,8,dia239_utt8.mp4
+neutral,"Yes, I do.",Chandler,239,9,dia239_utt9.mp4
+neutral,"Yes, I do have to go to the bathroom.",Chandler,239,10,dia239_utt10.mp4
+neutral,Someone in here.,Gunther,239,11,dia239_utt11.mp4
+anger,"Im going to keep dating him Mother, and theres nothing you can do about it!",Dina,240,0,dia240_utt0.mp4
+anger,Oh yes there is!,Jessica Lockhart,240,1,dia240_utt1.mp4
+anger,What are you going to do? Kill him? Like you did with Charles?!,Dina,240,2,dia240_utt2.mp4
+surprise,That was a great scene! And-and-and that slap looks so real! How do you do that?,Joey,240,4,dia240_utt4.mp4
+neutral,"Oh, just years of experience.",Cecilia,240,5,dia240_utt5.mp4
+joy,"Oh anyway, I just wanted to say how wonderful I think you are.",Joey,240,7,dia240_utt7.mp4
+neutral,Youre not the fan whos dying are you?,Cecilia,240,8,dia240_utt8.mp4
+joy,"No. No, Im Joey Tribbiani; we did a scene together yesterday. I-Im the guy in the coma!",Joey,240,9,dia240_utt9.mp4
+surprise,Oh that was a real person?!,Cecilia,240,10,dia240_utt10.mp4
+neutral,"An-an-anyway I-I just wanted to say that since Im getting your brain when you leave the show, I was wondering if there was any tips you can give me",Joey,240,11,dia240_utt11.mp4
+surprise,I-I-Im leaving the show?,Cecilia,240,12,dia240_utt12.mp4
+neutral,I dont know. Why? Did you hear something?,Joey,240,13,dia240_utt13.mp4
+surprise,Who told you that?,Cecilia,240,14,dia240_utt14.mp4
+surprise,Which one? Was it bald or was it tall?,Cecilia,240,16,dia240_utt16.mp4
+neutral,Feel better?,Phoebe,241,0,dia241_utt0.mp4
+joy,Yeah!,Joey,241,1,dia241_utt1.mp4
+joy,Much!,Joey,241,2,dia241_utt2.mp4
+neutral,"Listen uh, not that Im yknow insecure about my manhood or anything yknow, but I think I need to hook up with a woman like right now.",Joey,241,3,dia241_utt3.mp4
+neutral,"Yeah, I understand.",Phoebe,241,4,dia241_utt4.mp4
+joy,Yeah! Okay!  Hey! Hi!,Joey,241,5,dia241_utt5.mp4
+joy,Hi!,Woman,241,6,dia241_utt6.mp4
+surprise,"Yknow, you look familiar. Do I know you from somewhere?",Joey,241,7,dia241_utt7.mp4
+neutral,I dont think so.,Woman,241,8,dia241_utt8.mp4
+joy,Oh! Maybe its because Im on television. Im an actor on,Joey,241,9,dia241_utt9.mp4
+surprise,Wow!,Woman,241,10,dia241_utt10.mp4
+neutral,Yeah.,Joey,241,11,dia241_utt11.mp4
+surprise,Really?!,Woman,241,12,dia241_utt12.mp4
+neutral,$4.50 please.,Waitress,241,13,dia241_utt13.mp4
+neutral,"Oh, let me get this.    These are for you.",Joey,241,14,dia241_utt14.mp4
+neutral,"Alright, alright, alright.",Chandler,242,0,dia242_utt0.mp4
+anger,It's been fourteen and a half minutes and you still have not said one word.,Chandler,242,1,dia242_utt1.mp4
+anger,"Oh God, do something.",Chandler,242,2,dia242_utt2.mp4
+anger,"Just make contact, smile!",Chandler,242,3,dia242_utt3.mp4
+joy,There you go!,Chandler,242,4,dia242_utt4.mp4
+neutral,You're definitely scaring here.,Chandler,242,5,dia242_utt5.mp4
+neutral,Would you like to call somebody?,Jill,242,6,dia242_utt6.mp4
+neutral,"Yeah, about 300 guys I went to high school with.",Chandler,242,7,dia242_utt7.mp4
+anger,"Okay! Feel free to look, but Im telling you those contracts are not on this desk.",Tag,243,0,dia243_utt0.mp4
+neutral,Oh,Rachel,243,1,dia243_utt1.mp4
+neutral,Its my sister.,Tag,243,2,dia243_utt2.mp4
+neutral,"Okay, very cute braces. Anyway yknow what, the",Rachel,243,3,dia243_utt3.mp4
+anger,So when do you imagine you gave them to me? In the morning or in the afternoon?,Tag,243,4,dia243_utt4.mp4
+neutral,"In the afternoon. Mr. Zelner came into my office after lunch. He put them on my desk, and then I put a",Rachel,243,5,dia243_utt5.mp4
+neutral,"Phoebe, she doesnt know that you sneak out every night, she doesnt know that you sneak back every morning, and she doesnt know that youve been living with your Grandmothers for a week now.",Ross,244,0,dia244_utt0.mp4
+neutral,"Okay, well maybe not on those levels.",Phoebe,244,1,dia244_utt1.mp4
+neutral,Hey.,Chandler,244,2,dia244_utt2.mp4
+neutral,Hey.,Ross,244,3,dia244_utt3.mp4
+neutral,"Why, nobody good?",Phoebe,244,5,dia244_utt5.mp4
+anger,"Oh-ho, and yes, the guy that enjoyed my name so much he felt the need to make a little noise every time he said it.",Chandler,244,8,dia244_utt8.mp4
+neutral,"Nice to meet you, Chandler Bing",Chandler,244,9,dia244_utt9.mp4
+neutral,So how many more do you have tomorrow?,Ross,244,10,dia244_utt10.mp4
+neutral,Two.,Chandler,244,11,dia244_utt11.mp4
+neutral,"This photographer, who seemed really dull.",Chandler,244,12,dia244_utt12.mp4
+neutral,"And this actor guy, who Im not sure about, because when he called and I answered the phone Chandler Bing, he said Whoa-whoa, short message.",Chandler,244,13,dia244_utt13.mp4
+neutral,"Ross , foot on the floor or come over no more!",Monica,244,14,dia244_utt14.mp4
+anger,"Sure, your dresser is missing but this she notices.",Ross,244,15,dia244_utt15.mp4
+neutral,What?,Monica,244,16,dia244_utt16.mp4
+neutral,"I have to go. Yeah, Carol should be home by now, soo...",Ross,244,17,dia244_utt17.mp4
+neutral,"Umm, hows it going with you guys?",Chandler,244,18,dia244_utt18.mp4
+neutral,"Oh, better, actually. Y'know I-I-I think I finally figured out why we were having so much trouble lately.",Ross,244,19,dia244_utt19.mp4
+surprise,"Oh, really?",Phoebe,244,20,dia244_utt20.mp4
+joy,"Yeah, y'know how I have you guys, well she doesnt really have any close friends that are just hers, but last week she meet this woman at the gym, Susan something, and they really hit it off, and I-I-I think its gonna make a difference",Ross,244,21,dia244_utt21.mp4
+neutral,Hey!,Rachel,245,0,dia245_utt0.mp4
+neutral,Hi!,Monica,245,1,dia245_utt1.mp4
+surprise,What-what are-what are these?,Rachel,245,2,dia245_utt2.mp4
+joy,"Oh, just some pictures I made and hung up. I thought theyd brighten up the place. They do dont you think?",Monica,245,3,dia245_utt3.mp4
+neutral,"Well, how-how come?",Joey,246,0,dia246_utt0.mp4
+neutral,Thats just the way it is.,Tour Guide,246,1,dia246_utt1.mp4
+surprise,Thats crazy.,Joey,246,2,dia246_utt2.mp4
+neutral,"Maybe its crazy in a perfect world, a world without lab coats and blazers, but you not in a perfect world, you in a museum now.",Tour Guide,246,3,dia246_utt3.mp4
+neutral,"See that scientist in the classes, he and I used to play together all the time in grade school, but now Peter!",Tour Guide,246,4,dia246_utt4.mp4
+neutral,"Hey, Peter!",Tour Guide,246,5,dia246_utt5.mp4
+neutral,Its me Rhonda!,Tour Guide,246,6,dia246_utt6.mp4
+neutral,From PS-129!,Tour Guide,246,7,dia246_utt7.mp4
+anger,I shared my puddin which you man!,Tour Guide,246,8,dia246_utt8.mp4
+neutral,I gave you my,Tour Guide,246,9,dia246_utt9.mp4
+neutral,I-I think everybodys pretending they dont hear you.,Joey,246,10,dia246_utt10.mp4
+neutral,"Anyway, look, I dont know about you and your jackets and your separate tables, but Ross is one of my best friends, and if I save him a seat, Im telling you, he",Joey,246,11,dia246_utt11.mp4
+neutral,"Thats okay, Im cool over here. Ill catch up with you later, Joey.",Ross,246,12,dia246_utt12.mp4
+neutral,"Op, this is saved.  Gift shop.",Tour Guide,246,13,dia246_utt13.mp4
+neutral,"Hows that coffee comin, dear?",Mr. Kaplan,247,0,dia247_utt0.mp4
+neutral,"Yeah, right away Mr. Kaplan.",Rachel,247,1,dia247_utt1.mp4
+neutral,"Im not supposed to drink coffee, it makes me gassy.",Mr. Kaplan,247,2,dia247_utt2.mp4
+joy,I know!,Rachel,247,3,dia247_utt3.mp4
+surprise,"Ill bet your thinking, Whats an intelligent girl who wants to be in fashion, doing making coffee? Eh?",Mr. Kaplan,247,4,dia247_utt4.mp4
+neutral,Op.,Rachel,248,0,dia248_utt0.mp4
+joy,Eh.,Mr. Kaplan,249,0,dia249_utt0.mp4
+neutral,"Oh, you got me.",Rachel,249,1,dia249_utt1.mp4
+neutral,"Well, dont think I havent noticed your potential.",Mr. Kaplan,249,2,dia249_utt2.mp4
+neutral,"Well, Ive got a project for you thats a lot more related to fashion.",Mr. Kaplan,249,3,dia249_utt3.mp4
+neutral,How does that sound?,Mr. Kaplan,249,4,dia249_utt4.mp4
+joy,"Oh, that sounds great.",Rachel,249,5,dia249_utt5.mp4
+neutral,"Come on over here, sweetheart.",Mr. Kaplan,249,6,dia249_utt6.mp4
+joy,"Oh thank you so much Mr. Kaplan, thank you so much.",Rachel,249,7,dia249_utt7.mp4
+neutral,No. But thanks.,Phoebe,250,1,dia250_utt1.mp4
+neutral,Okay. No. But thanks.,Phoebe,250,3,dia250_utt3.mp4
+neutral,"Okay, ah, see ya Pheebs.",Leslie,250,4,dia250_utt4.mp4
+surprise,"Wow, that was kinda brutal.",Joey,250,5,dia250_utt5.mp4
+neutral,"Well okay, let this be a lesson to all of you, all right.",Phoebe,250,6,dia250_utt6.mp4
+neutral,"Once you, once you betray me, I become like the ice woman, yknow.",Phoebe,250,7,dia250_utt7.mp4
+neutral,"Very cold, hard, unyielding, y'know nothing,",Phoebe,250,8,dia250_utt8.mp4
+surprise,Wow.,Alan,251,0,dia251_utt0.mp4
+neutral,"I'm, I'm really sorry.",Monica,251,1,dia251_utt1.mp4
+neutral,"Yeah, I'm sorry too. But, I gotta tell you, I am a little relieved.",Alan,251,2,dia251_utt2.mp4
+surprise,Relieved?,Monica,251,3,dia251_utt3.mp4
+neutral,"Yeah, well, I had a great time with you.. I just can't stand your friends.",Alan,251,4,dia251_utt4.mp4
+anger,"Oh my God! If you say that one more time,",Chandler,252,0,dia252_utt0.mp4
+anger,Fine!,Ross,252,1,dia252_utt1.mp4
+anger,Fine!,Ross,252,2,dia252_utt2.mp4
+anger,"But this break-up was not all my fault, and she, she says here,  If you accept full responsibility...  Full responsibility!",Ross,252,3,dia252_utt3.mp4
+anger,...I can begin to trust you again.,Ross,252,4,dia252_utt4.mp4
+anger,Does that seem like something you can do.,Ross,252,5,dia252_utt5.mp4
+anger,Does it?!,Ross,252,6,dia252_utt6.mp4
+surprise,No?,Joey,252,7,dia252_utt7.mp4
+neutral,"Look, Ross, you have what you want, youre back with Rachel.",Chandler,252,8,dia252_utt8.mp4
+neutral,If you bring this up now youre gonna wreck the best thing that even happened to you.,Chandler,252,9,dia252_utt9.mp4
+neutral,Yeah I guess Ill let it go.,Ross,252,12,dia252_utt12.mp4
+neutral,"Sure, its hard to forget!",Joey,252,14,dia252_utt14.mp4
+neutral,But that doesnt mean you have to talk about it!,Joey,252,15,dia252_utt15.mp4
+neutral,"A lot of things happened on that trip that we should never,  ever talk about.",Joey,252,16,dia252_utt16.mp4
+surprise,What the hell happened on that beach?!,Ross,252,17,dia252_utt17.mp4
+neutral,"Its between us and the sea, Ross!",Joey,252,18,dia252_utt18.mp4
+joy,I didnt think you were gay. I do now.,Drew,253,0,dia253_utt0.mp4
+neutral,"See my friend-my friend, Rachel, she wants to be set up.",Chandler,253,1,dia253_utt1.mp4
+neutral,"Oh, yknow what, that might be okay even if it was just kind of a fling, that might be all right with Rachel.",Chandler,253,3,dia253_utt3.mp4
+surprise,"Whoa-whoa-whoa-whoa! Is this, hot Rachel, that you took to the Christmas party, Rachel?",Mike,253,4,dia253_utt4.mp4
+neutral,"Oh, by the way, that is her full name.",Chandler,253,5,dia253_utt5.mp4
+joy,Oh wow! Im free for her!,Mike,253,6,dia253_utt6.mp4
+surprise,"Oh, wait a second! I didnt say I wasnt free!",Drew,253,7,dia253_utt7.mp4
+neutral,"Hey, Chandler, why dont we talk this over at the Ranger game tomorrow?",Mike,253,8,dia253_utt8.mp4
+neutral,"Hold on, yknow I",Drew,253,9,dia253_utt9.mp4
+joy,"Oh well, thats uh, a little later than I uh, generally care to stay, but sure!",Chandler,253,10,dia253_utt10.mp4
+neutral,"Maybe, before the game we could enjoy some eight year old some small batch Basel Hadens.",Mike,253,11,dia253_utt11.mp4
+neutral,"Well, I dont really know what that is, but",Chandler,253,12,dia253_utt12.mp4
+neutral,"Monica, let's go. Come on now people, woman in labor.",Ross,254,0,dia254_utt0.mp4
+neutral,"Hey Ross, look what I've got going here.",Chandler,254,1,dia254_utt1.mp4
+surprise,What are you doing? We're going to a hospital.,Ross,254,3,dia254_utt3.mp4
+neutral,"What, so I can't lokk nice? There might be doctors there.",Rachel,254,4,dia254_utt4.mp4
+anger,"Joey, get out of the fridge.",Ross,254,5,dia254_utt5.mp4
+anger,"All right, all right.",Joey,254,6,dia254_utt6.mp4
+surprise,What is that?,Ross,254,7,dia254_utt7.mp4
+neutral,For the ride.,Joey,254,8,dia254_utt8.mp4
+neutral,"Yeah, like in a cab...",Chandler,254,9,dia254_utt9.mp4
+neutral,Save it.,Ross,254,10,dia254_utt10.mp4
+neutral,"Monica, come on now. Let's go, baby coming.",Ross,254,12,dia254_utt12.mp4
+joy,"I can't belive it, I'm gonna be an aunt. I'm gonna have like a nephew.",Monica,254,13,dia254_utt13.mp4
+anger,"All right, I'm going. I'm going.",Joey,254,15,dia254_utt15.mp4
+neutral,"Here we go, here we go.",Chandler,254,16,dia254_utt16.mp4
+neutral,"Rossy, Rossy.",Rachel,254,17,dia254_utt17.mp4
+anger,WHAT IS IT?!,Chandler,255,0,dia255_utt0.mp4
+joy,"Okay, I-I d'know, you-you just- you have a quality.",Monica,255,1,dia255_utt1.mp4
+neutral,Yes. Absolutely. A quality.,All,255,2,dia255_utt2.mp4
+neutral,"Oh, oh, a quality, good, because I was worried you guys were gonna be vague about this.",Chandler,255,3,dia255_utt3.mp4
+joy,"Hello? Hello? Oh! Rachel, it's Paolo calling from Rome.",Monica,255,4,dia255_utt4.mp4
+surprise,Oh my God! Calling from Rome!,Rachel,255,5,dia255_utt5.mp4
+neutral,So he's calling from Rome. I could do that. Just gotta go to Rome.,Ross,255,6,dia255_utt6.mp4
+joy,"Monica, your dad just beeped in, but can you make it quick? Talking to Rome.  I'm talking to Rome.",Rachel,255,7,dia255_utt7.mp4
+joy,"So um, so what's up, you came to see me yesterday.",Phoebe,256,0,dia256_utt0.mp4
+neutral,"Oh, yeah, um, alright, I kinda need a divorce.",Duncan,256,1,dia256_utt1.mp4
+neutral,"Oh, yeah, yeah, sure. We live in the building by the uh sidewalk.",Joey,257,0,dia257_utt0.mp4
+surprise,You know it?,Chandler,257,1,dia257_utt1.mp4
+neutral,"Hey, look, since we're neighbors and all, what do you say we uh, get together for a drink?",Joey,257,2,dia257_utt2.mp4
+neutral,"Oh, sure, they love us over there.",Chandler,257,3,dia257_utt3.mp4
+joy,Ben! Ben! Ben!,Joey,257,4,dia257_utt4.mp4
+neutral,How about Joey... Pepponi?,Chandler,258,0,dia258_utt0.mp4
+neutral,"No, still too ethnic. My agent thinks I should have a name that's more neutral.",Joey,258,1,dia258_utt1.mp4
+neutral,Joey... Switzerland?,Chandler,258,2,dia258_utt2.mp4
+neutral,"Plus, y'know, I think it should be Joe.",Joey,258,3,dia258_utt3.mp4
+neutral,"Y'know, Joey makes me sound like I'm, I dunno, this big.",Joey,258,4,dia258_utt4.mp4
+neutral,Which I'm not.,Joey,258,5,dia258_utt5.mp4
+neutral,Joe...Joe...Joe...Stalin?,Chandler,258,6,dia258_utt6.mp4
+neutral,Stalin...Stalin...do I know that name? It sounds familiar.,Joey,258,7,dia258_utt7.mp4
+neutral,"Well, it does not ring a bell with me...",Chandler,258,8,dia258_utt8.mp4
+joy,"Joe Stalin. Y'know, that's pretty good.",Joey,258,9,dia258_utt9.mp4
+neutral,Might wanna try Joseph.,Chandler,258,10,dia258_utt10.mp4
+joy,Joseph Stalin. I think you'd remember that!,Joey,258,11,dia258_utt11.mp4
+joy,"Oh yes! Bye Bye Birdie, starring Joseph Stalin. Joseph Stalin is the Fiddler on the Roof.",Chandler,258,12,dia258_utt12.mp4
+surprise,Are you kidding?,Ross,259,0,dia259_utt0.mp4
+neutral,"Okay, look.",Ross,259,1,dia259_utt1.mp4
+joy,I-I studied evolution.,Ross,259,2,dia259_utt2.mp4
+joy,"Remember, evolution?",Ross,259,3,dia259_utt3.mp4
+anger,Monkey into man?,Ross,259,4,dia259_utt4.mp4
+neutral,"Plus, Im a doctor, and I had a monkey.",Ross,259,5,dia259_utt5.mp4
+anger,Im Doctor Monkey!,Ross,259,6,dia259_utt6.mp4
+neutral,Im not arguing with that.,Chandler,259,7,dia259_utt7.mp4
+neutral,"All right, Ive heard enough. Ive made my decision.",Monica,259,8,dia259_utt8.mp4
+anger,"You shouldnt be arguing over who gets credit, you should be arguing over who gets blamed for inflicting this horrible joke upon the world!",Monica,259,11,dia259_utt11.mp4
+anger,Now let it go!,Monica,259,12,dia259_utt12.mp4
+anger,The joke sucks!,Monica,259,13,dia259_utt13.mp4
+neutral,Its your joke.,Ross,259,14,dia259_utt14.mp4
+anger,Is not.,Chandler,259,15,dia259_utt15.mp4
+joy,"Hey everybody, Rachel was so good today. She didn't gossip at all.",Phoebe,260,0,dia260_utt0.mp4
+joy,I didnt!,Rachel,260,1,dia260_utt1.mp4
+neutral,"Even when I found outumm, all right, well let's just say I found something out something about someone and let's just say she's gonna keep it.",Rachel,260,2,dia260_utt2.mp4
+joy,"Hey, Pheebs! Check-check this out.",Joey,260,3,dia260_utt3.mp4
+surprise,"Ooh, you nailed the Old Lady!",Phoebe,260,4,dia260_utt4.mp4
+neutral,"Yeah listen so, I thought I was getting better, so on my way home today I stopped by this guitar store and",Joey,260,5,dia260_utt5.mp4
+anger,"Did you, did you",Phoebe,260,6,dia260_utt6.mp4
+neutral,No.,Joey,260,7,dia260_utt7.mp4
+anger,Give me your hands.  Strings. Gimme it!  Pick. Do you want to learn to play guitar?,Phoebe,260,8,dia260_utt8.mp4
+joy,Yes!,Joey,260,9,dia260_utt9.mp4
+anger,Then don't touch one!!,Phoebe,260,10,dia260_utt10.mp4
+surprise,Really? You'd-you'd do that for me?!,Joey,261,0,dia261_utt0.mp4
+joy,Yeah!,Ross,261,1,dia261_utt1.mp4
+joy,Thanks!,Joey,261,2,dia261_utt2.mp4
+neutral,"All right, we'll start off slow. The only thing you have to do tonight is come up with the name of your main character.",Ross,261,3,dia261_utt3.mp4
+joy,Done!,Joey,261,4,dia261_utt4.mp4
+neutral,And it can't be Joey.,Ross,261,5,dia261_utt5.mp4
+neutral,It's not.,Joey,261,6,dia261_utt6.mp4
+neutral,Or Joseph.,Ross,261,7,dia261_utt7.mp4
+neutral,Oh.,Joey,261,8,dia261_utt8.mp4
+neutral,Hi!,Pete,262,0,dia262_utt0.mp4
+joy,"Hi! Hey, Pete youre back! Hey, check this out.",Monica,262,1,dia262_utt1.mp4
+joy,Wow! Skates!,Pete,262,2,dia262_utt2.mp4
+surprise,Wow! Youre a lot sturdier that Chandler. He crumpled like a piece of paper. So how was youre trip?,Monica,262,3,dia262_utt3.mp4
+neutral,Well...,Pete,262,4,dia262_utt4.mp4
+joy,"Oh, whatd ya bring me?!",Monica,262,5,dia262_utt5.mp4
+joy,"Awww, hotel toiletries from Japan.",Monica,262,6,dia262_utt6.mp4
+joy,"Oh, these are gonna go in my permanent collection.",Monica,262,7,dia262_utt7.mp4
+neutral,You want some coffee?,Monica,262,8,dia262_utt8.mp4
+neutral,"Yeah, sure, thatd be great.",Pete,262,9,dia262_utt9.mp4
+neutral,Regular or decaf?,Monica,262,10,dia262_utt10.mp4
+neutral,"Ah, which ever is closest.",Pete,262,11,dia262_utt11.mp4
+neutral,Okay.,Monica,262,12,dia262_utt12.mp4
+neutral,So ask me what I did today.,Pete,262,13,dia262_utt13.mp4
+neutral,So what did you do today Pete?,Monica,262,14,dia262_utt14.mp4
+joy,I bought a restaurant and I would like you to be the head chef.,Pete,262,15,dia262_utt15.mp4
+surprise,What?! Oh.,Monica,262,16,dia262_utt16.mp4
+neutral,Hi.,Ross,263,0,dia263_utt0.mp4
+neutral,Hey.,Joey,263,1,dia263_utt1.mp4
+neutral,Where've you been?,Joey,263,2,dia263_utt2.mp4
+neutral,At the vet.,Ross,263,3,dia263_utt3.mp4
+joy,Hey! He beat ya.,Joey,263,6,dia263_utt6.mp4
+neutral,So what does this mean?,Chandler,263,8,dia263_utt8.mp4
+anger,Aww man! I cant believe I locked myself out again!,Joey,264,0,dia264_utt0.mp4
+anger,Hang on buddy!,Chandler,264,1,dia264_utt1.mp4
+surprise,Oh my God! What happened here? Did you do all this?,Joey,264,2,dia264_utt2.mp4
+neutral,I sure did.,Chandler,264,3,dia264_utt3.mp4
+surprise,"But we haven't seen each other since then. Well I land in China, guess who's in charge of the dig.",Ross,265,0,dia265_utt0.mp4
+joy,"Julie! Julie, isn't that great? I mean, isn't that just kick- you-in-the-crotch, spit-on-your-neck fantastic?",Rachel,265,1,dia265_utt1.mp4
+neutral,May I come in?,Ross,266,0,dia266_utt0.mp4
+neutral,"Uh, yeah, if you want too.",Rachel,266,1,dia266_utt1.mp4
+neutral,Do,Ross,266,2,dia266_utt2.mp4
+neutral,"Yeah, sure?",Rachel,266,3,dia266_utt3.mp4
+neutral,So do I.,Ross,266,4,dia266_utt4.mp4
+neutral,"Okay Rach, before anything happens  I just want to lay down a couple of ground rules.",Ross,266,5,dia266_utt5.mp4
+neutral,This is just about tonight.,Ross,266,6,dia266_utt6.mp4
+neutral,"I don't to go through with this if it's going to raise the question of ""Us.""",Ross,266,7,dia266_utt7.mp4
+joy,I just want this to be  about what it is!,Ross,266,8,dia266_utt8.mp4
+neutral,"And um, what-what is that Ross?",Rachel,266,9,dia266_utt9.mp4
+joy,The physical act of love.,Ross,266,10,dia266_utt10.mp4
+surprise,What?! Are you crazy?,Rachel,266,11,dia266_utt11.mp4
+surprise,Oh so-so you weren't trying to entice me just now with your-your nakedness?,Ross,266,12,dia266_utt12.mp4
+surprise,"Oh God, you saw me?! Oh!",Rachel,266,13,dia266_utt13.mp4
+joy,You weren't trying to entice me with your nakedness.,Ross,266,14,dia266_utt14.mp4
+anger,"Noo!! No! You thought, you actually thought I wanted to have sex with you?!",Rachel,266,15,dia266_utt15.mp4
+joy,No! No!  No!  No-no-no-no.,Ross,266,16,dia266_utt16.mp4
+neutral,Ah Joey.,Director,267,0,dia267_utt0.mp4
+neutral,Joey Tribbiani.,Director,267,1,dia267_utt1.mp4
+neutral,"Listen Joey, I got a problem, I just got a call from my dance captain, he's having a relationship crisis and can't get out of Long Island.",Director,267,2,dia267_utt2.mp4
+neutral,"Listen Joey, seeing as you've got the most experience, I want you to take these dancers and show them the combination.",Director,267,4,dia267_utt4.mp4
+surprise,What?!,Joey,267,5,dia267_utt5.mp4
+neutral,"Aw come on Joey, it's easy.",Director,267,6,dia267_utt6.mp4
+neutral,"Y'know, it's hand, hand, head, head,  up, pas de bouree, pas de bouree, big turn here, grand sissone, sissone, sissone, slide back, step, step, step, and jazz hands!",Director,267,7,dia267_utt7.mp4
+neutral,Have fun.,Director,267,9,dia267_utt9.mp4
+neutral,Bye.,Joey,267,10,dia267_utt10.mp4
+surprise,Wow! Fortunately she has a,Chandler,268,0,dia268_utt0.mp4
+surprise,"Oh, I so can't believe this! My uterus is an inhospitable environment? I was trying so hard to be a good hostess!",Monica,268,1,dia268_utt1.mp4
+surprise,"Oh, I can't believe my sperm have low motility because, let me tell you, when I was growing up they sure seem to be in a hurry to get places!",Chandler,268,2,dia268_utt2.mp4
+neutral,Hi there.,Doctor Connelly,268,3,dia268_utt3.mp4
+neutral,Hi.,Chandler,268,4,dia268_utt4.mp4
+neutral,Hi.,Monica,268,5,dia268_utt5.mp4
+neutral,I'm sorry there wasn't better news from your test last week but I wanted to talk to you about your options.,Doctor Connelly,268,6,dia268_utt6.mp4
+neutral,Ok.,Monica,268,7,dia268_utt7.mp4
+neutral,"Above all, even though your chances of conceiving through natural means aren't great, you never know!",Doctor Connelly,268,8,dia268_utt8.mp4
+neutral,"So, keep having sex on a regular basis.",Doctor Connelly,268,9,dia268_utt9.mp4
+anger,"Oh, DAMN IT!",Chandler,268,10,dia268_utt10.mp4
+neutral,"Don't worry, after a while he'll tune it out.",Monica,268,11,dia268_utt11.mp4
+neutral,"Ok, given your situation, the options with the greatest chances for success would be surrogacy, or insemination using a sperm donor.",Doctor Connelly,268,12,dia268_utt12.mp4
+neutral,Ok.,Monica,268,13,dia268_utt13.mp4
+neutral,"Well, y'know, monogamy can be a, uh, tricky concept. I mean, anthropologically speaking-",Ross,269,0,dia269_utt0.mp4
+anger,"Fine. Fine, alright, now you'll never know.",Ross,269,1,dia269_utt1.mp4
+joy,"We're kidding. C'mon, tell us!",Monica,269,2,dia269_utt2.mp4
+joy,Yeah! C'mon!,All,269,3,dia269_utt3.mp4
+neutral,"Alright. There's a theory, put forth by Richard Leakey-",Ross,269,4,dia269_utt4.mp4
+neutral,"Hi, is uh, is Carol here?",Ross,270,0,dia270_utt0.mp4
+neutral,"No, she's at a faculty meeting.",Susan,270,1,dia270_utt1.mp4
+neutral,"Oh, I uh, just came by to pick up my skull. Well, not mine, but...",Ross,270,2,dia270_utt2.mp4
+neutral,Come in.,Susan,270,3,dia270_utt3.mp4
+neutral,"Thanks. Yeah, Carol borrowed it for a class, and I have to get it back to the museum.",Ross,270,4,dia270_utt4.mp4
+neutral,What's it look like?,Susan,270,5,dia270_utt5.mp4
+neutral,Kinda like a big face without skin.,Ross,270,6,dia270_utt6.mp4
+neutral,"Yes, I'm familiar with the concept. We can just look for it.",Susan,270,7,dia270_utt7.mp4
+surprise,"Ok.  Wow, you guys sure have a lot of books about bein' a lesbian.",Ross,270,8,dia270_utt8.mp4
+neutral,"Well, you know, you have to take a course. Otherwise, they don't let you do it.",Susan,270,9,dia270_utt9.mp4
+joy,"Hey, hey, Yertle the Turtle. A classic.",Ross,270,10,dia270_utt10.mp4
+neutral,"Actually, I'm reading it to the baby.",Susan,270,11,dia270_utt11.mp4
+surprise,"The uh, the baby that hasn't been born yet? Wouldn't that mean you're... crazy?",Ross,270,12,dia270_utt12.mp4
+joy,"What, you don't think they can hear sounds in there?",Susan,270,13,dia270_utt13.mp4
+surprise,"You're not serious, I mean, you really... you really talk to it?",Ross,270,14,dia270_utt14.mp4
+neutral,I have no idea what you just said.,Monica,271,0,dia271_utt0.mp4
+neutral,Put Joey on the phone.,Chandler,271,1,dia271_utt1.mp4
+neutral,What's up man?,Joey,271,2,dia271_utt2.mp4
+surprise,"Oh my God! He's trapped in an ATM vestibule with Jill Goodacre!  Chandler, listen.",Joey,271,4,dia271_utt4.mp4
+neutral,"Yeah, like that thought never entered my mind.",Chandler,271,5,dia271_utt5.mp4
+neutral,and that was all before 10 oclock.,Emily,272,0,dia272_utt0.mp4
+neutral,The caterer rang and said it was going to be Chicken Kiev instead of Chicken Tarragon.,Emily,272,1,dia272_utt1.mp4
+neutral,And then the florist phoned to say there arent any tulips.,Emily,272,2,dia272_utt2.mp4
+neutral,"Oh, and the chilliest has carpel-tunel syndrome.",Emily,272,3,dia272_utt3.mp4
+surprise,"Whoa-whoa-whoa! Emily,  honey, okay?",Ross,272,4,dia272_utt4.mp4
+anger,"Well, up yours too!",Emily,272,5,dia272_utt5.mp4
+neutral,Wheres Chandler?,Phoebe,273,0,dia273_utt0.mp4
+surprise,"Ah, he cant make it, he said he had to his...  Whoa-oh!",Joey,273,1,dia273_utt1.mp4
+neutral,Joey? Joey Tribbiani?,Ginger,273,2,dia273_utt2.mp4
+neutral,Joey I can see you okay? Youre hiding behind the coats.,Ginger,273,3,dia273_utt3.mp4
+neutral,"Okay listen, just give me anything I can make two of.",Chandler,274,0,dia274_utt0.mp4
+neutral,"Well, if you dont have anything to copy, why are you going down there?",Monica,274,1,dia274_utt1.mp4
+anger,"Yeah, are you just going down there to gawk at that hot girl with the belly button ring again?",Joey,274,2,dia274_utt2.mp4
+joy,Yeah! You wanna come?,Chandler,274,3,dia274_utt3.mp4
+joy,Yeah!,Joey,274,4,dia274_utt4.mp4
+neutral,Fine.,Ross,275,0,dia275_utt0.mp4
+neutral,Fine.,Joey,275,1,dia275_utt1.mp4
+neutral,Fine.,Rachel,275,2,dia275_utt2.mp4
+neutral,All right. We're gonna go.  It's not for another six hours. We're gonna go then.,Monica,275,3,dia275_utt3.mp4
+neutral,Hey.,Chandler,276,0,dia276_utt0.mp4
+surprise,Oh Willies still alive!,Phoebe,278,1,dia278_utt1.mp4
+neutral,What are you guys doing?,Chandler,278,2,dia278_utt2.mp4
+joy,"Oh, my mom called, theyre gonna run our engagement announcement in the local paper, so were looking for a good picture of us.",Monica,278,3,dia278_utt3.mp4
+neutral,"Oooh, Im afraid that does not exist.",Chandler,278,4,dia278_utt4.mp4
+surprise,"Thats not true, there are great pictures of us!",Monica,278,5,dia278_utt5.mp4
+neutral,"No, there are great pictures of you standing next to a guy whos going like this",Chandler,278,6,dia278_utt6.mp4
+surprise,Oh my God! Thats the creep that youre with at the,Phoebe,278,7,dia278_utt7.mp4
+joy,"Oh, heres a great one.",Monica,278,9,dia278_utt9.mp4
+neutral,"Yeah, Im not in that.",Chandler,278,10,dia278_utt10.mp4
+joy,"I know, but look at me: all tan.",Monica,278,11,dia278_utt11.mp4
+neutral,"Hey, why dont you guys go get portraits done by a professional photographer.",Phoebe,278,12,dia278_utt12.mp4
+joy,Thats a good idea! I bet they have one of those wind machines! Yknow,Monica,278,13,dia278_utt13.mp4
+neutral,"Yeah thats great! Next to that, Chandler wont look so stupid.",Phoebe,278,14,dia278_utt14.mp4
+neutral,Chandler what do you say?,Monica,278,15,dia278_utt15.mp4
+neutral,"All right, but I should warn you, Im not going. Im going.",Chandler,278,16,dia278_utt16.mp4
+anger,Gimme them!,Monica,279,0,dia279_utt0.mp4
+anger,No! They are mine!,Rachel,279,1,dia279_utt1.mp4
+anger,You stole them from me!,Monica,279,2,dia279_utt2.mp4
+anger,You stole them from me!!,Rachel,279,3,dia279_utt3.mp4
+anger,Gimme them!,Monica,279,4,dia279_utt4.mp4
+neutral,You just wanna each take one?,Monica,279,5,dia279_utt5.mp4
+neutral,Yeah that seems fair. We never use them.,Rachel,279,6,dia279_utt6.mp4
+anger,"Look, I really need some help, okay? Why? Why did I have to speak in a British accent?! What do I do?",Ross,279,7,dia279_utt7.mp4
+neutral,Well,Rachel,279,8,dia279_utt8.mp4
+neutral,Why don’t you phase it out?,Monica,279,9,dia279_utt9.mp4
+anger,"Yeah, fade the accent out and people will think you’re, y’know, that you’re adjusting to life in America.",Monica,279,10,dia279_utt10.mp4
+neutral,"Yeah, I mean, come on Ross, no one will even notice. I mean they’re probably not even listening!",Rachel,279,11,dia279_utt11.mp4
+surprise,They’re not listening too me?,Ross,279,12,dia279_utt12.mp4
+neutral,Of course they’re listening to you! Everybody listens to you.,Rachel,279,13,dia279_utt13.mp4
+neutral,Monica you really think I should try this phasing out thing?,Ross,279,14,dia279_utt14.mp4
+neutral,I think you look fine.,Monica,279,15,dia279_utt15.mp4
